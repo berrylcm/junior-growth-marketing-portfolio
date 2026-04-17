@@ -20,6 +20,7 @@ Specialist role at 100Hires.
 6. Created a GitHub account and set up a public repository
 7. Cloned the repository into Cursor using `git clone`
 8. Documented the process and used Claude to format this README
+9. Typed to Cursor and asked it to commit and push it directly via GitHub
 
 ## Challenges & How I Solved Them
 Coming from a non-IT background, some steps required extra research:
