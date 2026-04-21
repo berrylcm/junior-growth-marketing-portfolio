@@ -1,0 +1,445 @@
+# YouTube Transcript
+
+- Source URL: https://www.youtube.com/watch?v=NwQb_U_hxxQ
+- Language: en
+
+## Transcript
+
+- [400.00s] Noise. No. I mean, there is so much
+- [2240.00s] noise.
+- [3840.00s] It's hard to stand out, isn't it? Are
+- [6640.00s] you saying to yourself, "Man, I just
+- [8080.00s] feel like, you know, there's just so
+- [9920.00s] much content out there and there's so
+- [11440.00s] many new businesses. There's so many new
+- [13040.00s] competitors. How do I stand out?" Well,
+- [17840.00s] you one of the biggest keys to standing
+- [19600.00s] out is you've got to learn to become a
+- [22960.00s] rule breaker. That's right, a rule
+- [25600.00s] breaker. But the problem is most
+- [28400.00s] organizations are what I would call rule
+- [31279.00s] followers. But this much I know the rule
+- [34160.00s] breakers eventually become the rule
+- [36719.00s] makers and everyone else becomes a
+- [40160.00s] follower. And in this video, we're going
+- [42640.00s] to talk about how you can think outside
+- [45120.00s] that box, how you can dare to be
+- [47920.00s] different, and how you can start to do
+- [51120.00s] things from a sales and marketing
+- [52559.00s] perspective that no one in your space
+- [54960.00s] has ever done. And if you do this, I
+- [57600.00s] promise you, you're going to become more
+- [58879.00s] known, you're going to become more
+- [60559.00s] trusted, and you're going to stand out.
+- [62800.00s] So, let's get into it right now.
+- [68960.00s] What's up, friends? Marcus Sheridan here
+- [71439.00s] with you. Welcome back to Known and
+- [73280.00s] Trusted. This is where I help you, your
+- [75520.00s] business, your brand
+- [77759.00s] to stand out. And it's not always easy,
+- [82159.00s] but
+- [83680.00s] if you really want to do it and you want
+- [85520.00s] to fast track it instead of just
+- [87600.00s] grinding grinding grinding which
+- [89680.00s] you're always going to have a lot of
+- [90880.00s] work, you have to be willing to break
+- [93439.00s] some rules. And I want to talk to you in
+- [95920.00s] this video about some rules that you can
+- [97520.00s] break from a sales and marketing
+- [99200.00s] standpoint. Let's start with let's start
+- [100799.00s] with marketing.
+- [102880.00s] If I asked you right now, what are you
+- [105439.00s] doing that no one in your space is
+- [108720.00s] doing?
+- [110399.00s] Could you immediately say something?
+- [112720.00s] Now, let's get even more specific. And
+- [114799.00s] if you've read my book, Endless
+- [116000.00s] Customers, you see in there that we talk
+- [118479.00s] about the four pillars of a known and
+- [120079.00s] trusted brand. And those four pillars
+- [122320.00s] can guide you especially from a
+- [124399.00s] marketing perspective but sales two on
+- [127200.00s] like what can you do differently. So the
+- [130479.00s] first two pillars are you willing to say
+- [133280.00s] what others aren't willing to say and
+- [135360.00s] number two are you willing to show with
+- [137200.00s] video what others in your space aren't
+- [139280.00s] willing to show. So, if you think about
+- [142239.00s] some of the content that you have on
+- [143760.00s] social, on uh your website, are you
+- [146800.00s] talking about any subjects that your
+- [149120.00s] competitors just aren't willing to talk
+- [151599.00s] about? Let me give you the classic
+- [153920.00s] example from my life that completely
+- [156480.00s] changed my world and it led to me
+- [159920.00s] building a massive organization in terms
+- [163040.00s] of riverpools becoming the most
+- [165200.00s] trafficked swimming pool website in the
+- [166640.00s] world. Now, this is a company I started
+- [167920.00s] in 2001. We were struggling in 2008
+- [171440.00s] because the market collapsed. 2009 it
+- [175120.00s] looked like definitively we were going
+- [176480.00s] to lose the business and I was going to
+- [177840.00s] file bankruptcy. But the beauty of pain
+- [180400.00s] and suffering is it forces us outside of
+- [182480.00s] our proverbial comfort zone, that box,
+- [184959.00s] right? And that's when I started to
+- [187440.00s] really lean into buyers and how buyers
+- [190239.00s] were changing. And I was noticing, you
+- [192159.00s] know, I was very self-aware in terms of
+- [193680.00s] how I was starting to use the internet
+- [195040.00s] and the questions that I was asking. And
+- [196640.00s] I said, "Well, I think our our customers
+- [199040.00s] have the same have the exact same
+- [200800.00s] questions." So, I wrote uh a page of our
+- [203920.00s] site, an article of our website about
+- [206800.00s] how much does a fiberglass swimming pool
+- [209120.00s] cost. Now, here's what's interesting.
+- [212319.00s] The year was 2009. At that point, no one
+- [215760.00s] in the world had addressed how much a
+- [218319.00s] fiberglass pool costs on their website.
+- [221360.00s] We were the first company in the world.
+- [223840.00s] Now, it seemed obvious to me like why
+- [226720.00s] would everyone not do this? I was like,
+- [228560.00s] I keep getting asked this question all
+- [229920.00s] the time. First question they'll ask on
+- [232080.00s] the phone is I'm not going to hold you
+- [233280.00s] to it, Marcus, but just like give me a
+- [235040.00s] sense here. What are we looking at? So,
+- [236480.00s] I was like, of course, I would address
+- [237840.00s] this. I didn't know that I wasn't
+- [240879.00s] supposed to. That this is something that
+- [243040.00s] in industries to this day, they don't
+- [245040.00s] do. Well, to make a long story short, if
+- [247200.00s] you read they ask you answer my first
+- [248560.00s] book or endless customers, you know the
+- [250400.00s] impact financially that that one article
+- [252560.00s] had because we were able to track using
+- [254319.00s] HubSpot. We could track how many leads
+- [256560.00s] we generated from that one single
+- [258000.00s] article. It's equated to just our
+- [259919.00s] company in Virginia, over $35 million in
+- [262079.00s] sales that we wouldn't have had we not
+- [264560.00s] been willing to address the question.
+- [266880.00s] And we didn't even say exactly how much
+- [268320.00s] a fiberglass pool costs. But we talked
+- [269840.00s] about what drives the cost up and what
+- [271120.00s] drives the cost down, why some pool
+- [272800.00s] companies are expensive, why some pool
+- [274160.00s] companies are cheap. But we were the
+- [276000.00s] first in the entire world to do this.
+- [279840.00s] And from an SEO perspective, if you
+- [281680.00s] started searching anything to do with
+- [283520.00s] fiberglass pool cost or price of a
+- [285280.00s] fiberglass pool or price of an ingground
+- [286800.00s] pool, this was the first thing that you
+- [288320.00s] saw. Now, that was magical, right? We
+- [291759.00s] broke a major rule. Nobody had done
+- [295680.00s] that. talk about another rule that we
+- [297759.00s] broke during the time. We used to get
+- [299600.00s] asked all the time, what are the
+- [300720.00s] problems with a fiberglass pool? Is it
+- [302160.00s] true that fiberglass pools are ugly? Do
+- [304000.00s] they crack? Do they pop out of the
+- [305759.00s] ground? Do they look like a bathtub? I
+- [307680.00s] mean, it's like all these things that
+- [310160.00s] people would ask us. And I said, well,
+- [311840.00s] if they're asking us these questions, I
+- [313759.00s] should address it. Now, see, most
+- [315280.00s] fiberglass pool companies or companies
+- [316960.00s] in general are going to say, I don't
+- [318720.00s] want to address the negatives, the the
+- [320400.00s] negative questions that people ask me
+- [322400.00s] about my product, my service. Again,
+- [324080.00s] this is B2B, B2C. It doesn't matter my
+- [325680.00s] friends, right? So, please don't exclude
+- [327280.00s] yourself from what are principles of
+- [328960.00s] truth, right? This is psychology 101
+- [331520.00s] right now. And so, we openly talked
+- [333759.00s] about the problems of fiberglass pools.
+- [335199.00s] We were the first company in the world
+- [336560.00s] to do that. We broke the rules. Talked
+- [338960.00s] about how they weren't a good fit for
+- [340160.00s] everyone. Talked about how they couldn't
+- [341440.00s] get much longer than 40 ft, much wider
+- [343199.00s] than 16 ft, couldn't get deeper than 8
+- [344800.00s] ft. Couldn't customize them any way you
+- [346240.00s] want. We talked about historically how
+- [348320.00s] there were some issues with osmotic
+- [349919.00s] blistering and things like that. we like
+- [351199.00s] talked about like we we showed the flaws
+- [354720.00s] but because we did that it just so
+- [357440.00s] happens that when somebody is like
+- [359600.00s] really serious about buying something
+- [361360.00s] they want to know what could go wrong
+- [362560.00s] with that thing and so the amount of
+- [365039.00s] people that searched about the problems
+- [366720.00s] of fiberglass pools or are fiberglass
+- [368560.00s] pools ugly or do fiberglass pools crack
+- [371280.00s] that led to again I exaggerate not
+- [374160.00s] millions of dollars in additional
+- [376160.00s] revenue crazy right all because we were
+- [379600.00s] willing to talk about something no one
+- [382000.00s] had talked about. I wasn't sitting there
+- [384960.00s] analyzing, oh, nobody's done this in
+- [387360.00s] this swimming pool space. Now,
+- [389600.00s] afterwards, I realized that case, you
+- [391520.00s] know, since, you know, I did this in
+- [393360.00s] 2009. You know, the website took off,
+- [396080.00s] the company took off, I started writing
+- [397680.00s] about what we were doing, and then I
+- [399120.00s] became a speaker, and I've been now
+- [401120.00s] speaking full-time around the world for
+- [402800.00s] 15 years. And you know, I'm 15 years in.
+- [406319.00s] You realize roughly 5 to 6% of companies
+- [409280.00s] today talk about cost and price on their
+- [410960.00s] website in like a serious educational
+- [413120.00s] way where the person at least gets a
+- [414560.00s] sense for how much they're going to
+- [415680.00s] spend. Can you believe that stuff?
+- [417520.00s] That's that's that's craziness, right?
+- [419520.00s] That's crazy. But yet that's to this day
+- [422000.00s] that's what you that's what you see. I
+- [424080.00s] want to again ask you what rules you're
+- [425520.00s] breaking there on the marketing side.
+- [427440.00s] Let's look at the sales side for a
+- [429680.00s] second. I remember uh back in the day I
+- [432400.00s] was I was looking at our website in our
+- [434240.00s] analytics and comparing those that have
+- [436560.00s] filled out a form and bought versus
+- [439120.00s] those that filled out a forms that I
+- [440639.00s] want to get a quote and didn't buy. So
+- [441759.00s] I'm like what is the difference? And I
+- [442960.00s] noticed that the more content somebody
+- [445039.00s] consumed from us, the higher the closing
+- [447440.00s] rates were. In fact, if somebody read 30
+- [449199.00s] or more pages of our website, they would
+- [450880.00s] buy 80% of the time. So, I was like,
+- [452880.00s] "Wow, if I can just integrate content
+- [455520.00s] better into the sales process.
+- [458240.00s] I mean, they're going to hit that
+- [459919.00s] magical number 30. They're going to buy
+- [461280.00s] 80% of the time. It's going to change my
+- [462720.00s] life. They're going to be more
+- [463919.00s] qualified. We're going to have better
+- [465120.00s] sales conversations." And so, I said,
+- [467199.00s] "How do we do this?" And I came up with
+- [468800.00s] this this framework, this system. It's
+- [470880.00s] called assignment selling. And again, I
+- [472800.00s] talk about in the books and you can you
+- [474319.00s] can Google assignment selling. I've got
+- [475759.00s] videos out there on this. Essentially
+- [477520.00s] what we did is we got very intentional
+- [479919.00s] about integrating content into the sales
+- [481680.00s] process. So when we would talk to
+- [482879.00s] somebody on the phone before we went out
+- [484800.00s] to their house, we would make sure by
+- [487039.00s] sending them content and getting the
+- [489039.00s] commitment from them that they would
+- [490319.00s] consume said content like particular
+- [492240.00s] articles, videos that by the time we get
+- [494879.00s] we got there, the majority had done
+- [496960.00s] their homework, done the assignment, and
+- [499599.00s] because of that closing rates exploded.
+- [502720.00s] Super powerful. But when I started
+- [505120.00s] teaching assignment selling, you're
+- [506240.00s] like, "So you like literally require
+- [509360.00s] people to watch a video before you go
+- [510720.00s] out to their house." I'm like, "Yeah, of
+- [511759.00s] course." Because it helps them not make
+- [514080.00s] mistakes. It means that we have a much
+- [515680.00s] more effective, efficient conversation.
+- [518159.00s] Everybody wins. They're like, "Yeah, I
+- [519279.00s] just don't know if I could ask them to
+- [520399.00s] do that." Like, "Of course you could."
+- [521919.00s] Like, you just got to learn how to do it
+- [523599.00s] effectively because if they understand
+- [525040.00s] the why behind it, they're going to say,
+- [526320.00s] "Oh yeah, of course I would do that.
+- [527519.00s] That makes a lot of sense." They know
+- [529440.00s] because you don't want them to make
+- [530800.00s] mistakes. You don't want them to waste
+- [532240.00s] their money. you don't want them to make
+- [533519.00s] bad choices. Now all of a sudden, bang,
+- [535920.00s] that's Simon Sling. We were the first to
+- [537600.00s] do that. And at least that I'm aware of.
+- [540880.00s] Uh made us total outliers. Eventually,
+- [544080.00s] we became a fiberglass pool
+- [545920.00s] manufacturer. Now, again, I'm not
+- [547279.00s] talking about pools right now. I'm
+- [548240.00s] talking about your business. So, it's
+- [549600.00s] your job when you hear me like discuss
+- [552240.00s] anything on this channel, you're like,
+- [553839.00s] apply it to your business. You got to
+- [555200.00s] have an open heart, open mind, and then
+- [557200.00s] you can start to see how you can apply
+- [558959.00s] the principle and you, your business,
+- [561279.00s] your brand becomes more known and
+- [562959.00s] trusted. So I knew a few years ago,
+- [566720.00s] became obvious to me, especially in home
+- [568800.00s] services, home improvement, that if we
+- [571519.00s] could have a a cost calculator, a
+- [573600.00s] pricing estimator on our website,
+- [576959.00s] we could generate a ton more leads. Now,
+- [579600.00s] the issue was though, it's like, oh
+- [580880.00s] well, we're a manufacturer of fiberglass
+- [582880.00s] pools. We have dealers. They set the end
+- [584800.00s] price. How do we have a a a cost
+- [586640.00s] calculator? So, we don't need a
+- [588560.00s] calculator per se. It's not a quote
+- [589839.00s] tool. It's an estimator. Could we give
+- [591040.00s] an estimate? Of course, the answer is
+- [592160.00s] yes. So, if you go to the Riverpool's
+- [594000.00s] website today, we were the first
+- [595519.00s] manufacturer in the world to create a
+- [597279.00s] built-in price your swimming pool tool,
+- [600399.00s] your fiberglass pool tool, and you can
+- [602160.00s] go through this tool and you can choose
+- [604880.00s] what shape you want. You can choose what
+- [607200.00s] uh type of patter you want and what type
+- [608959.00s] of options and features you want. It
+- [611279.00s] even talks about hidden expenses that
+- [612959.00s] you need to be prepared for. And then
+- [615279.00s] what happens is they give us their
+- [616560.00s] email. In exchange for that email, they
+- [618320.00s] we send them a general price range. It's
+- [621279.00s] a ballpark price range. So, it's very
+- [623440.00s] safe. And because it's very safe, we
+- [626480.00s] don't put ourselves in a corner. You
+- [627839.00s] know, we might say, "Okay, based on
+- [628959.00s] everything you said, your price range is
+- [631279.00s] probably going to be somewhere between
+- [632320.00s] 110 and $150,000." Just giving you an
+- [634640.00s] example here. But doing that, oh my
+- [637360.00s] goodness, the explosion. During the
+- [639680.00s] summertime, we'd get one to 200 leads a
+- [642079.00s] day. It's extraordinary the impact that
+- [644240.00s] it had on the company. And it became
+- [646720.00s] such a such a cash cow for the
+- [649519.00s] organization because now we were doing
+- [652640.00s] something that all these other
+- [653600.00s] manufacturers said there's no way you
+- [655360.00s] can do it. The first company in the
+- [657360.00s] world to put a pricing estimator on
+- [659279.00s] their website. Now, since this time,
+- [661760.00s] because I I saw the power of estimators,
+- [664160.00s] I developed a software called Price
+- [666560.00s] Guide. You can find it online at
+- [668320.00s] ww.pricguy.ai.
+- [670320.00s] And it is the fastest, easiest, and most
+- [674160.00s] cost-effective way for you to build a
+- [676399.00s] pricing estimator for your product or
+- [678880.00s] for your service. So, make sure you
+- [680880.00s] check it out. There's a free 2e trial.
+- [683040.00s] It's incredible. And even if you don't
+- [685040.00s] get price guide, make sure that you get
+- [688000.00s] a pricing estimator on your website
+- [689680.00s] because we're seeing that that has a
+- [691440.00s] major influence on whether or not AI
+- [693600.00s] recommends you on whether or not you
+- [695760.00s] generate the leads you should because
+- [697279.00s] generally we see a 3x increase whenever
+- [699920.00s] anyone adds a pricing estimator to their
+- [702399.00s] website. So once again though, we broke
+- [706079.00s] rules. So how many rules are you
+- [708560.00s] breaking right now? Are you showing
+- [711200.00s] anything with video? I got to tell you
+- [712720.00s] one more. Before we even were
+- [714720.00s] manufacturing our pools, I was the first
+- [717200.00s] person to ever record a fiberglass pool
+- [719680.00s] manufacturer in the factory constructing
+- [722240.00s] their pools. The first time I did it, I
+- [724240.00s] was just a a I was a a dealer for a
+- [727040.00s] particular manufacturer and I went to
+- [728959.00s] their factory and I started recording
+- [731279.00s] with my camera how they were building
+- [733600.00s] the pools and they the the owner of the
+- [735360.00s] company comes running out and HE'S LIKE,
+- [736560.00s] "NO, NO, NO, MARCUS, you can't do that."
+- [738320.00s] And I'm like, "What do you mean I can't
+- [739680.00s] do that?" They're like, "No, this is
+- [740800.00s] proprietary. is proprietary uh you know
+- [743680.00s] technology and methodology that we have
+- [745839.00s] here. And I'm like, "No, this is not
+- [747200.00s] this is the same. We've seen this in
+- [748959.00s] other factories. It's the same." Like,
+- [750800.00s] everybody pretty much manufactures these
+- [752399.00s] fiberglass pools in a pretty similar
+- [753839.00s] way. Like, no, no. And I eventually I
+- [756320.00s] convinced them to say, "Okay, we'll show
+- [759920.00s] in this case how the sausage is made,
+- [761519.00s] how we make our fiberglass pool shells."
+- [763920.00s] And because they were willing to to
+- [766399.00s] allow me to put that video out there,
+- [768240.00s] that became the most viewed video they
+- [771680.00s] ever had. And now they became the first
+- [775120.00s] manufacturer and we became the first
+- [777200.00s] dealer that was showing how the
+- [779200.00s] fiberglass pool shell was made in the
+- [781120.00s] factory. We broke a rule. We got
+- [783760.00s] rewarded for it. Also, I was the first
+- [787200.00s] to openly talk about our competitors in
+- [789279.00s] the swimming pool space. We don't want
+- [790880.00s] to talk about, you know, bad things
+- [792399.00s] about them, but should you compare you
+- [794720.00s] versus your competitors, brands that you
+- [796639.00s] sell versus other brands? Should you
+- [798240.00s] make a chart and and honestly show the
+- [801200.00s] differences? Yes. you you should and
+- [803920.00s] especially because of AI because AI
+- [806399.00s] loves to consume these types of charts
+- [808560.00s] and so creating something like that that
+- [810720.00s] shows the differences when none of your
+- [812959.00s] competitors are even willing to mention
+- [815040.00s] any of their competitors because oh that
+- [817200.00s] might introduce them to another
+- [819360.00s] competitor and they might go that route
+- [821120.00s] instead. It's like no you see if you
+- [823519.00s] want to become a rule breaker you got to
+- [825120.00s] have an abundant mentality. You got to
+- [826800.00s] believe it's like just do it. If the
+- [829920.00s] customer would want it, if it would make
+- [831839.00s] it easier for them, if it removes
+- [834800.00s] friction and removes fear and it makes
+- [837600.00s] it faster, well then why not? Let's do
+- [841279.00s] it. Again, like I started, the rule
+- [844800.00s] breakers become the rule makers. Riverp
+- [847279.00s] pools didn't become the most traffic
+- [849519.00s] swimming pool website in the world
+- [851680.00s] because we just produced some blog
+- [853839.00s] articles. No, it happened because we
+- [856399.00s] were willing to do things, say things,
+- [859600.00s] show things that no one up to that point
+- [861680.00s] had been willing to say or show or do.
+- [864320.00s] And in hindsight, they're common sense.
+- [867040.00s] But to this day, most of those
+- [868560.00s] manufacturers, those that we compete
+- [870880.00s] with, they they don't do it. It's wild
+- [873040.00s] to me. It's wild. Which is why most
+- [875519.00s] companies and most CEOs don't think
+- [877120.00s] abundantly. If you want to become more
+- [878639.00s] known and more trusted, stop following
+- [881760.00s] the rules that everyone else has for
+- [884800.00s] you. Start using tools like price guide.
+- [887760.00s] Get that estimator up there. Show what
+- [889839.00s] others won't show. Say what others won't
+- [891920.00s] say. Sell in a way that others won't
+- [894320.00s] sell. And as we say in Endless
+- [896639.00s] Customers, be more human than they're
+- [898160.00s] willing to be. Send out that onetoone
+- [900160.00s] video. As the CEO, get your face up
+- [902079.00s] there. when your competing CEOs aren't
+- [905199.00s] showing themselves publicly. Could you
+- [906959.00s] do it? Could you stand out? I think you
+- [908480.00s] could. I think that's what becoming
+- [910000.00s] known and trusted is all about.
+- [911519.00s] Hopefully, this video was helpful to
+- [912959.00s] you. You got some very simple
+- [915760.00s] opportunities that if you're just brave
+- [918160.00s] and courageous,
+- [920399.00s] you could immediately stand out. And I
+- [922560.00s] hope you do it. And if you do it, it'll
+- [924800.00s] pay off. As always, here's to you
+- [927279.00s] becoming the most known and trusted in
+- [929440.00s] your market. I hope you enjoyed the
+- [931199.00s] video. I'll see you next time.

@@ -1,0 +1,1417 @@
+# YouTube Transcript
+
+- Source URL: https://www.youtube.com/watch?v=pqrwpXpMM6s
+- Language: en
+
+## Transcript
+
+- [160.00s] It's not long until I'm scrolling
+- [1760.00s] through my LinkedIn feed that I find out
+- [3760.00s] that SEO is dead. Uh to my surprise,
+- [6560.00s] >> again, SEO is yet again evolving. The
+- [10160.00s] principles in SEO remain also in AI
+- [12960.00s] search. You need to also allow AI
+- [15040.00s] crawlers to access to crawl your
+- [17039.00s] content. The validation that you need to
+- [20160.00s] take action on your hosting or your CDN
+- [22800.00s] is a little bit different because the
+- [24240.00s] user agents are different as well as the
+- [26400.00s] ability for Google to index our content.
+- [29599.00s] They are very sophisticated at it and
+- [32000.00s] they render JavaScript with challenges
+- [34880.00s] of course when this is done at scale and
+- [36640.00s] depending on the scenario but the
+- [38559.00s] reality is that AI crawlers don't do it
+- [40719.00s] at all. So if you rely on client side I
+- [43920.00s] rent render JavaScript for critical
+- [45840.00s] content or navigation and so on. Well
+- [48239.00s] this is information that AI crawlers
+- [50000.00s] won't see.
+- [52960.00s] What's up everyone? Today we had the
+- [54320.00s] honor of sitting down with Alita Solis
+- [56239.00s] international SEO consultant. In this
+- [58640.00s] episode, we tackle crawlability
+- [60480.00s] requirements for AI search engines. Why
+- [62879.00s] LLMs are just a new search channel, not
+- [64879.00s] a new function. AI search visibility
+- [67200.00s] analysis for SEO teams. Why LLM search
+- [70000.00s] rewards brands with real community
+- [71920.00s] signals. And how topic level analysis
+- [74320.00s] shapes AI search strategy. All that and
+- [76560.00s] a bunch more stuff after a quick word
+- [78240.00s] from two of our awesome partners. This
+- [80240.00s] episode is brought to you by Revenue
+- [81759.00s] Hero.
+- [83759.00s] Two field forms.
+- [86720.00s] Complete context, instant scheduling.
+- [89439.00s] Finally, you get to pick all three
+- [90880.00s] without a single line of code.
+- [92640.00s] Introducing native enrichment by Revenue
+- [94640.00s] Hero. Plug in Clear Bit, Crust Data,
+- [97439.00s] Apollo, or Stack All Three.
+- [100560.00s] Enrich all the data you need instantly
+- [102560.00s] on Submit. Stack your enrichment
+- [105280.00s] providers. Waterfall your way to
+- [107200.00s] clarity. Determine qualification and
+- [109680.00s] meeting routing based on enriched
+- [111360.00s] information. Layer it onto your current
+- [113759.00s] distribution logic.
+- [116399.00s] Book more meetings with your qualified
+- [118240.00s] buyers.
+- [119840.00s] Get started at revenuehero.io.
+- [124399.00s] This episode is brought to you by
+- [125680.00s] Mammoth Growth. Ever feel like your data
+- [127600.00s] is lying to you? Like you're making big
+- [129599.00s] bets on numbers you don't even trust?
+- [131680.00s] Everyone talks about garbage in, garbage
+- [133599.00s] out, but almost no one actually fixes
+- [135760.00s] the garbage. That's where Mammoth Growth
+- [137760.00s] comes in. They're the fastest AI powered
+- [139760.00s] data team on the planet. They build
+- [141599.00s] productionready data architecture that
+- [143280.00s] turns your fragmented customer data into
+- [145920.00s] one unified trustworthy source of truth
+- [148800.00s] fast. Most companies spend months trying
+- [150879.00s] to get answers. Mammoth Growth
+- [152239.00s] compresses weeks of analytics
+- [153920.00s] engineering into minutes using a multi-
+- [156319.00s] aent AI workflow. No rework, no broken
+- [159280.00s] dashboards, just clean, reliable data
+- [161599.00s] models you can act on with confidence.
+- [164239.00s] Kalanley, Seammens, TED, and hundreds of
+- [166480.00s] other brands trust Mammoth Growth to
+- [168080.00s] fuel measurable growth. Check them out
+- [169840.00s] at mammothgrowth.com to see how they
+- [171519.00s] make bad data disappear. Elena, thank
+- [173840.00s] you so much for your time today. Really
+- [175360.00s] excited to chat.
+- [177120.00s] >> Thank you very much for the opportunity.
+- [179280.00s] It has been a little bit crazy for me
+- [180800.00s] lately with so many inerson events. So,
+- [183040.00s] it's even refreshing to be able to to
+- [185120.00s] speak with you online like this, a
+- [187760.00s] little bit different, more laidback as
+- [190080.00s] well.
+- [190720.00s] >> Nice. Awesome. Yeah, I saw all the posts
+- [192400.00s] on on LinkedIn about your your frequent
+- [194480.00s] traveling right now. I think it's
+- [196080.00s] conference season for a lot of folks,
+- [198319.00s] but yeah, it's not every day that we
+- [199599.00s] have an SEO powerhouse like yourself on
+- [201840.00s] the podcast. We were joined by Mike King
+- [204159.00s] uh in the early days of the podcast, but
+- [206560.00s] I've actually invited my old co-founder
+- [208159.00s] and co-host today to help me with this
+- [210560.00s] episode. He's super deep in the SEO
+- [212400.00s] space and I feel like the conversation
+- [214080.00s] will be on a different bar within. So,
+- [216239.00s] Mr. John Taylor, thank you so much for
+- [217920.00s] your time. Welcome back.
+- [219519.00s] >> Yeah, thanks for welcoming me back. I
+- [220879.00s] hope you enjoy all the artwork behind me
+- [222640.00s] as this is what I've been doing the last
+- [224480.00s] year is trying to become an artist
+- [227760.00s] >> cuz there's some kids uh kids artwork in
+- [229920.00s] there too. Uh I've got the Riverside
+- [231840.00s] recording here so it's it's all blurry
+- [233519.00s] but the folks on YouTube will get to see
+- [235440.00s] the beauty.
+- [236319.00s] >> Yeah, beautiful art all all printed
+- [238480.00s] midjourney coloring books. This is the
+- [240720.00s] this is the vibe these days guys. AI for
+- [242720.00s] everything.
+- [245120.00s] >> Very cool. All right, let's get into it.
+- [247200.00s] Um, the first question I wanted to ask
+- [249040.00s] you is this idea that you've echoed the
+- [251920.00s] sentiment that good SEO is good GEO.
+- [255519.00s] You're basically implying that like
+- [256799.00s] fundamentals of SEO carry over to AI
+- [259199.00s] search, but you've also talked about how
+- [261519.00s] whether that's enough depends on how
+- [263440.00s] well you're already addressing AI search
+- [265680.00s] behaviors versus your competitors. Which
+- [268320.00s] core SEO practices do you think remain
+- [270960.00s] critical for success in this like
+- [272880.00s] AIdriven search results that we deal
+- [275280.00s] with today? Yes, indeed. And and thank
+- [278160.00s] you for bringing that up. I think that
+- [279680.00s] is the hot topic uh right now in the
+- [282560.00s] search world. Indeed. And in digital
+- [284400.00s] marketing as well. I can say that the
+- [286880.00s] principles uh in SEO remain uh also in
+- [292000.00s] AI search. Um remain valid and and very
+- [296000.00s] very relevant. From a crawability
+- [298000.00s] standpoint, you need to also allow AI
+- [300000.00s] crawlers to to access to crawl uh your
+- [303199.00s] content, your information. The thing is
+- [305360.00s] the rules that you might want to set
+- [307440.00s] might be different depending on your own
+- [309440.00s] context as well, right? Um the the
+- [312880.00s] validation that you need to uh also do
+- [317280.00s] and and and and uh take action on uh on
+- [321120.00s] your hosting or your CDN is is a little
+- [323919.00s] bit different because the the user
+- [325919.00s] agents are different as well. So maybe
+- [328880.00s] you have allow uh traditional search
+- [331440.00s] engine changing scrollers to access your
+- [332960.00s] content but you're unknowingly blocking
+- [336320.00s] AI crawlers. So it's an extra step that
+- [338479.00s] you need to do but that scrollability
+- [340160.00s] remains important in indexability as
+- [342639.00s] well. Um, we love in SEO to uh complain
+- [346720.00s] about the ability for Google to index
+- [350000.00s] our content, but the reality is that
+- [352160.00s] they are very sophisticated at it at at
+- [354960.00s] this point because of all of the the
+- [357199.00s] years of experience and they render
+- [360320.00s] JavaScript with challenges. Of course,
+- [362639.00s] when this is done at scale and depending
+- [364160.00s] on the scenario, um that the speed or
+- [367120.00s] how how long does it take to render your
+- [369520.00s] content that relies on JavaScript and so
+- [371440.00s] on. But the reality is that AI crawlers
+- [374080.00s] don't do it at all. So if you rely on uh
+- [378160.00s] client side render JavaScript for
+- [380240.00s] critical content or navigation and so
+- [382479.00s] on, uh well, this is information that
+- [385280.00s] polers won't see, right? And and then
+- [387440.00s] you mentioned different uh search
+- [390400.00s] behaviors, right? It was this open AI
+- [393120.00s] research that was finally published I
+- [395919.00s] believe a month ago or so that I was so
+- [398639.00s] very happy with because this was uh
+- [400960.00s] something that uh many uh independent
+- [404400.00s] platforms third party tools were already
+- [407680.00s] um sharing about this new intents uh
+- [410880.00s] that had to do with creating task
+- [414560.00s] oriented uh type of actions that didn't
+- [417520.00s] existed with traditional search and um
+- [420880.00s] might or might not necessarily be
+- [422400.00s] relevant to to address or to target,
+- [424479.00s] right? Uh from a marketing standpoint,
+- [426880.00s] but that definitely different behaviors,
+- [429759.00s] right? And and also the the role of
+- [432160.00s] citations and mentions in popularity as
+- [434639.00s] a senior of of authority, right? If you
+- [437360.00s] were doing sophisticated enough SEO at
+- [441199.00s] this point, uh if you had a mature
+- [443039.00s] program, you were very likely already
+- [445199.00s] aligned with your digital PR and
+- [447440.00s] community management. um
+- [450639.00s] activities and efforts um and and and
+- [453680.00s] and very likely were already making the
+- [456080.00s] most out of it. But very likely you also
+- [458560.00s] were very focused on getting back links,
+- [460880.00s] getting links uh from external sources
+- [464000.00s] uh from relevant, highly authoritative
+- [466000.00s] etc. But very likely you were focused
+- [467840.00s] much much more on links than on
+- [469599.00s] mentions. Right? I go the shift uh and
+- [472080.00s] the weight and the importance that
+- [473520.00s] mentions have now now changed and and
+- [475919.00s] then finally because of the the the
+- [478720.00s] difference and and shift in interface as
+- [481120.00s] well of what we can expect and the the
+- [483680.00s] the outcome of the behavior of the user
+- [486639.00s] within the platform. um tra traditional
+- [490400.00s] search has been considered and treated
+- [492879.00s] historically as a performance uh channel
+- [496400.00s] right and this is what we were always
+- [499360.00s] look into and what we care about in
+- [501599.00s] terms of KPIs and goals right um
+- [504720.00s] rankings uh uh clicks uh traffic
+- [508800.00s] conversions right very like that and
+- [511280.00s] there were already um let's say
+- [513760.00s] challenges in attribution that we can
+- [516240.00s] all agree but it was very performance
+- [518240.00s] focused. Now it it will be very myopic
+- [521919.00s] to treat uh AI search and lens like that
+- [525200.00s] right there's a layer there of uh brand
+- [529519.00s] uh branding and and to consider it as a
+- [531839.00s] as a branding channel as well and and
+- [534480.00s] the inclusion the visibility the share
+- [536399.00s] of voice the sentiment of the inclusion
+- [538959.00s] of the mention even if it doesn't carry
+- [540800.00s] a link and it doesn't refer um direct
+- [544640.00s] traffic or traffic or a user uh to your
+- [547519.00s] site right way it plays a role within
+- [550560.00s] the purchasing journey and as a
+- [552560.00s] marketing channel that should be
+- [554399.00s] accounted for and should be monitored
+- [557200.00s] and addressed and taken into account and
+- [560160.00s] so on. Right? So as you can see like
+- [562640.00s] that quite a few differences in
+- [565200.00s] different areas and principles and the
+- [567040.00s] pillars of of of search um and it how
+- [571600.00s] much does it change from what you were
+- [574560.00s] already doing. So it depends on your
+- [577200.00s] context, what the level of maturity that
+- [579839.00s] you already had, the level of
+- [581200.00s] sophistication, um how much you have in
+- [583600.00s] the backlog or you you had in the
+- [585120.00s] backlog in the in the past and and also
+- [586959.00s] your own vertical your own your own
+- [588800.00s] audience right in depending on the the
+- [592800.00s] level of visibility and uh that you
+- [595200.00s] already have versus competitors etc etc.
+- [598160.00s] Um it depends a lot on the context and
+- [599920.00s] unfortunately especially in SEO we have
+- [602640.00s] the challenge that I believe that we
+- [605839.00s] always love to say it depends and then
+- [607600.00s] we share a lot of the the context
+- [610399.00s] factors and criteria and so on and and
+- [612880.00s] sadly decision makers many many times at
+- [615279.00s] sea level they they don't like that
+- [616880.00s] complexity right and they they they
+- [618800.00s] expect the very straightforward answer
+- [621200.00s] and um it's challenging to communicate
+- [623600.00s] that and to clarify all that but
+- [625680.00s] hopefully little by little especially
+- [627920.00s] ones that we have access to more data uh
+- [630800.00s] to more insights uh more research like
+- [633279.00s] the ones that are being published um now
+- [636000.00s] more and more um it will get easier
+- [638480.00s] let's say to align it and and to tie it
+- [641920.00s] in order to uh make the most out of it
+- [644880.00s] and eliminating while eliminating all of
+- [647519.00s] this noise uh as well
+- [650399.00s] >> I think your your take is in is spot on
+- [653360.00s] and a fascinating illumination of how
+- [657040.00s] We're seeing the space evolve, right?
+- [658640.00s] What you've described, I think, is the
+- [660399.00s] key differences between SEO and geo, but
+- [663600.00s] I think also you describe the tools and
+- [665680.00s] processes that SEOs today are going to
+- [668399.00s] use to solve the problems of geo
+- [670000.00s] tomorrow, right? Like an SEO is going to
+- [671600.00s] understand how to talk about, hey,
+- [673200.00s] should we move to server side rendering?
+- [674640.00s] This could make a lot of sense for
+- [675839.00s] indexing. Are we able to uh make sure
+- [678640.00s] that all the bots are crawling our site
+- [680399.00s] cleanly? So working with these teams, I
+- [682480.00s] feel personally that the SEO mandate
+- [684800.00s] gets expanded by the GEO versus it's
+- [687600.00s] like a brand new field. One of the
+- [690399.00s] things that I don't go online often
+- [692240.00s] anymore, as Phil knows, I'm not on
+- [693680.00s] social media a ton, but when I do sign
+- [695200.00s] into social media, it's not long until
+- [697360.00s] I'm scrolling through my LinkedIn feed
+- [699040.00s] that I find out that SEO is dead. Uh to
+- [701760.00s] my surprise,
+- [703440.00s] being an active consultant, I'm like,
+- [705200.00s] "Oh, it's dead. Dang, I should have
+- [706640.00s] switched gears a long time time ago."
+- [708959.00s] Uh but what you described as well also
+- [711200.00s] kind of encapsulates what I see when I'm
+- [713040.00s] working with clients is a great
+- [714880.00s] confusion around what is geo, where does
+- [717279.00s] it fit in the in the road map. I think
+- [719680.00s] SEOs are are struggling still to
+- [722560.00s] articulate h how it's the same and how
+- [724880.00s] it's different. One of the ways that
+- [727200.00s] I've been meditating on this is thinking
+- [728800.00s] about LLMs as actually just a new
+- [730639.00s] channel within a broader a broader
+- [732959.00s] medium, right? You have Google search
+- [734480.00s] with the side of Bing and Yahoo. Uh but
+- [737120.00s] now you have LLMs. This is like Tik Tok
+- [739440.00s] to our YouTube. What do you think about
+- [742240.00s] that? Do you how do we communicate this
+- [744720.00s] to the stakeholders in our organization?
+- [746800.00s] Is this a new channel within a the same
+- [749440.00s] >> 100% 100% I I love that take and I
+- [752160.00s] completely agree. And you know what it's
+- [754000.00s] it's funny and it's a little bit ironic
+- [756240.00s] because in SEO we have um in the western
+- [760240.00s] world we have traditionally complained
+- [762160.00s] about the role of Google as the big
+- [764240.00s] monopoly. Well, there are even trials
+- [766079.00s] and and so on, right? Uh because of that
+- [768959.00s] in the US. Uh but yes, because of
+- [771519.00s] everybody uses Google. So for some
+- [773519.00s] people
+- [775200.00s] SEO is a synonym of Google focus
+- [780720.00s] uh optimization uh organic optimization
+- [783360.00s] for their SERs and their SERs are in
+- [785600.00s] certain format and so on. Right? Once
+- [787760.00s] that the SERs start to shift and and and
+- [791200.00s] uh diversify a little bit in different
+- [793680.00s] formats that don't necessarily complying
+- [795920.00s] with what they expected and then other
+- [798959.00s] competitors, other platforms start also
+- [801440.00s] taking part and have a role into this
+- [804000.00s] new interfaces and ways of platforms to
+- [806720.00s] search then all of the sudden the
+- [808800.00s] reaction rather than saying like SEO is
+- [811680.00s] evolving they need to take into account
+- [813839.00s] these additional platforms that are also
+- [816160.00s] now used to search, to look, to discover
+- [818000.00s] information, to consume information that
+- [820160.00s] might or might not be commercial, but
+- [823279.00s] there might be a again a mix of
+- [826639.00s] informationational commercial
+- [827519.00s] transactional and so on, and might be
+- [829360.00s] useful for my clients and and and um
+- [832720.00s] companies to attract potential customers
+- [835200.00s] from. And rather than say yes, it's
+- [836800.00s] evolving, it's like oh it's dying
+- [838079.00s] because they connect unfortunately
+- [839680.00s] because of the the the
+- [843519.00s] position in the market that Google has
+- [845360.00s] historically had in the in the western
+- [847920.00s] world. However, we can also say that for
+- [851199.00s] um quite a few industries and depending
+- [853920.00s] on who your target market is uh well
+- [856880.00s] that was already sort of diversified. So
+- [859440.00s] for example, if you were targeting like
+- [861519.00s] younger generations like Tik Tok for
+- [864000.00s] example or or Instagram depending on
+- [867040.00s] which retailer whatever and you also and
+- [869519.00s] I have clients that are in the retail
+- [871760.00s] space that also ask me for information
+- [874480.00s] like what are the best practices from a
+- [877120.00s] searchability standpoint that we should
+- [879680.00s] uh start uh integrating and and taking
+- [882720.00s] into account to maximize the visibility
+- [884639.00s] besides the ads. Right? So I think that
+- [887040.00s] finally we have gotten into that um
+- [890880.00s] space in which like there won't be
+- [893680.00s] necessarily a single platform anymore or
+- [896959.00s] at least in the next few years when like
+- [900880.00s] everybody starts shifting a little bit
+- [902240.00s] in their behavior and and uh adopting
+- [905360.00s] these new channels. Let's see maybe it's
+- [907519.00s] not only Google anymore but Google and
+- [909040.00s] chipd and perplexity and there are three
+- [911440.00s] big platforms etc etc but but yes I I
+- [915279.00s] this should be I I agree the vision that
+- [918959.00s] SEO is yet again evolving as it always
+- [922560.00s] has and now it doesn't need to account
+- [924480.00s] only for a single platform and way to do
+- [927279.00s] things and or or search um paradigum uh
+- [932240.00s] and and a single uh SER format but uh
+- [936320.00s] different channels because now the
+- [938160.00s] behavior is more split and diversified.
+- [940720.00s] Uh interesting enough, I was um a couple
+- [943199.00s] of months ago at this event in Shinshen
+- [945760.00s] in China and uh it blew my mind how BU
+- [949920.00s] there doesn't have nowhere the weight uh
+- [955120.00s] uh than as as Google in the western
+- [957199.00s] world. uh they acknowledge also the
+- [959360.00s] challenges that BU uh has providing
+- [962959.00s] honest accurate balanced answers in many
+- [965600.00s] fields. So they use a variety of
+- [967600.00s] platforms to gather information. So if
+- [969839.00s] you really want to maximize your organic
+- [971920.00s] reach let's say in China they will say
+- [974399.00s] okay yes optimize for bio but yes maybe
+- [976880.00s] you should also use red node that is
+- [979199.00s] their Instagram like app that they use
+- [982079.00s] their uh to post everything um and and
+- [986079.00s] very focusing commercial oriented uh
+- [989360.00s] products and services as well and also
+- [991759.00s] go uh go for Tik Tok and and so they I
+- [994880.00s] think that because of this they are much
+- [997199.00s] more used to diversifying and having
+- [999839.00s] presence across all of this and I
+- [1001519.00s] believe that this will happen also more
+- [1004079.00s] and more in the western world and and
+- [1006399.00s] when we finally realize that SEO is not
+- [1009120.00s] only for Google well we will be much
+- [1011680.00s] more used I guess to stop saying that
+- [1015440.00s] it's dead and just like making sure that
+- [1017600.00s] we optimize for whatever platform it is
+- [1020800.00s] now used by the audience and shift let's
+- [1023920.00s] say the principles and priorities and
+- [1025760.00s] factors that we optimize for depending
+- [1027520.00s] on what's taken into account in that
+- [1029919.00s] part in those particular platforms that
+- [1031760.00s] are actually useful and relevant for our
+- [1034480.00s] audience.
+- [1035520.00s] >> It it's fascinating. The SEO space
+- [1037679.00s] itself is so opaque, right, when we're
+- [1040079.00s] looking at a single provider like
+- [1041600.00s] Google. I remember years ago, you
+- [1043280.00s] mentioned lawsuits, but I remember
+- [1044559.00s] breathlessly sitting on a Twitter thread
+- [1046559.00s] where Ran Fishiskin was watching a US
+- [1049200.00s] congressional hearing to kind of
+- [1051679.00s] understand and deconstruct how Google
+- [1053440.00s] was ranking things. And I know last year
+- [1055039.00s] there was this this big leak that came
+- [1056720.00s] out. It's a it's fascinating and and
+- [1059039.00s] from my perspective, I find it actually
+- [1060640.00s] somewhat liberating to have to be able
+- [1063039.00s] to elevate some of the principles of SEO
+- [1064960.00s] to uh to to to general principles. I'm
+- [1068960.00s] curious, I think, you know, coming back
+- [1072000.00s] to the idea of how do SEO and geo mesh
+- [1076240.00s] together? I think there are, you know,
+- [1078720.00s] again, sometimes on social media I see
+- [1080559.00s] this, hey, we should have a separate geo
+- [1082400.00s] function, but I clearly I don't think
+- [1085039.00s] that's what you're thinking. But what I
+- [1086720.00s] would be interested in asking is how do
+- [1088640.00s] you layer in that geo? How do you talk
+- [1090799.00s] with like a mature SEO team about okay
+- [1093520.00s] now we're going to have a geo focus like
+- [1095919.00s] what are the kind of jobs to be done the
+- [1097760.00s] tasks that that you break out? How do
+- [1099919.00s] you earmark certain uh roles for for a
+- [1103520.00s] geo focus versus an SEO focus to get to
+- [1106400.00s] that like that nuance that I think we
+- [1108720.00s] all see as a value point of these new
+- [1111280.00s] engines.
+- [1112400.00s] >> Yeah. Well, there are two things. Uh, on
+- [1114720.00s] one hand, how much uh are LLMs driving
+- [1119840.00s] to your site? What what is the current
+- [1122640.00s] revenue? What is the current traffic?
+- [1124720.00s] Um, also um doing a little bit of
+- [1127919.00s] research, all audience research in those
+- [1131200.00s] top platforms that already driving a lot
+- [1133600.00s] of traffic to your own website. And
+- [1136160.00s] among your top competitors, you can use
+- [1138400.00s] third party tools uh to take a look at
+- [1140559.00s] which are the biggest driver for traffic
+- [1142640.00s] uh not only to your own site but to to
+- [1145919.00s] theirs, right? And and uh go and and and
+- [1148880.00s] and take a look at what is your
+- [1151120.00s] visibility in there for the top
+- [1153520.00s] questions, the top queries that you have
+- [1157039.00s] have been historically used and useful.
+- [1160240.00s] Um and we know that there's a
+- [1162640.00s] personalization
+- [1164160.00s] uh as well uh that is much uh bigger and
+- [1168960.00s] heavier uh in in LLMs than in
+- [1171520.00s] traditional search. But if you do quite
+- [1173280.00s] a few of them uh for the different
+- [1176480.00s] audiences and personas and and use
+- [1178400.00s] cases, you can get a little bit if if
+- [1181120.00s] you already mentioned if the the the
+- [1184240.00s] visibility that you have is consistently
+- [1186320.00s] good and above and or the same level or
+- [1188880.00s] even better than your competitors or is
+- [1190960.00s] it worse? Um where are the citations
+- [1193520.00s] coming? are this um what properties or
+- [1197360.00s] platforms um coming from those that you
+- [1201039.00s] have actively optimized already or where
+- [1203039.00s] you have proper presence uh or are this
+- [1206400.00s] coming from platforms that where you
+- [1208080.00s] don't have any presence at all and
+- [1209679.00s] you're not controlling or influencing
+- [1211840.00s] influencing at all and depending if the
+- [1214640.00s] answers here are positive or negative or
+- [1217280.00s] you're included and all of the sudden
+- [1218960.00s] you realize that unlike the traditional
+- [1222720.00s] SERs
+- [1224160.00s] For many of these questions that are
+- [1226720.00s] much more conver uh commercially driven,
+- [1228720.00s] comparing you versus your competitors,
+- [1231679.00s] uh the the the results are actually
+- [1234960.00s] negative. You're included, but you are
+- [1237360.00s] mentioned uh with bad ratings and and uh
+- [1241360.00s] and and and shown in a negative light.
+- [1244000.00s] So you start identifying where is this
+- [1246320.00s] coming or is this this this coming from
+- [1248480.00s] all of this Reddit threads that uh were
+- [1251520.00s] buried in the SER but somehow they are
+- [1253760.00s] used as a source here. So hm probably I
+- [1256559.00s] should align more with my community
+- [1258799.00s] manager uh to better understand what
+- [1261440.00s] they already doing and if they're taking
+- [1264080.00s] them into account at all or if there
+- [1266400.00s] there's any plans to do that etc etc. So
+- [1269200.00s] I I thinking like let's start doing a
+- [1271360.00s] research analysis and audit a validation
+- [1274080.00s] and depending on how I am shown or not
+- [1276640.00s] maybe I discover and this is something
+- [1278960.00s] interesting that happened to me not so
+- [1280559.00s] long ago
+- [1282000.00s] >> that my hosting company was actually
+- [1284400.00s] blocking the access of AI bots to a few
+- [1287280.00s] of my sites and I was like what what is
+- [1289679.00s] going on? why all of the information
+- [1292240.00s] that is provided when I asked regarding
+- [1295280.00s] this the the the topic the content of of
+- [1298000.00s] the site like trying to force even
+- [1299919.00s] because when I was when I was seeing
+- [1301760.00s] that the the information was not coming
+- [1303600.00s] or the the share of voice that I
+- [1305360.00s] expected was very poor and I started to
+- [1307600.00s] dig for further and then I realized it
+- [1309760.00s] was because uh the the hosting platform
+- [1312400.00s] was blocking right so I had to get in
+- [1314480.00s] touch with them to ask why like
+- [1316480.00s] unfortunately for and I this I this is
+- [1319840.00s] something that you should be aware of.
+- [1321360.00s] Be aware of that many hosting companies
+- [1323760.00s] will proactively block and you should
+- [1326720.00s] opt out of that if if you don't want to.
+- [1329120.00s] I mean, by all means, I believe that the
+- [1330880.00s] the you there are reasonable scenarios
+- [1334720.00s] for which you might not necessarily want
+- [1337600.00s] uh AI bots to access to your to your
+- [1340320.00s] website, but you should be aware of it
+- [1342559.00s] and it should be like more of an opt-in
+- [1345440.00s] type of behavior rather than opt out.
+- [1347600.00s] always with the information in front and
+- [1349840.00s] being aware of the implications and so
+- [1351520.00s] on. In any case, I ended up opting out
+- [1354799.00s] opting out of of that and I realized
+- [1357200.00s] that it happened because I had taken the
+- [1358960.00s] steps to validate etc. So my
+- [1360640.00s] recommendation will be you should uh
+- [1363520.00s] definitely take the steps to validate
+- [1365120.00s] that and I do believe that uh the best
+- [1368640.00s] professionals in marketing and in any
+- [1371919.00s] area to take the steps to understand the
+- [1374720.00s] criteria the the the type of factors uh
+- [1378880.00s] and having access already to tools many
+- [1381840.00s] uh SEO tools already and run trackers
+- [1383919.00s] already provide this sort of of of of
+- [1386159.00s] data already are SEOs right so I don't
+- [1388799.00s] think that you should create jet add
+- [1390080.00s] another role just for this or add
+- [1392159.00s] another discipline only if you want to
+- [1393760.00s] throw money potentially to the bin and I
+- [1398000.00s] don't think that is something that you
+- [1399120.00s] want because you already have someone
+- [1401360.00s] and and people agencies your agencies
+- [1403600.00s] your consultants already know about this
+- [1405200.00s] or your in-house SEO so why not
+- [1407919.00s] leveraging already their knowhow to
+- [1410240.00s] cover and to target this yet another
+- [1412480.00s] platform as I mentioned not it's not a
+- [1414400.00s] completely new discipline it's the yet
+- [1416480.00s] another platform now if it becomes comes
+- [1420080.00s] let's say in in a few years
+- [1423120.00s] right everything is evolving a lot it's
+- [1424880.00s] changing a lot imagine that in a few
+- [1426799.00s] years every single platforms behave and
+- [1430000.00s] and has an interface that is so very
+- [1432159.00s] different to each other and is are
+- [1434640.00s] driving so many uh powerful impact to
+- [1437600.00s] your organization in many different ways
+- [1439919.00s] they might even require specific
+- [1442159.00s] specialization and yes at that point
+- [1443760.00s] maybe you do might want to have in a few
+- [1447440.00s] years time like your LLMs expert
+- [1449679.00s] optimization just just for Chadypt,
+- [1451679.00s] another for AI mode, another for like
+- [1453919.00s] like we have a Tik Tok specialist right
+- [1456559.00s] now and and and YouTube specialists just
+- [1459440.00s] because of how their algorithms and and
+- [1462080.00s] and characteristics differ so much from
+- [1464960.00s] from the the ones from Google for
+- [1466720.00s] example you you might in the future
+- [1468880.00s] right but right now this is just
+- [1470559.00s] starting right at the end of the day
+- [1472320.00s] marketing is about impact uh and and
+- [1475919.00s] revenue and ROI right so I don't I don't
+- [1478880.00s] see the ROI yet there, right? So,
+- [1481600.00s] leverage what you already have. If you
+- [1483760.00s] have a good SEO, uh they should know
+- [1487919.00s] about it. in-house agency consultant,
+- [1490640.00s] they should be able to to know about
+- [1492799.00s] this, how to do this and and tell you if
+- [1495360.00s] the gap is very big and if you do need
+- [1498559.00s] to invest more and and very likely also
+- [1502080.00s] align what is going to have impact in AI
+- [1504799.00s] search with a lot of those tasks tasks
+- [1507840.00s] that have been left in the backlog in
+- [1510000.00s] traditional search uh that will also
+- [1512240.00s] drive impact very likely in traditional
+- [1514000.00s] search. This episode is brought to you
+- [1515760.00s] by Moing Engage and their new warehouse
+- [1517679.00s] native C which revolutionizes the way
+- [1520480.00s] data should be seamlessly fetched,
+- [1522320.00s] analyzed and activated. Now you can use
+- [1525120.00s] Moen engage cloud data sync to sync your
+- [1527120.00s] warehouse data with Moen engage and use
+- [1529279.00s] it to segment audiences or personalize
+- [1531919.00s] messages without any development. Just
+- [1534720.00s] set and forget. Use Moen engage
+- [1536960.00s] warehouse segments to create segments on
+- [1539120.00s] your warehouse data without moving
+- [1541600.00s] underlying events, properties, or
+- [1543600.00s] proprietary segmentation logic and
+- [1546000.00s] activate them directly on Moing Gage.
+- [1548640.00s] Using warehouse data analytics, brands
+- [1550720.00s] can also directly generate insights from
+- [1552960.00s] their warehouse data. Your long search
+- [1555520.00s] solution for seamless data sync, smarter
+- [1557840.00s] segmentation, dynamic personalization,
+- [1559840.00s] and delightful customer experiences ends
+- [1562080.00s] here. Warehouse native CP from Mowing
+- [1564480.00s] Gauge, making it easy, smart, and
+- [1566559.00s] secure. Learn more at mowingage.com.
+- [1569200.00s] This episode is brought to you by our
+- [1570640.00s] friends at Knack. I have the amazing
+- [1573039.00s] pleasure of chatting with some of the
+- [1574480.00s] greatest minds and marketing operations,
+- [1576720.00s] but you'd be shocked at how many of them
+- [1578720.00s] have the same issues when it comes to
+- [1580480.00s] their campaign creation process. They're
+- [1583039.00s] dealing with things like scaling,
+- [1584880.00s] personalization, keeping assets on
+- [1586880.00s] brand, render testing emails, working in
+- [1589440.00s] rigid templates, and worst of all,
+- [1590960.00s] having to hand code emails. But many of
+- [1592799.00s] the leaders in the space are using Knack
+- [1594960.00s] to eliminate these headaches. Knack is a
+- [1597200.00s] noode email and landing page creation
+- [1599679.00s] platform that covers initial campaign
+- [1601840.00s] requests right until the sync to your
+- [1603919.00s] marketing automation platform. Knack
+- [1606080.00s] improves the whole campaign creation
+- [1607760.00s] process by bringing the building,
+- [1609520.00s] optimization testing collaboration
+- [1611600.00s] and also translation functions all in a
+- [1614799.00s] single spot. So you don't have to jump
+- [1616480.00s] around and coordinate feedback between a
+- [1618320.00s] bunch of different people or wait on
+- [1620000.00s] developers for various simple edits
+- [1622320.00s] because at the end of the day, marketing
+- [1623520.00s] ops folks want to focus on process and
+- [1625360.00s] efficiency. Marketers want to focus on
+- [1627520.00s] creativity and Knack makes sure you get
+- [1629679.00s] both and then some. Check them out at
+- [1631600.00s] knack.com. That's kn a k and tell them
+- [1634240.00s] we sent you. I'm curious to ask you like
+- [1636320.00s] the SEOs listening right now or folks
+- [1638159.00s] that are really deep in in Google or in
+- [1641200.00s] a certain channel for SEO. Do you think
+- [1643120.00s] that without question LLM or AI search
+- [1647039.00s] is the next one that they 100% should be
+- [1650000.00s] investing most of their eggs into in the
+- [1652559.00s] next few years?
+- [1654480.00s] >> Well, it's definitely these are
+- [1656480.00s] definitely channels that if you see the
+- [1658400.00s] evolution uh of of usage is is growing a
+- [1661840.00s] lot. Uh so they should be definitely
+- [1665600.00s] >> uh accounted for that you should
+- [1667520.00s] definitely need to take into account and
+- [1669679.00s] and and put them into your different
+- [1673440.00s] platforms that you should be validating,
+- [1676240.00s] assessing, researching to identify
+- [1677919.00s] potential. Maybe the potential that you
+- [1679760.00s] identify is low. Maybe the potential is
+- [1681840.00s] big and depending on what you identify
+- [1684240.00s] and that research uh you will need to
+- [1687600.00s] allocate more and invest and want to
+- [1689760.00s] invest more. But at least to validate
+- [1692240.00s] and assess the potential. Yes. 100%.
+- [1694960.00s] >> Yeah. Yeah. That the whole question
+- [1696960.00s] about like assessing that potential and
+- [1699039.00s] and validating it is is tricky. I feel
+- [1700960.00s] like you mentioned at the top of your
+- [1702159.00s] last answer um how much traffic is
+- [1704559.00s] coming from LMS, how much revenue are
+- [1706799.00s] coming from mentions. I think that's one
+- [1708960.00s] of the biggest question marks I see on
+- [1710799.00s] LinkedIn with geo is what do we even
+- [1713360.00s] track when it comes to geo? Uh we don't
+- [1715840.00s] really have access to clean data sets or
+- [1718000.00s] any type of predictive volume that SEOs
+- [1720320.00s] are used to. So do we just go back to
+- [1722799.00s] first principles here? Is that your
+- [1724480.00s] advice? Like JT was just talking about
+- [1726320.00s] in his consulting work, he's leading to
+- [1728640.00s] more like persona narrative driven
+- [1730880.00s] content in an LLM driven environment.
+- [1733360.00s] Like do you think the top offunnel model
+- [1735919.00s] even makes sense anymore? What are your
+- [1738000.00s] thoughts there? Yes, I I do believe that
+- [1741120.00s] um
+- [1743919.00s] it's definitely a shift with this
+- [1746000.00s] traditional unfortunately traditional
+- [1748799.00s] SEO sort of tactic in the past that was
+- [1752159.00s] to create and invest a lot of top of the
+- [1753919.00s] funeral content to attract traffic. Um,
+- [1757600.00s] but funnily enough, this was something
+- [1759440.00s] that was already not
+- [1763440.00s] was not necessarily been uh very cost
+- [1765840.00s] effected lately with AI overviews
+- [1768000.00s] already.
+- [1769279.00s] >> Uh because this was well very
+- [1773200.00s] conceptually driven, veryformational
+- [1776000.00s] type of of content for which Google was
+- [1778320.00s] already or is already given more AI
+- [1780960.00s] overviews uh because they can be easily
+- [1785120.00s] let's say answer
+- [1786799.00s] uh and the user will tend to be very
+- [1790320.00s] easily satisfied if these are high level
+- [1793760.00s] uh generic sort of questionsformational
+- [1797120.00s] needs that they can easily solve by just
+- [1801840.00s] seeing a little bit of a summary
+- [1804080.00s] regarding this the concept right uh
+- [1806880.00s] however there's also the point about
+- [1810320.00s] well if you want to establish authority
+- [1812000.00s] in your field you cannot just say don't
+- [1814240.00s] invest informational content don't
+- [1815840.00s] invest
+- [1816559.00s] in in uh the content that will on one
+- [1820080.00s] hand establish authority to attract
+- [1822240.00s] citations um to to establish your brand.
+- [1825520.00s] Uh but also this is how you become
+- [1827120.00s] personalization resilient in LLMs
+- [1829840.00s] covering the different intents through
+- [1831279.00s] the full customer journey targeting your
+- [1832960.00s] different personas across use cases
+- [1835200.00s] right from the start. But the point is
+- [1837440.00s] like then deciding what is the type of
+- [1840320.00s] content that actually makes sense that
+- [1842399.00s] is informational but that also makes
+- [1844080.00s] sense to create because it's very on
+- [1847200.00s] brand and it needs to be very on brand
+- [1849679.00s] is it cannot be fluffy glossaryy type of
+- [1853200.00s] content addressing generic questions
+- [1855279.00s] that is are not necessarily about your
+- [1856880.00s] product or service or your brand. Right?
+- [1858880.00s] So think more about industry insights
+- [1861679.00s] like research stats, trends, um case
+- [1864799.00s] studies, uh thought leadership, um or um
+- [1870000.00s] comparisons versus uh competitors or or
+- [1873919.00s] FAQs,
+- [1875440.00s] uh leverage from your community that you
+- [1879200.00s] start publishing on on your side. Uh
+- [1882000.00s] providing more context for decision-
+- [1883600.00s] making and so on. uh help centers and
+- [1886480.00s] forums uh also make a lot of sense to
+- [1889840.00s] optimize further in order to target a
+- [1892240.00s] lot of this what you could consider
+- [1894000.00s] informational uh questions and and and
+- [1896960.00s] queries at the start of the journey as
+- [1898640.00s] well not only postpurchase. So think
+- [1900720.00s] about that. So this is the this is
+- [1902559.00s] content that doesn't only make sense
+- [1904559.00s] just to get traffic and and and easy
+- [1907200.00s] traffic at the start of the search
+- [1909360.00s] journey uh top of the final traffic but
+- [1911760.00s] also makes sense to address um your
+- [1915279.00s] clients well and to provide a good uh
+- [1918399.00s] pre-sales and post sales support as
+- [1921120.00s] well. Uh so I this is what I recommend
+- [1924559.00s] to clients. No, you need to continue
+- [1926240.00s] investing but just be more mindful of
+- [1928320.00s] what you invest. This should be on brand
+- [1931039.00s] content that should be helpful. Even if
+- [1933919.00s] you take SEO out of the equation, even
+- [1936000.00s] if you take LLMs out of the equation,
+- [1938080.00s] this is type this is the type of content
+- [1939760.00s] that you want to have in there because
+- [1941519.00s] it's useful for your customers and it
+- [1943760.00s] will make you uh sell more. And this is
+- [1946640.00s] indeed the the content that will then
+- [1949200.00s] even if there is an AI overview or the
+- [1953279.00s] the user uh or the potential customers
+- [1956240.00s] end up going to LLM to get an answer,
+- [1958720.00s] they will likely not be satisfied just
+- [1961440.00s] with a simple answer. They will want to
+- [1963120.00s] dig more and want to know the source.
+- [1966000.00s] Um, and because it is on brand, I will
+- [1968399.00s] expect that they recognize you, they
+- [1970559.00s] engage with with with you and well, this
+- [1973440.00s] where when the visit is generated and
+- [1975679.00s] even if they don't generate the visit
+- [1977279.00s] right away, uh, now they know you now
+- [1981039.00s] they know your brand. Whenever they
+- [1983360.00s] continue researching about the products
+- [1984880.00s] or service later on in the process, they
+- [1987279.00s] will recognize you and very likely will
+- [1989200.00s] they will be more keen to purchase from
+- [1991279.00s] you because they already recognize you
+- [1994000.00s] uh that you were one of the sources that
+- [1996000.00s] provided the answers at the beginning of
+- [1997840.00s] the journey and this is how we need to
+- [1999600.00s] think about it. Now the complexity here
+- [2001200.00s] is attribution and how do you uh manage
+- [2004559.00s] cost effectiveness and so on and and and
+- [2006640.00s] and uh yes that is the challenge pretty
+- [2009279.00s] much but uh but yes 100% we need to
+- [2012240.00s] establish on brand comprehensive topical
+- [2014399.00s] authority targeting the full customer
+- [2015919.00s] journey with helpful multimodel
+- [2018080.00s] indexable information that highlight
+- [2019840.00s] your unique selling propositions and
+- [2021760.00s] generally helps customers and this how I
+- [2024159.00s] see like just eliminating top of the
+- [2027200.00s] funeral that that that's I would say
+- [2029279.00s] like the least lazy um approach to avoid
+- [2034000.00s] uh bleeding resources, let's say, but uh
+- [2037919.00s] the actual strategical way to address it
+- [2040159.00s] is like how you continue doing it in a
+- [2042159.00s] way that actually makes sense and is on
+- [2043760.00s] brand. One of my hopes out of this, and
+- [2046720.00s] I think you're touching on it uh quite a
+- [2048480.00s] bit, so I'm going to annunciate it a
+- [2050720.00s] little bit more, is that we end up
+- [2052560.00s] starting in the SEO world and the
+- [2054240.00s] content marketing world, creating
+- [2056320.00s] content that is persona driven and
+- [2058079.00s] customer focused versus just the
+- [2060240.00s] traditional, I don't want to call it
+- [2062079.00s] traditional, but too often SEO gets typ
+- [2064720.00s] cast as we go to Semrush or HS and we
+- [2067839.00s] find a list of keywords and then we
+- [2069599.00s] write to those keywords. Whereas
+- [2072639.00s] nowadays I'm finding personally in my
+- [2074480.00s] own work is that the LLM SEO game has
+- [2078480.00s] allowed me to get permission to talk to
+- [2080320.00s] people that in the organization I
+- [2081839.00s] wouldn't typically talk to.
+- [2083440.00s] >> Some of my most fruitful conversations
+- [2085760.00s] as Phil alluded to uh was talking to
+- [2088159.00s] salespeople and just saying what are the
+- [2090240.00s] customers saying to you like what are
+- [2091760.00s] their pain points? What are they what
+- [2093359.00s] are the words that they use? and then
+- [2095040.00s] getting into transcripts. Like I think
+- [2097200.00s] there's an art form in picking content
+- [2101040.00s] that is more LLM focused but still
+- [2103680.00s] underneath that SEO that SEO banner,
+- [2106720.00s] right? We've always had keyword volume
+- [2108720.00s] zero and we're introducing zero click
+- [2110560.00s] into into the story. But I'm curious
+- [2112560.00s] about your perspective on how do we as
+- [2115839.00s] marketers SEOs mine content that is
+- [2118480.00s] relevant? Like what sources do you find
+- [2120560.00s] working? uh and how do you kind of take
+- [2124000.00s] some of those I think some of this is
+- [2125760.00s] experimentation you have to experiment
+- [2128400.00s] you have to try something to see to see
+- [2130079.00s] what comes back if your approach land
+- [2131760.00s] lands but being aligned to the persona
+- [2134079.00s] and the customer journey seems to make
+- [2135520.00s] the most sense so curious your process
+- [2137839.00s] there
+- [2138960.00s] >> yeah so I I believe that that that is an
+- [2141680.00s] an issue that we have had historically
+- [2144480.00s] right like thinking of SEO very t as as
+- [2147920.00s] very tactic oriented channel uh without
+- [2150640.00s] applying even the same type of
+- [2152160.00s] principles that you will apply to any
+- [2153760.00s] other channel for my marketing
+- [2154960.00s] standpoint. That is a reality and is and
+- [2157200.00s] is um uh so going and looking for
+- [2160320.00s] queries or topics to target through
+- [2162560.00s] tools and and and um letting yourself
+- [2165920.00s] only drive uh which to pick bake based
+- [2169920.00s] on the search volume rather than asking
+- [2172800.00s] the your customers or at least
+- [2175280.00s] leveraging your customer support uh or
+- [2179920.00s] insights and and validating with the
+- [2182960.00s] product or the marketing person who
+- [2185200.00s] knows more about the pains etc. which in
+- [2187839.00s] many many occasions were not yet
+- [2189520.00s] documented in in in those tools, right?
+- [2192640.00s] Or or the were so blended and um that
+- [2198320.00s] were not necessarily accounted there
+- [2200560.00s] yet, right? In many occasions. So that
+- [2202960.00s] that is a problem that was a challenge
+- [2204720.00s] that we historically had. Um but good
+- [2208400.00s] SEO uh that actually uh well it's
+- [2213520.00s] scalable and resistance to all of this
+- [2217040.00s] changes and evolution is the one that
+- [2219599.00s] yes talks with product talks with with
+- [2222560.00s] customer service talks with digital PR
+- [2225280.00s] uh with social media uh with branding
+- [2228320.00s] and make sure to target queries that
+- [2230960.00s] actually align with the with the brand.
+- [2232880.00s] So um a few years back one of my clients
+- [2235920.00s] was a um a cruise line a very famous
+- [2239599.00s] cruise line and one of the things that
+- [2241200.00s] they mentioned right away from the
+- [2243280.00s] beginning is like you will see in the
+- [2244560.00s] keyword research that you you do that um
+- [2248400.00s] the most popular keyword uh or among the
+- [2251119.00s] top three most popular keywords there
+- [2253040.00s] are a couple of them that are cheap
+- [2254560.00s] cheap cruises and cheap cruises plus the
+- [2256640.00s] year things like that it's like we are
+- [2258720.00s] not cheap we don't want to go for them
+- [2260800.00s] it doesn't matter that the search volume
+- [2262320.00s] is high and this is the type of insight
+- [2265520.00s] and information that we should think
+- [2268240.00s] about when we do SEO and historically
+- [2272000.00s] not only right now right unfortunately
+- [2274880.00s] it's usually in agencies
+- [2279680.00s] the person who many times end up doing
+- [2284560.00s] the keyword research is the intern right
+- [2287359.00s] so rather than a proper sophisticated
+- [2290480.00s] marketer who has a knowhow an
+- [2292640.00s] understanding of the product or service
+- [2294560.00s] or with that input, right? So, of
+- [2296480.00s] course, you end up having
+- [2299040.00s] keywords that don't necessarily make
+- [2300560.00s] sense. They have ton of search volume,
+- [2302160.00s] don't make sense with the tone of voice,
+- [2304640.00s] with unique selling position, with the
+- [2306480.00s] brand, etc., etc. And finally I believe
+- [2309920.00s] that we have come to the place right now
+- [2312800.00s] in which it make us rethink of yeah does
+- [2317040.00s] it really make sense going for all of
+- [2320160.00s] these terms for the sake of trying to
+- [2322640.00s] get easy cheap uh traffic
+- [2326160.00s] straightforward
+- [2327680.00s] >> traffic traffic traffic that we can get
+- [2329760.00s] into. Um there was uh or there is this
+- [2334240.00s] platform that uh it was one of the
+- [2337040.00s] biggest uh losers in uh from one of the
+- [2340880.00s] Google updates last year. Not going to
+- [2343200.00s] name names but you probably know it. And
+- [2346000.00s] u these are platforms that they had so
+- [2349119.00s] much authority and popularity that
+- [2351280.00s] realistically they could get away for a
+- [2353839.00s] long time for whatever topic or content
+- [2356320.00s] that they will publish and it will tend
+- [2357920.00s] to rank well as long as it if it was
+- [2360720.00s] slightly tangeny
+- [2363200.00s] related to their topic. So a lot of the
+- [2366160.00s] the traffic that they were getting the
+- [2368079.00s] top of the funeral uh were realistically
+- [2371520.00s] for very likely off topics from what
+- [2375520.00s] they were offering that was a little bit
+- [2377920.00s] of more software related and and and
+- [2380880.00s] then they lost a lot of this traffic in
+- [2383040.00s] one of this updates that Google finally
+- [2385440.00s] ended up tweaking a little bit their
+- [2387839.00s] their signals to well make sure that
+- [2391119.00s] this on brand that subject matter
+- [2393839.00s] expertise is actually uh makes a little
+- [2396480.00s] bit of of of a bigger role in there. So,
+- [2399599.00s] a lot and a lot of people said like,
+- [2401040.00s] "Oh, they they lost one quarter of their
+- [2404160.00s] traffic or something like that." But
+- [2405680.00s] yes, I was like, "Yes, it's true." But
+- [2407680.00s] take a look at which were the the the
+- [2410720.00s] pages that dropped a lot. And yes,
+- [2414000.00s] literally we're bringing one quarter of
+- [2415680.00s] their traffic like literally five pieces
+- [2418560.00s] of for very broad terms that honestly at
+- [2422079.00s] that scale um I I wonder how many of
+- [2427119.00s] this visits ended up converting but were
+- [2430960.00s] not their core areas of expertise or
+- [2434320.00s] core uh solution pages or meaningful
+- [2438079.00s] from a business standpoint. and and 100%
+- [2441280.00s] this is the type of content that you
+- [2442800.00s] will end up creating without thinking on
+- [2444720.00s] personas or unique selling proposition
+- [2447200.00s] or your actual uh brand or you nothing
+- [2452000.00s] right and and that is why I 100% I
+- [2454640.00s] believe that there has never been a
+- [2456880.00s] better moment like today in which like
+- [2459200.00s] yes you need to be very talkful on what
+- [2462079.00s] you write about to make sure that it
+- [2464079.00s] actually makes sense not only today but
+- [2466400.00s] in the future and resist across all of
+- [2468960.00s] and and what using personas and using
+- [2472160.00s] your um well it's your journey selling
+- [2474960.00s] proposition and and and uh the the brand
+- [2478960.00s] values and etc etc makes complete sense
+- [2482880.00s] and this is how we should be able to
+- [2484640.00s] prioritize beyond any metric. So you you
+- [2488720.00s] mentioned regarding the search volume of
+- [2490880.00s] SEO tools, we can extrapolate now that
+- [2493760.00s] with the top prompts examples that a few
+- [2498640.00s] um AI trackers provide. By all means,
+- [2502319.00s] these are good to take as a reference,
+- [2505520.00s] as an input, as examples
+- [2508960.00s] of of and samples of what users might be
+- [2513200.00s] asking there regarding your topic. But
+- [2516400.00s] it is a mistake to start obsessing on
+- [2521839.00s] but very few prompts to try to get into
+- [2524560.00s] them just because of how personalized
+- [2526640.00s] the answers are on one hand and um how
+- [2530800.00s] long tail they really are. So if these
+- [2533119.00s] are even actual prompts, let's assume
+- [2535280.00s] they are. They are not automatically
+- [2538079.00s] generated. They are, but imagine all of
+- [2541280.00s] the different wordings that there are
+- [2543440.00s] there like very few scenarios, the same
+- [2546079.00s] problem will be asked twice.
+- [2548720.00s] >> And and even if it it is asked twice,
+- [2551920.00s] the answers will defer quite a bit just
+- [2555280.00s] because of the personalization of the
+- [2557359.00s] user context, the location, previous
+- [2559839.00s] history, behavior, etc., et etc. So
+- [2562319.00s] rather than obsessing on specific
+- [2564240.00s] prompts that might have x or y value, we
+- [2567280.00s] should think about the topics that
+- [2568880.00s] actually make sense for us to go for to
+- [2571200.00s] get visibility for independently on the
+- [2573359.00s] wording, right? And yes, have a few
+- [2574720.00s] prompts to assess a little bit and ditch
+- [2577520.00s] how we are doing but not obsessing about
+- [2581040.00s] >> ranking or being included or being
+- [2582880.00s] showcasing specific uh in in a few
+- [2586720.00s] specific one of them. Yeah,
+- [2588400.00s] >> it's you hit on so much like the idea.
+- [2591119.00s] I'm sure there's some SEOs who have
+- [2592480.00s] trauma of being asked what keyword is
+- [2594960.00s] ranking where at any given moment, but I
+- [2597280.00s] think what you hit on is the maturity of
+- [2599680.00s] of the SEOs is push back and say the
+- [2602240.00s] content we create should be aligned with
+- [2603839.00s] all of our marketing efforts. It should
+- [2605440.00s] be positioned the same way. What I find
+- [2608720.00s] interesting just to kind of take another
+- [2610480.00s] point that you were talking about was
+- [2611839.00s] this idea of LLM prompts and data. Um, I
+- [2616480.00s] built myself like a little uh LLM
+- [2619599.00s] analysis tool back in February of this
+- [2622079.00s] year. Uh, for a hot second, I thought,
+- [2624240.00s] "Oh, maybe this would be useful
+- [2625440.00s] publicly." But I have all kinds of
+- [2627280.00s] reasons why I didn't do that. But what I
+- [2630079.00s] found most interesting was just like the
+- [2634000.00s] idea of getting into these prompts. Like
+- [2636240.00s] there's a moment in time when you're
+- [2637520.00s] like, I know the first 20 prompts I
+- [2639280.00s] want, but what about the next 100
+- [2640880.00s] prompts or the next thousand? And I've
+- [2643760.00s] long said this uh for content marketing,
+- [2646880.00s] but context is king, not content. And I
+- [2649839.00s] think if you understand the user's
+- [2651359.00s] context, then you have the ability to
+- [2654400.00s] actually connect in with them and then
+- [2656000.00s] earn that positioning opportunity in
+- [2658079.00s] terms of a content.
+- [2660560.00s] One of the things I noticed working with
+- [2662000.00s] my own clients is this prompt obsession.
+- [2665119.00s] We want to know what prompts should we
+- [2666560.00s] track and what prompts really matter.
+- [2668800.00s] But I think that there's there's two
+- [2670480.00s] ways to look at this as you mentioned
+- [2672160.00s] like the prompt trackers. They provide
+- [2674640.00s] us a layer of of good data and I think
+- [2676720.00s] we should pay attention to that data.
+- [2678880.00s] But then there's that other intuitive
+- [2680800.00s] sense that we all have. I use whisper
+- [2683119.00s] which is like a voicetoext
+- [2685520.00s] uh app and I talk to chat GPT or claude
+- [2688640.00s] all the time. My prompts never follow a
+- [2690960.00s] structure and there's all kinds of
+- [2692240.00s] weirdness in them but I get good
+- [2693760.00s] recommendations. I bought many products
+- [2695280.00s] off of them. How how do you see us
+- [2698560.00s] getting into a mature state with
+- [2700400.00s] prompting that we're working with
+- [2702319.00s] stakeholders outside of SEO? Because
+- [2704079.00s] this is sometimes our challenge, right,
+- [2705920.00s] is translating uh the keyword volume
+- [2708800.00s] into well actually this isn't tactics,
+- [2710880.00s] this is strategy. How do you approach
+- [2713119.00s] that? How do you approach like this idea
+- [2714640.00s] of building a topical map for instance
+- [2716880.00s] around prompts uh that might be used by
+- [2719280.00s] customers and LLMs?
+- [2721520.00s] So there are now tools that thankfully
+- [2723839.00s] provide more context uh around that and
+- [2726800.00s] they aggregate prompts per topic. So
+- [2729440.00s] there's definitely that I am happy to
+- [2731200.00s] see that. So and and what I what I think
+- [2734720.00s] about is is topics rather than prom and
+- [2737040.00s] think about which are the different
+- [2738880.00s] topics um and brands names in case I am
+- [2743280.00s] a retailer for example and I provide and
+- [2746160.00s] uh and I sell uh quite a few product
+- [2749119.00s] lines and brands like that are important
+- [2751359.00s] for me and and I want to be known for
+- [2755280.00s] right um and and
+- [2759040.00s] I go to these tools thankfully for for
+- [2761280.00s] example a few tools that you enter the
+- [2763920.00s] topic or the term and it will provide
+- [2766960.00s] which are the the top brands and the
+- [2771520.00s] topics and and then of course
+- [2774720.00s] very long tail list of of of problems
+- [2777680.00s] examples that they are taking into
+- [2779920.00s] account but I start gauging that rather
+- [2782480.00s] than oh the generic visibility for
+- [2784319.00s] whatever no visibility within these
+- [2786400.00s] context of these topics. So an example,
+- [2788960.00s] if I have a sport retailer, I want to
+- [2791280.00s] see what is my visibility for each of
+- [2793680.00s] the top product lines that I sell. So uh
+- [2796319.00s] what is my visibility for uh women's
+- [2798880.00s] sneakers or or men's um
+- [2803599.00s] um jackets or or or
+- [2808079.00s] children
+- [2809680.00s] um
+- [2811599.00s] golf um swah things like that, right?
+- [2815680.00s] and and I will start validating my
+- [2818079.00s] visibility of my brand versus my
+- [2820800.00s] competitors and which are my competitors
+- [2822319.00s] and how they are being cited and which
+- [2824800.00s] are their citations and so and take it
+- [2826560.00s] from there. So this is what I will do. I
+- [2828880.00s] won't even obsess about brand but I will
+- [2830800.00s] start start checking on the topic and
+- [2833680.00s] and my share of voice and my visibility
+- [2836000.00s] and and and the sentiment uh of my brand
+- [2839839.00s] versus my competitors for them. Then of
+- [2841839.00s] course what I will tend to do to track
+- [2843680.00s] over time is to take quite a few of
+- [2846480.00s] those prompts that uh I see are are
+- [2850160.00s] being shown in for each one of those
+- [2852720.00s] topics as a as a reference and and start
+- [2855839.00s] tracking them to see how it shifts over
+- [2857599.00s] time but within that context right
+- [2860079.00s] understanding that um to to better
+- [2863119.00s] understand how how evolves over time but
+- [2865359.00s] not to obsess about oh I need to be
+- [2867359.00s] included in these ones because otherwise
+- [2869359.00s] it means that I fail. No, my my
+- [2871760.00s] objective is to track the evolution over
+- [2874480.00s] time within this particular context and
+- [2876319.00s] and topic and area of expertise versus
+- [2879040.00s] these other brands or how many times
+- [2881040.00s] also my brands are mentioned versus and
+- [2883359.00s] and the the the the the
+- [2886319.00s] sentiment of the brand versus this other
+- [2889200.00s] brands for this particular uh subject or
+- [2892640.00s] area. uh that rather than trying to
+- [2896160.00s] let's say uh going for specific prompts
+- [2899680.00s] that are too granular this they are too
+- [2902800.00s] granular on one hand or then just trying
+- [2906079.00s] to compare brands in a generic way. So
+- [2909119.00s] if an example right like there there are
+- [2911040.00s] brands like Adidas for example they
+- [2913440.00s] provide and not only shoes but also all
+- [2916720.00s] type of of sportsware right so and if
+- [2919920.00s] you only compete on shoes I mean you
+- [2923359.00s] only provide shoes why do you want to
+- [2925839.00s] gauge yourself for everything Adidas no
+- [2929200.00s] you want to gauge your or assess
+- [2931119.00s] yourself for only the sneakers uh
+- [2934640.00s] particular vertical versus Adidas right
+- [2937520.00s] and that that is how I start assessing
+- [2940400.00s] and configuring it. Um thankfully there
+- [2942720.00s] are more and more tools out there that
+- [2944400.00s] allows you to do that rather than
+- [2945760.00s] starting from prompts.
+- [2948079.00s] So one thing that we we we haven't asked
+- [2950079.00s] yet but you've hinted at and I've seen
+- [2951680.00s] you uh publicly uh talk about was the
+- [2954720.00s] idea of getting a chatbt search console
+- [2958640.00s] or a claw search console perplexity
+- [2960960.00s] search console. You know we we also
+- [2963599.00s] talked about just like the transparency
+- [2965440.00s] of Google. you know, SEOs have been
+- [2967520.00s] reverse engineering the algorithm since
+- [2969599.00s] the birth of it.
+- [2970880.00s] >> Do you do you have hopes that we will
+- [2973839.00s] see these types of consoles come out for
+- [2976640.00s] these LLMs? Uh that we'll be more
+- [2978880.00s] transparent in this future or do you
+- [2980640.00s] think we'll probably still follow the
+- [2982319.00s] same direction? What what is your read
+- [2983760.00s] on it?
+- [2984400.00s] >> I believe that they will come but once
+- [2986559.00s] that the market is more settled and they
+- [2988800.00s] are able to show more proof of their
+- [2990480.00s] value. I believe that they they they are
+- [2992640.00s] not there yet because um maybe they are
+- [2996800.00s] not referring necessarily that much of a
+- [2999200.00s] traffic yet and the traffic is staying
+- [3001359.00s] within them. I don't know. Maybe
+- [3003040.00s] possibly um maybe that that traffic
+- [3005920.00s] won't make them look as good, right? And
+- [3008720.00s] we know that there are a lot of this
+- [3012000.00s] not only debates but even uh trials in
+- [3015359.00s] the US and suits already going on and
+- [3017599.00s] it's not in their benefit. Um but I
+- [3021119.00s] think that eventually they should
+- [3022480.00s] especially if these channels whenever
+- [3024960.00s] these channels start selling uh ads
+- [3029040.00s] consistently across these new surfaces
+- [3032640.00s] that that that should be like the
+- [3036319.00s] tipping point like the
+- [3039359.00s] the the actually ends up making the
+- [3042480.00s] difference I believe because they will
+- [3043920.00s] need to give more more data for that and
+- [3046400.00s] potentially that is how we are going to
+- [3048000.00s] get access also.
+- [3050160.00s] with the chat GPT with the shopping
+- [3052319.00s] integration I expect that they
+- [3055200.00s] provide more in terms of metrics and
+- [3058240.00s] visibility and performance at least of
+- [3060160.00s] those players that integrate right so
+- [3062079.00s] yes I think that it will it is a matter
+- [3064400.00s] of time but they it should come
+- [3067200.00s] >> we got two last questions for you uh
+- [3069200.00s] Leia this has been super fun uh I wanted
+- [3071359.00s] to end on this like positive note about
+- [3073920.00s] the space there's a lot of folks that
+- [3076319.00s] hope that you know advanced AI search or
+- [3078960.00s] is finally going to reward genuinely
+- [3080960.00s] insightful expert content over the kind
+- [3083440.00s] of generic SEO driven listicles that we
+- [3086720.00s] kind of talked about that have dominated
+- [3088640.00s] a lot of the past. Um, in other words,
+- [3090960.00s] like a boutique blog with not a lot of
+- [3093280.00s] traffic but deep expertise could outrank
+- [3096480.00s] high volume content mills if the content
+- [3098800.00s] truly educates or solves a problem. Do
+- [3101359.00s] you share this optimism that LLM powered
+- [3103680.00s] surge could elevate quality over
+- [3106240.00s] quantity? What signs, if any, have you
+- [3108480.00s] seen that AI search might actually rank
+- [3110240.00s] or recommend content differently?
+- [3112079.00s] >> Oh, this is this is already happening.
+- [3113760.00s] That is already happening. I mean I I I
+- [3116559.00s] am seeing those players that you see
+- [3118559.00s] around saying oh all of the sudden um my
+- [3123680.00s] brand my startup started to get cited in
+- [3126960.00s] CHBT and um it is now my biggest traffic
+- [3132880.00s] driver and I have made 90% of my clients
+- [3138240.00s] or my customers from it in the in the
+- [3141520.00s] last six months is because these are
+- [3143520.00s] startups that were not really investing
+- [3146160.00s] much or haven't been hadn't been able to
+- [3148559.00s] do much in SEO because they were just
+- [3150800.00s] starting a year ago or a year and a half
+- [3153280.00s] ago and they had already a little bit of
+- [3156240.00s] community going on and mentions in
+- [3158400.00s] YouTube and and mention in in social
+- [3161440.00s] platforms etc. But they didn't had
+- [3164480.00s] powerful backlinks yet from
+- [3166319.00s] authoritative sources. they didn't have
+- [3168079.00s] a proper taxonomy targeting to all of
+- [3171520.00s] the different queries uh that were
+- [3175520.00s] commercially relevant for them for which
+- [3178559.00s] they needed landing pages or pages or
+- [3181359.00s] PLPS PDPs or whatever that were properly
+- [3185040.00s] structured and optimized uh with good
+- [3188880.00s] internal linking etc etc and they didn't
+- [3192240.00s] get but then all of a sudden they
+- [3194000.00s] started to get all of this leads because
+- [3196400.00s] they were positively cited in this very
+- [3200480.00s] positive light for very this very hot
+- [3202800.00s] topic in LLM
+- [3205119.00s] >> and of course if they had been players
+- [3207520.00s] that they would have been doing already
+- [3209200.00s] SEO for five years ago the share of
+- [3212960.00s] these mentions will have been like
+- [3214240.00s] potentially 5%
+- [3215680.00s] >> of their revenue or customers but
+- [3217359.00s] because they are quite new they already
+- [3219119.00s] seeing the fruits of the little mentions
+- [3222880.00s] the little visibility because they have
+- [3224720.00s] been doing like good actual product
+- [3227040.00s] marketing uh for their customers base
+- [3229520.00s] and that end up paying off like this. So
+- [3232400.00s] I think that we have already seen that
+- [3235200.00s] and I expect that this
+- [3237839.00s] >> um grows over time that the the the also
+- [3241359.00s] the the it's not a zero sum game as well
+- [3244800.00s] because
+- [3245520.00s] >> we know that behavior is shifting and
+- [3248240.00s] there are also new searches, new topics,
+- [3250319.00s] new hot trends going on all the time. So
+- [3252720.00s] yeah, this only continued to to grow
+- [3255119.00s] over time.
+- [3256319.00s] >> I love it. Alita, last question for you.
+- [3258240.00s] You're an SEO consultant, obviously
+- [3260079.00s] frequent speaker. I have a traveler, uh
+- [3262480.00s] the SEO FOMO author for the newsletter.
+- [3264880.00s] You're also a founder and a meetup
+- [3266559.00s] organizer. You're also a paddle tennis
+- [3268800.00s] player. You were telling us before we
+- [3270160.00s] started recording, you got a ton of
+- [3271440.00s] stuff going on in your life. One
+- [3272640.00s] question we ask everyone on the show is
+- [3274640.00s] how do you decide what deserves your
+- [3276559.00s] energy at any given moment? And what's
+- [3278720.00s] your personal system for staying aligned
+- [3280640.00s] with what actually makes you happy?
+- [3283280.00s] >> Well, I I believe that it all has to do
+- [3286000.00s] with independence and purpose, right?
+- [3288480.00s] So, what gives me independent not only
+- [3292319.00s] um well monetary or financial or or what
+- [3296720.00s] actually matters more for me to be able
+- [3298800.00s] to do what I like to do. Uh and I really
+- [3302079.00s] like to do SEO. I really like to talk
+- [3304400.00s] with customers. That is why I don't have
+- [3305839.00s] like the big agency or huge agency but
+- [3309040.00s] uh um boutique consultancy because I
+- [3311359.00s] still in touch with client advise them.
+- [3313680.00s] So I I try to design my work and
+- [3316000.00s] prioritize my projects accordingly. I
+- [3318640.00s] enjoy talking uh with people and
+- [3321599.00s] interacting with people in the community
+- [3323520.00s] and I work remotely so I have a lot of
+- [3325599.00s] flexibility also to to well the events
+- [3328400.00s] that I go and and I engage with etc etc.
+- [3331920.00s] Um, and the same a little bit with with
+- [3334640.00s] sports, right? Historically, I haven't I
+- [3337440.00s] haven't been the most sporty person in
+- [3340319.00s] the world, but I understand and I know
+- [3342800.00s] that it's it's important to keep fit, to
+- [3346880.00s] be healthy as well, right? So, I I I had
+- [3349760.00s] to pick uh activities that align a
+- [3353760.00s] little bit with my preferences and I
+- [3355520.00s] wouldn't get bored at like for example,
+- [3358079.00s] going to the gym for me is not
+- [3359200.00s] necessarily incentivizing. I I jump rope
+- [3362160.00s] uh at home uh which is like very
+- [3364480.00s] complete sort of uh exercise that I can
+- [3366960.00s] do anywhere and then with paddle is a
+- [3369680.00s] very social sport as well. It helps a
+- [3372319.00s] little bit also with uh to keep yourself
+- [3375839.00s] uh engaged with with others in the
+- [3379680.00s] community and it's it's super fun as
+- [3381680.00s] well. So I try to blend a little bit uh
+- [3384400.00s] my lifestyle and what I enjoy and what
+- [3388079.00s] what has impact and I uh and is align
+- [3391119.00s] with my goals and preferences not only
+- [3394319.00s] uh business and professional wise but
+- [3396640.00s] also at a personal space.
+- [3398799.00s] >> I love it. Elena, thank you so much for
+- [3400400.00s] sharing that. Thanks so much for your
+- [3401839.00s] time today. Um got a few minutes left to
+- [3404079.00s] plug some stuff if you want. We're going
+- [3405520.00s] to share links to the newsletter, some
+- [3407119.00s] of the meetups that are coming up for
+- [3408319.00s] you, but uh this episode is dropping
+- [3410319.00s] early in 2026. So, feel free to plug
+- [3412720.00s] whatever you want.
+- [3413599.00s] >> Oh, thank you very much for the
+- [3414880.00s] opportunity. I have a few resources that
+- [3417040.00s] I have created for free that I believe
+- [3418880.00s] that can be quite helpful for for all of
+- [3421520.00s] those who want to uh keep up with AI
+- [3424240.00s] search. I have uh learning.com
+- [3427119.00s] which is a completely free uh website uh
+- [3431119.00s] where I aggregate reliable resources to
+- [3434160.00s] learn or to execute uh some of the top
+- [3436960.00s] activities in AI search. H it's like a
+- [3439520.00s] little bit the the counterpart of
+- [3440880.00s] learning aio learning seo.io that I
+- [3443440.00s] created like a few years ago. Uh so on
+- [3446400.00s] one hand learning.com
+- [3449040.00s] on the other hand if you want to keep up
+- [3451200.00s] with the latest in AI search as well as
+- [3454559.00s] SEO I have um seopo uh this is my main
+- [3460400.00s] newsletter almost 40k subscribers which
+- [3463440.00s] I expect to reach uh in a couple of
+- [3465760.00s] weeks already. Uh and then I have uh
+- [3469599.00s] aimarketers uh.com which is my other
+- [3473040.00s] newsletter as well which I cover
+- [3475119.00s] everything like the top news top trends
+- [3477520.00s] in AI marketing as well that might be
+- [3479839.00s] also useful and and relevant for you to
+- [3482160.00s] check out uh both completely free of
+- [3484799.00s] course and yeah I try to do my best to
+- [3489520.00s] only pick what is actually reliable and
+- [3492400.00s] is worthy.
+- [3494079.00s] >> Awesome. I I was going to list all of
+- [3495839.00s] those except AIMarketers.com.
+- [3498160.00s] Uh that's a new one for me, so I will be
+- [3500559.00s] checking that out for sure. Thank you so
+- [3502319.00s] much for everything you do for this
+- [3503760.00s] space, Ela. Really appreciate your time
+- [3505599.00s] today. This is super fun.
+- [3507280.00s] >> Thank you for the opportunity.

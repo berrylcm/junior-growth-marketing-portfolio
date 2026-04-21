@@ -1,0 +1,1680 @@
+# YouTube Transcript
+
+- Source URL: https://www.youtube.com/watch?v=5JQvdLYvGZI&t=682s
+- Language: en
+
+## Transcript
+
+- [80.00s] Everyone knows Ran Fishiskin, but if you
+- [2080.00s] don't know Ran Fishkin, you're you are
+- [3919.00s] one of the most
+- [5160.00s] legendary digital marketers there is.
+- [7759.00s] You started Moz in 2004 as just a
+- [12880.00s] community. Then you launched Mozro in
+- [15200.00s] 2007. Ma Moz is like one of the one of
+- [19840.00s] the main SEO tools and and you founded
+- [22640.00s] that and you taught so many people SEO
+- [25439.00s] and digital marketing, myself included.
+- [28000.00s] uh you're you're a huge name and and you
+- [30560.00s] have uh you have Spark Toro which is an
+- [32719.00s] audience insights tool and you started a
+- [35600.00s] a video game studio and you wrote a
+- [38239.00s] book.
+- [39800.00s] Yeah. Among among among a few other
+- [43440.00s] things but yes those are all those are
+- [45600.00s] all accurate. Um except I think I
+- [47360.00s] started Moz in 03. It was 03. Yeah. I
+- [51440.00s] can't get Wikipedia to change the that's
+- [54239.00s] what it was to be correct. That's what
+- [56480.00s] it was. Um, you know, and aside from
+- [59680.00s] just being like someone who's great at
+- [61760.00s] teaching
+- [63239.00s] SEO, you I just I think you are one of
+- [66400.00s] the most well-rounded marketers because
+- [68799.00s] when you were doing whiteboard Fridays,
+- [70880.00s] it wasn't just about SEO. It wasn't just
+- [73360.00s] no follow versus do follow. It was like
+- [76320.00s] here's how you should do social media
+- [78320.00s] marketing and how it affects everything
+- [80000.00s] else. Here's how you should do email
+- [82000.00s] marketing and little tricks that you can
+- [83600.00s] incorporate.
+- [86400.00s] Yeah man. I I mean I think that the the
+- [90720.00s] job of digital marketing is to
+- [93000.00s] be knowledgeable in a wide degree of
+- [96799.00s] pursuits and channels because I mean you
+- [100960.00s] know as well as anyone there there is no
+- [102880.00s] such thing as well the only thing that
+- [105600.00s] matters is what I do on this one channel
+- [107360.00s] or in this one tactic. Um, and I think
+- [109920.00s] unfortunately the SEO world, which I
+- [112640.00s] left gosh, like eight years ago now,
+- [115040.00s] seven years ago. Um, the SEO world does
+- [118079.00s] have a tendency to hyperfocus on
+- [120520.00s] just, you know, how high do I rank in
+- [122799.00s] Google and how much traffic am I getting
+- [124159.00s] from them as opposed to thinking
+- [127439.00s] holistically about how every marketing
+- [129360.00s] channel and tactic interacts with every
+- [131280.00s] other one and builds a brand over time
+- [133120.00s] and influences each other. Uh, and all
+- [136560.00s] the knock-on effects. And I think I
+- [138959.00s] think that part of my part of my job,
+- [140720.00s] right, if if my goal is to help people
+- [142560.00s] do better marketing, well, I better I
+- [145599.00s] better help people do better marketing
+- [146959.00s] of all
+- [149000.00s] kinds. You know, I I had this question
+- [151680.00s] later on, but it's an easy easy one to
+- [153840.00s] bring up. Like you you uh wrote on
+- [156200.00s] threads in 20 2015 the like biggest KPI
+- [160480.00s] was traffic and now in 2025 like no, not
+- [165680.00s] anymore. So I I want to ask you for your
+- [167840.00s] companies for Spark Toro and for Snack
+- [170160.00s] Bar
+- [171000.00s] Studio or or campaigns that you're
+- [173200.00s] doing, what are your KPIs? What are you
+- [175120.00s] paying attention
+- [176360.00s] to? Yeah, for most of social media
+- [180319.00s] marketing and the the small amount of
+- [182959.00s] effort that we put into uh search
+- [185280.00s] visibility, it's impressions, basically
+- [188480.00s] reaching more people. Um, and you know,
+- [192319.00s] granted there's ways to gify that and
+- [194319.00s] and mess with it, right? You could talk
+- [197040.00s] about politics and reach a huge
+- [198720.00s] audience, but obviously it's not going
+- [200879.00s] to be hyper relevant. Uh, but because
+- [203040.00s] our conversations are relevant to what
+- [205840.00s] we're doing, impressions is a great
+- [207760.00s] metric. It tells us how many people
+- [209120.00s] we're reaching and it shows us the
+- [211519.00s] relative success of different campaigns,
+- [214080.00s] different pieces of content, different
+- [215440.00s] posts, different tactics, all that kind
+- [217440.00s] of stuff. Um, and then you know that at
+- [220879.00s] the bottom of the funnel, it's
+- [222879.00s] conversions, right? It's people who sign
+- [225519.00s] up and pay for Spark Toro and how many
+- [228000.00s] people try it for free every week? How
+- [229360.00s] many people sign up for a paid account
+- [230560.00s] every week? That's the um that's the
+- [234000.00s] real goal. Yeah, that's the that's the
+- [235840.00s] biggest one. But so impressions. So, are
+- [237840.00s] you not um I know you're out of the SEO
+- [240560.00s] world, but I'm sure you think about
+- [241680.00s] this. Are are you not if you were an
+- [245239.00s] SEO, would you be concerned about like
+- [248080.00s] AI overviews? Yeah, especially AI
+- [250959.00s] overviews. I mean, you probably saw the
+- [253879.00s] 7% the 7% dip in Alphabet stock from the
+- [258880.00s] announcement uh made by it was made by
+- [262560.00s] uh by Apple's Apple's EddieQ and he said
+- [267759.00s] this has never happened in 22 years. It
+- [270800.00s] was it was Apple Safari browser declined
+- [273360.00s] for the or searches on Apple Safari
+- [276080.00s] browser declined for the first time last
+- [278479.00s] month. Never happened in 22 years. And
+- [280960.00s] that caused and he bl he blames AI for
+- [283440.00s] that. And then he's like, "We're
+- [284639.00s] exploring other options other than
+- [286880.00s] Google. We're exploring. We don't know
+- [289360.00s] if Google is the best." And so Alphabet
+- [290960.00s] shares sank 7%. It's like very relevant
+- [293840.00s] that you're this just happened. It's
+- [295360.00s] crazy that you're coming on now. So I'm
+- [297360.00s] sure you think about this stuff.
+- [299320.00s] Um, so if impressions are going up and
+- [302000.00s] clicks are maybe
+- [303960.00s] decreasing, but you're not concerned
+- [306080.00s] about you wouldn't if you were in the
+- [307759.00s] SEO world, you wouldn't be concerned
+- [309280.00s] about
+- [310759.00s] that. Well, depends what part of the SEO
+- [313520.00s] world, right? If you if you're working
+- [315360.00s] as an agency or consultant, there's
+- [317840.00s] there's tons of clients who can't be
+- [321639.00s] convinced that they should care about
+- [324080.00s] influence, not clicks. And that's really
+- [327280.00s] tough. if I were in house uh you know
+- [330000.00s] sort of running a company and and was in
+- [333039.00s] you know deep in SEO space I I think I
+- [334880.00s] wouldn't be worried um because
+- [339000.00s] my strong belief is it doesn't it
+- [343440.00s] doesn't particularly matter whether uh
+- [345919.00s] visibility in AI tools becomes more
+- [348400.00s] important or Bing versus Google or you
+- [351919.00s] know Safari maybe Safari switches to
+- [353759.00s] duck.go go. I I don't know like what
+- [355680.00s] whatever it doesn't matter, right? If
+- [356960.00s] you're um in-house, you can just adjust
+- [360720.00s] to the times and
+- [363440.00s] um make the right KPIs for your
+- [365840.00s] particular business. Y that's not a big
+- [369120.00s] deal. I guess I'm more so asking about
+- [371680.00s] zero click searches. So somebody
+- [374160.00s] somebody searches, they see they see
+- [375840.00s] their answer, they don't click into the
+- [378000.00s] result. there. Sure, the answer is
+- [381000.00s] attributed, but are they even paying
+- [383199.00s] attention to that
+- [384600.00s] attribution? Uh I yeah I don't think I
+- [387280.00s] don't think the goal
+- [389639.00s] becomes get traffic or even uh directly
+- [394319.00s] create branding there. I think the the
+- [396960.00s] real goal that you have when the answer
+- [400080.00s] is provided without a click is give the
+- [403120.00s] answer that is most beneficial to two
+- [406800.00s] parties.
+- [407880.00s] one, your audience, right? The people
+- [410639.00s] who are paying attention so that you can
+- [412160.00s] continue to be that answer. And two,
+- [414479.00s] your business. So, for example, you
+- [417520.00s] know, um there's an AI overview that
+- [419199.00s] fires when you search for what is
+- [420639.00s] audience research. And good news for us,
+- [423599.00s] Amanda wrote a blog post that basically
+- [426080.00s] Google has just taken uh that content
+- [428720.00s] and put it at the top and made it the AI
+- [431080.00s] overview. It doesn't it doesn't really
+- [433039.00s] mention Spark Toro. That's fine. Doesn't
+- [434880.00s] matter to us. What it does is it nudges
+- [438800.00s] people to understand what audience
+- [440720.00s] research entails. And so that if they
+- [442880.00s] decide, oh, okay, I do need to do that.
+- [444560.00s] I need to invest in audience research.
+- [446160.00s] I've got to understand where my
+- [448720.00s] customers are participating online, what
+- [450639.00s] they're paying attention to, their
+- [451919.00s] behaviors and demographics, that's great
+- [454400.00s] because long-term that nudges them
+- [455919.00s] towards Sparkurro, which is one of the
+- [457360.00s] only tools on the internet that answers
+- [458800.00s] that for them. So, right, like it's it's
+- [462720.00s] not about getting the traffic. It's not
+- [465039.00s] even about creating the brand impression
+- [466720.00s] right there. It's just about being the
+- [469759.00s] answer that nudges people in the
+- [471520.00s] direction you're trying to nudge them.
+- [473840.00s] So, you're saying if Amanda, your VP of
+- [476720.00s] marketing, didn't write that, people who
+- [480080.00s] are searching that wouldn't be nudged
+- [482400.00s] towards Spark Toro.
+- [485599.00s] You know what? To be honest, I can't say
+- [487039.00s] that for sure because we do a lot of
+- [489680.00s] content creation on the web and the AI
+- [491360.00s] overviews doesn't just pull from one
+- [493120.00s] source usually, right? right? It looks
+- [494800.00s] across the
+- [495879.00s] web. But what I can say is that uh for
+- [500080.00s] years we've been talking about audience
+- [501840.00s] research and one of the words most
+- [504479.00s] commonly associated with audience
+- [506479.00s] research that you will find across the
+- [508160.00s] internet is spark Toro. And so I believe
+- [511680.00s] that's why Google or Chat GBT or
+- [515120.00s] Perplexity or any of the other tools uh
+- [518919.00s] sees a question about audience research
+- [521599.00s] and looks for resources or data that is
+- [525839.00s] inclusive of or comes from Spark Toro
+- [528720.00s] because we've created that brand
+- [530560.00s] connection through language across the
+- [532880.00s] internet for the last six seven years.
+- [535760.00s] That's really interesting. something
+- [538480.00s] right when ChachiBT came out like this
+- [541040.00s] was twe I so it's crazy we we launched
+- [544720.00s] on product we launched a product on
+- [546480.00s] product hunt the same day that that chat
+- [549839.00s] GPT first launched I think it was
+- [552399.00s] December 2nd 2022 they launched on
+- [555200.00s] product hunt the same day as us and for
+- [557040.00s] most of the day we were number one and
+- [559040.00s] then through the sec but like slowly
+- [561200.00s] throughout the day we see this like this
+- [563200.00s] thing with a weird name chat GPT was
+- [565440.00s] just all these random letters thrown
+- [566880.00s] together in this like weird icon. It was
+- [569120.00s] rising up the ranks of Product Hunt. We
+- [571120.00s] were number one and I'm like whatever.
+- [572560.00s] We're number one. We're number one. Then
+- [574080.00s] it's then it's number five. Then it's
+- [575839.00s] number three. Then it's number two.
+- [577200.00s] What's happening? Then it's number one.
+- [578240.00s] And it's it just like blew everyone
+- [580320.00s] away. Chachi PT. And that night, which
+- [582640.00s] was the launch of our product, I ended
+- [585040.00s] up staying up until 4:00 a.m. playing
+- [586880.00s] around with Chachi PT being like, "This
+- [588720.00s] is in this is insane. This is going to
+- [590560.00s] change everything."
+- [591760.00s] And and then something that I couldn't
+- [594080.00s] stop thought thinking about is like
+- [596320.00s] doing SEO like how does this change how
+- [598800.00s] does this change publishers what's the
+- [600399.00s] incentive for people to write top
+- [602959.00s] offunnel content and especially now with
+- [606720.00s] with everything that we're seeing and I
+- [608959.00s] don't know if that's something that
+- [609920.00s] you've thought about. I'm sure it I'm
+- [611600.00s] sure it is. I'm very curious what I mean
+- [614160.00s] I think the incentive in my opinion the
+- [616720.00s] incentive has dropped massively if we're
+- [619600.00s] talking about being a
+- [623079.00s] um a publisher who makes money either on
+- [628240.00s] subscription revenue or on advertising
+- [631160.00s] revenue. But the incentive is still just
+- [634000.00s] as strong if your goal with publishing
+- [635920.00s] is to influence an audience to have a
+- [639040.00s] preference for your product or service.
+- [642000.00s] Right? So if you're a whatever
+- [643760.00s] consulting agency in any field or you
+- [646959.00s] make a product of any kind, consumer or
+- [649640.00s] B2B, you have a strong incentive to
+- [653040.00s] create content both on your own site but
+- [656480.00s] also across the web on social media
+- [659200.00s] platforms on the websites that your
+- [661360.00s] audience is likely to pay attention to,
+- [663200.00s] which is also therefore the uh website
+- [666720.00s] that any AI tool is likely to use as the
+- [670720.00s] reference resource in your
+- [673480.00s] field. That incentive is essentially
+- [677200.00s] create the content that you would want a
+- [680720.00s] an LLM or a search engine to pick up and
+- [684399.00s] show to people so that they will develop
+- [687040.00s] a preference or for your product or a
+- [689440.00s] nudge in the direction of the change
+- [692079.00s] that you're trying to make.
+- [695120.00s] You know what? May I I I had this
+- [696800.00s] thought as you were saying that maybe
+- [699040.00s] maybe like a lot of publishers or or
+- [702079.00s] even just I don't know like B2B SAS
+- [704399.00s] companies will be like, "Oh, there's no
+- [705760.00s] incentive anymore. We're going to stop
+- [707040.00s] doing top of funnel and only do bottom
+- [708720.00s] ofunnel and then you come in and you
+- [711040.00s] fill the gap and you do top off ofunnel
+- [713040.00s] and you just write all your content."
+- [715040.00s] This is what audience research is. And
+- [716800.00s] the best tool for that, it's Spark Toro.
+- [719360.00s] And then everyone Yeah. Everyone who
+- [720720.00s] looks it up, they're like, "Oh, Spark
+- [722480.00s] Spark Toro." This is why it's important.
+- [724160.00s] Edward, you've got it, man. That's
+- [725680.00s] exactly. Look, you know, in 2012 or
+- [728639.00s] something, right? I said exactly the
+- [730160.00s] same thing uh probably on stage plenty
+- [732160.00s] of times or on calls where I'd be like,
+- [734079.00s] "Yeah, yeah, SEO is BS. Ignore it. Don't
+- [737440.00s] do it. That way I can do it and rank
+- [739680.00s] number one, right?" And it's the same
+- [741920.00s] it's the same thing now. It's like,
+- [743040.00s] "Yeah, don't sure don't invest in
+- [745839.00s] content. Don't invest in social media
+- [747760.00s] marketing. Don't invest in publishing.
+- [750079.00s] Don't invest in, you know, visibility in
+- [751839.00s] Google and AI tools. That's fine, right?
+- [755040.00s] Like those of us who do are going to
+- [756639.00s] receive outsiz benefit from it. This
+- [758639.00s] method of marketing is so effective, I
+- [760480.00s] had to make sure it wasn't against
+- [761920.00s] Google's rules before I kept doing it.
+- [763920.00s] It's a form of SEO I call compact
+- [766480.00s] keywords. Whereas most SEO focuses on
+- [769040.00s] putting up articles to answer questions,
+- [771200.00s] how, what, when, compact keywords
+- [773360.00s] focuses on putting up dozens of pages
+- [775279.00s] that sell to searchers who are actually
+- [778000.00s] looking to buy. These pages rank on
+- [780480.00s] Google and convert so much better than
+- [782560.00s] normal that when I discovered this years
+- [784480.00s] ago, I couldn't believe this was
+- [786320.00s] allowed. It's less work, too. The
+- [788639.00s] average compact keywords page is only
+- [791160.00s] 415 words. Compact Keywords is a 13-hour
+- [794959.00s] deep course on getting sales with SEO. A
+- [798079.00s] customer recently said, "Each lesson is
+- [800560.00s] dense with information. You're giving
+- [802959.00s] years worth of experience boiled down
+- [805040.00s] into 15 to 30 minute lessons with no
+- [807760.00s] filler or fluff. I feel like I'm gaining
+- [810079.00s] a new superpower. Compact Keywords is
+- [812560.00s] about setting up an SEO funnel that
+- [814399.00s] brings you sales for years and years and
+- [817120.00s] years. It works with AI. It's less work
+- [819920.00s] than traditional SEO and it makes way
+- [822720.00s] more money. You can get it now at
+- [826040.00s] compactkeywords.com. Back to the
+- [827600.00s] podcast. I want to see since you since
+- [829760.00s] you mentioned all of those channels. So
+- [831360.00s] I want to ask do you think this was this
+- [834560.00s] was a question I went for a walk right
+- [836000.00s] before this and I just like walks are
+- [837839.00s] the best for thinking and this question
+- [839360.00s] hit me and I'm like I really want Ran's
+- [841680.00s] answer from this. So, do you think
+- [844399.00s] marketing is easier now or harder now
+- [847680.00s] than it was when you started MA? And you
+- [850399.00s] started MOA in 2003. And if you started
+- [852639.00s] MA in 2025, what would you
+- [857000.00s] do? I would not start Moz in 2025. Let's
+- [861440.00s] um that that space is just so incredibly
+- [863680.00s] crowded and I don't like crowded spaces.
+- [865839.00s] But
+- [868199.00s] um I think marketing now
+- [873240.00s] is massively easier in one way which is
+- [876800.00s] that there's so many more channels and
+- [880160.00s] they are much better understood and
+- [882880.00s] there's far more information about them
+- [885600.00s] and people paying attention to them and
+- [888160.00s] um reports and data being produced about
+- [890079.00s] how these marketing channels work. In
+- [892040.00s] 2003, Henry there was like there was so
+- [894959.00s] little like you know you say hey Ma's
+- [897600.00s] built this like great reputation in
+- [899360.00s] whatever from 03 to to 2012 13 like
+- [902560.00s] those 10 years the the bar was so low
+- [906720.00s] for us to create just any
+- [909240.00s] content marketing that's why I wonder if
+- [911600.00s] it was easier because you could do
+- [913279.00s] anything. Look, I think I think it was
+- [915360.00s] easier to stand out because the field
+- [917360.00s] was not crowded, but it was harder to do
+- [919920.00s] marketing because there was just not
+- [921680.00s] information about how it worked. And um
+- [925279.00s] very frankly, the number of channels and
+- [928720.00s] tactics that you could use to reach tens
+- [931440.00s] or hundreds of thousands of people or
+- [933959.00s] millions like barely existed. Didn't
+- [937519.00s] really exist. Internet adoption was so
+- [939920.00s] low back then really if you wanted to
+- [943680.00s] reach a million people which you you
+- [945839.00s] know not I I don't want to say easily
+- [947440.00s] can today but over the course of a year
+- [949279.00s] if you invest consistently in YouTube or
+- [952399.00s] threads or Reddit or LinkedIn or Tik Tok
+- [955360.00s] or Facebook like you can reach a million
+- [959040.00s] people in your audience if you sort of
+- [961120.00s] do a good job easily. That was not
+- [962639.00s] possible in 2003. There weren't even
+- [964880.00s] like there weren't a million people in
+- [967040.00s] the in the field like looking on the
+- [968959.00s] internet in 03. So yeah, I mean big big
+- [972480.00s] difference. Way more reachable audience
+- [974639.00s] today than ever before and reachable
+- [976880.00s] with our kind of skill sets. So
+- [981720.00s] yeah. Okay. So Snack Bar Studio, you're
+- [984480.00s] you're a co-founder in it. It's an indie
+- [986160.00s] game studio. How have you how have you
+- [989199.00s] done marketing for it? Like I want
+- [991519.00s] because I want to learn I want to know
+- [992720.00s] how Rand Fishkin like how Rand Fishkin
+- [995120.00s] operates with different marketing
+- [996480.00s] campaigns. You start companies, how are
+- [998240.00s] you marketing them? Because again I want
+- [1000079.00s] to repeat this like I really think you
+- [1001600.00s] are one of the greatest marketing minds
+- [1003279.00s] and I'm not just like I'm I'm not just
+- [1004720.00s] trying to like I have learned so much
+- [1006320.00s] from you and there's a reason for that
+- [1008000.00s] and I'm pretty good at picking out
+- [1009440.00s] different marketing people. So I'm
+- [1010880.00s] really curious how you do marketing
+- [1012240.00s] campaigns and what you do for new sites,
+- [1014240.00s] what how you build them up, what you do
+- [1015759.00s] for for new for new companies, all that
+- [1017839.00s] stuff. Yeah. Well, okay. So, in answer
+- [1021279.00s] to that last question, it's different
+- [1023360.00s] for every different company. Uh, and
+- [1024959.00s] Snack Bar Studio is going to be
+- [1026319.00s] extremely different from Moz or Spark
+- [1029199.00s] Tour or anything I've done before,
+- [1030400.00s] right? So, so Moz was very SEO and
+- [1033120.00s] content flywheel, right? Like we produce
+- [1035360.00s] content, we put it on our website, then
+- [1037439.00s] we try and rank better for that content
+- [1039439.00s] because we were in the SEO field. It
+- [1041120.00s] made us look good. When we ranked well
+- [1042480.00s] in Google, and when people found us,
+- [1044480.00s] they thought we were an authority, and
+- [1045760.00s] then they came to the site and
+- [1046720.00s] subscribed, and then they signed up for
+- [1048160.00s] the free trial, blah blah blah blah
+- [1049360.00s] blah.
+- [1050320.00s] With Spark Toro, I recognized that the
+- [1052640.00s] zero-click problem was such a huge huge
+- [1055679.00s] issue and I was trying to build
+- [1057440.00s] something outside of the SEO space. And
+- [1059600.00s] so we went heavily into really three
+- [1062799.00s] things. One is press and PR like trying
+- [1065360.00s] to get the sources of influence that our
+- [1067200.00s] audience already read and subscribed to
+- [1069360.00s] to cover us, to write about us, to talk
+- [1071360.00s] about us favorably, getting speakers on
+- [1073760.00s] stages at conferences to talk about us
+- [1075919.00s] and show screenshots of what we were
+- [1077679.00s] doing. The second one was uh social
+- [1080640.00s] media marketing. So at at the time it
+- [1083360.00s] was very heavily Twitter and LinkedIn, a
+- [1086320.00s] little bit of YouTube and Reddit, a few
+- [1087919.00s] other channels. Now now that Twitter is
+- [1090080.00s] mostly dead and mostly chat bots, um it
+- [1093520.00s] is uh a little more threads, blue sky,
+- [1096480.00s] LinkedIn mixed in there. And uh the
+- [1100400.00s] third one is is for sure like a a
+- [1102559.00s] content email play. So we do we have a
+- [1104960.00s] very popular newsletter. I think about
+- [1106640.00s] 40 50,000 subscribers to that
+- [1108440.00s] newsletter. Every time Amanda sends that
+- [1110880.00s] out over the next like few days, you can
+- [1113440.00s] see a spike in people forwarding that
+- [1116640.00s] and and coming to our website and
+- [1118480.00s] signing up for the um the free and paid
+- [1121440.00s] versions of the product. So that those
+- [1124480.00s] email newsletter subscriptions are just
+- [1126240.00s] huge. I still think email is a great
+- [1127600.00s] channel. For Snack Bar
+- [1129960.00s] Studio, I've done almost no marketing.
+- [1132799.00s] The only marketing I've done so far is
+- [1134640.00s] about the company itself rather than the
+- [1136960.00s] game and that is intentional. Um, so I
+- [1139760.00s] did a big datadriven study about um,
+- [1144559.00s] games. I I actually did it with a couple
+- [1146000.00s] of software engineering friends here in
+- [1147679.00s] Seattle. We looked at I think about
+- [1151840.00s] 80,000 games that have come out on Steam
+- [1154559.00s] in the last 12 15 years. Uh, and we
+- [1158720.00s] basically looked at how well they
+- [1161039.00s] performed. Many many games as you're
+- [1162799.00s] probably aware announce their sales. You
+- [1165760.00s] know the publisher will say like you
+- [1167840.00s] know on their Twitter on their Discord
+- [1169520.00s] or on YouTube, hey we crossed a million
+- [1171280.00s] sales, we crossed 50,000 sales. We sold
+- [1173600.00s] 5,000 copies of this game. We only sold
+- [1175440.00s] 200 copies of this game. Like you know
+- [1177120.00s] whatever it is. And so we basically
+- [1179039.00s] indexed those announcements, built up a
+- [1181760.00s] huge repository of them, built a machine
+- [1183760.00s] learning model to um correlate
+- [1186880.00s] announcements with metrics, publicly
+- [1189039.00s] available metrics we could find like the
+- [1191280.00s] score that the game received from
+- [1194280.00s] Metacritic, the rating on Steam, the
+- [1197520.00s] number of reviews per week on average,
+- [1201039.00s] all these kinds of metrics, and then
+- [1202720.00s] built a regression model that that had a
+- [1205120.00s] nice correlation with actual sales. And
+- [1207760.00s] then we modeled and looked at all the
+- [1209840.00s] games that that sort of, you know, uh,
+- [1212799.00s] fit particular paradigms and the tags
+- [1216240.00s] and genres they were in. And that's what
+- [1218720.00s] helped me select cooking, mid-century
+- [1221840.00s] Italy for the setting. Um, uh, sort of
+- [1226080.00s] chill action RPG as the as the style of
+- [1229520.00s] the game. A bunch of different things
+- [1231840.00s] about the, uh, structure of what the
+- [1233840.00s] game was going to be. And then we looked
+- [1236960.00s] at how marketing sort of affected these
+- [1239760.00s] things. And and the discovery was
+- [1241840.00s] marketing more than a year before a game
+- [1244320.00s] comes out is not just ineffective, it
+- [1247440.00s] can work negatively against you. Um, and
+- [1250000.00s] that's because basically the people who
+- [1252400.00s] would be most excited about the game,
+- [1254799.00s] like it's in the perfect genre for them.
+- [1256720.00s] It's like exactly the thing they want to
+- [1258400.00s] see, they get tired of waiting. And then
+- [1261120.00s] when the game comes out, they're sort of
+- [1262559.00s] they're like over it, right? They're
+- [1264000.00s] like, "Oh man, that old thing like
+- [1265919.00s] whatever." So, we have done no marketing
+- [1268640.00s] for Snack Bar, the the video game
+- [1270760.00s] itself. Um, yet because we're still
+- [1273840.00s] about 2 years away from launch, we think
+- [1276480.00s] maybe 18 months, but that is going to
+- [1278960.00s] happen. You're not going to see much of
+- [1281200.00s] anything on the marketing front until
+- [1283520.00s] between 9 and 12 months before the game
+- [1286159.00s] comes out in early access. Um, and then
+- [1289600.00s] I, you know, I'm happy to talk about
+- [1291039.00s] like what I think is going to work in
+- [1293440.00s] that sector, but I think that's probably
+- [1295440.00s] less useful than having me back on in
+- [1297760.00s] two years and I can tell you what did or
+- [1299360.00s] didn't work. I'm s I'm super interested
+- [1301440.00s] in gaming. So, we me and my friends, we
+- [1303600.00s] made the first video game in crypto.
+- [1305760.00s] This was in 2018. We we made Pokemon on
+- [1308240.00s] the blockchain. It was really successful
+- [1309919.00s] and it was it was it was crazy. I
+- [1311679.00s] learned so much about the game industry.
+- [1313679.00s] We had we had this amazing uh this this
+- [1316559.00s] amazing musician who did our OST. It's
+- [1318640.00s] the OST is still on Spotify. It's like
+- [1320960.00s] yeah, it was it was so great. Um and
+- [1324640.00s] okay, but I'm very I'm curious about
+- [1326320.00s] your data driven approach because to me
+- [1328559.00s] that's so cool.
+- [1330280.00s] So aside from like the okay don't start
+- [1334080.00s] don't start talking about it before
+- [1336760.00s] like before uh one year like before that
+- [1342080.00s] what were you learning about like
+- [1343360.00s] different announcements and announcing
+- [1344880.00s] games as well was it like a style of
+- [1347039.00s] writing or words that worked phrases?
+- [1351679.00s] Yeah. Uh so let's see. The the generally
+- [1354960.00s] most successful
+- [1356960.00s] uh forms of marketing are when you show
+- [1359880.00s] off what would I call it? um
+- [1364360.00s] unique features, especially visuals and
+- [1367840.00s] and things that sort of surprise people
+- [1371440.00s] and attract them in emotional ways to
+- [1375799.00s] uh not I would say not a game's
+- [1379840.00s] unfortunately narrative or um its sort
+- [1384400.00s] of uh visuals outside of game play.
+- [1388480.00s] Gamers, especially over the last like
+- [1390320.00s] four or five years, have become
+- [1392200.00s] extremely immunized to sexy trailers
+- [1395760.00s] that don't actually show gameplay. And
+- [1398080.00s] they really want to see what is it like
+- [1400080.00s] to play the game. GTA 6. Yeah. Yeah.
+- [1403200.00s] Yeah. I mean, look, if you're one of
+- [1405200.00s] these big studios and you have a giant
+- [1407360.00s] title that already has millions of fans
+- [1409600.00s] and, you know, 100 million people who
+- [1411679.00s] are familiar with the game universe, the
+- [1415280.00s] rules are different. No, no, but I'm
+- [1417039.00s] saying to Mor that was a big complaint
+- [1418799.00s] of the recent trailer was that they
+- [1420240.00s] don't show gameplay. Yeah. Yeah. And I
+- [1422320.00s] think I think that's a a really fair
+- [1423919.00s] complaint, but also that complaint
+- [1426559.00s] exists because millions of people watch
+- [1428400.00s] that trailer. If you're an indie studio
+- [1430960.00s] with no history, you can't get millions
+- [1433039.00s] of people to complain about your
+- [1434640.00s] trailer. Like, nobody's even going to
+- [1436159.00s] watch it. So the things that we've seen
+- [1438720.00s] that are really successful are extremely
+- [1440400.00s] short form video visual content that
+- [1443120.00s] shows gameplay that uh is surprising,
+- [1446880.00s] emotionally triggering. Um that that
+- [1449440.00s] emotion could be, you know, for horror
+- [1451840.00s] games it's often like fear, surprise. Um
+- [1455360.00s] for uh a for some narrative games it's
+- [1460240.00s] um the text content and how interesting
+- [1464400.00s] that can be. Uh, a recent game that that
+- [1466720.00s] did a really nice job with this is
+- [1467919.00s] called Esoteric Eb. They did a great job
+- [1470960.00s] of showing off their like weird unique
+- [1473039.00s] writing and how it fit with with a
+- [1475279.00s] particular genre that's that's sort of
+- [1476880.00s] popular in that space right now. Um, you
+- [1479039.00s] can see this with a a little bit with
+- [1480400.00s] the visual novel style games. And for
+- [1482480.00s] games like ours, it's a lot of what
+- [1485360.00s] games like Hades or Call to the Lamb or
+- [1489240.00s] um you know those Nolita or uh even even
+- [1493919.00s] Vampire Survivor whatever like those
+- [1495919.00s] type of games show off
+- [1497720.00s] this sort of sexy crazy
+- [1501679.00s] um unique visual action in the game play
+- [1506279.00s] itself and that's what that's what we've
+- [1508640.00s] seen be successful. I I also would
+- [1510240.00s] recommend anybody who's deeply
+- [1511440.00s] interested in this topic uh check out a
+- [1513440.00s] newsletter called Game Discover Co. from
+- [1515440.00s] Simon Carlos. I I actually consulted
+- [1517679.00s] with him a couple years ago on the the
+- [1520240.00s] project that I'm talking about and on
+- [1522480.00s] the game. Um I think his his insights
+- [1525919.00s] and his data on this is is absolutely
+- [1528320.00s] topnotch. How did you by the way Hades
+- [1531279.00s] was excellent. That was my COVID game.
+- [1532640.00s] That was like I was sick with CO. I just
+- [1534480.00s] laid in bed playing Hades. How did you
+- [1536960.00s] get the the data to to like figure out
+- [1539600.00s] what works and what doesn't? And is this
+- [1541520.00s] the type of thing that you can recreate
+- [1543440.00s] for any brand?
+- [1546600.00s] Um, yes. Was it very manual or was it
+- [1549360.00s] like Yeah, it it was a little manual.
+- [1552480.00s] Yeah. So, I would say I think most of
+- [1555360.00s] our most of our data collection came
+- [1557279.00s] from just googling around for games. So,
+- [1560159.00s] we built an automated system that
+- [1561919.00s] essentially, you know, for each of the
+- [1563520.00s] 80,000 titles or whatever, we we
+- [1565440.00s] filtered out the ones that basically had
+- [1568000.00s] almost no reviews, which which brought
+- [1569760.00s] the list down to like 5,000 or
+- [1571679.00s] something. And then for each of those,
+- [1573279.00s] we did a a Google search, not manually,
+- [1575360.00s] but like an automated Google search for
+- [1577760.00s] a variety of um things. So, that the
+- [1581200.00s] name might be something like Hades Game
+- [1584240.00s] Sales or Hades Game Sales announcement
+- [1587279.00s] or that kind of thing. And then we would
+- [1588559.00s] look for hey did the publisher announce
+- [1591440.00s] the number of game sales on a particular
+- [1593279.00s] date. Then we would record that in a
+- [1594960.00s] database here's the date here's the game
+- [1597360.00s] here's the you know ID and here's the
+- [1599520.00s] number of sales that they announced
+- [1601039.00s] passed on a certain day and then we
+- [1603600.00s] would look at the okay how many reviews
+- [1605440.00s] did they have on that day as oo you know
+- [1607919.00s] uh leading up to that time etc etc. So,
+- [1610880.00s] it's buildable. Anybody can build it.
+- [1612640.00s] The data is all public. It's on the
+- [1614480.00s] internet or in Steam. Steam has a very
+- [1616880.00s] nice API that you can call for this
+- [1618640.00s] stuff. Um, and it's very crawable, too.
+- [1622679.00s] The application to other businesses and
+- [1626240.00s] other sectors is quite challenging. But
+- [1628559.00s] I would say one of the things that that
+- [1630080.00s] we use at Spark Turo, right, Spark Toro
+- [1631840.00s] does exactly this. We we try and look at
+- [1634000.00s] people who visit this website also visit
+- [1636080.00s] these websites, also listen to these
+- [1637919.00s] podcasts, also subscribe to these
+- [1639440.00s] subreddits, also listen to these, you
+- [1641840.00s] know, uh um YouTube channels, podcasts,
+- [1644880.00s] whatever. And those pieces of data come
+- [1647919.00s] from clickstream data. Clickstream data
+- [1650000.00s] is not it's sort of technically public,
+- [1653039.00s] but you have to buy it from a provider.
+- [1655440.00s] Um we use Datos which uh was bought by
+- [1658240.00s] Semrush a couple years ago and Datos
+- [1661279.00s] essentially gives us a you know
+- [1663120.00s] clickstream for 10 million plus devices.
+- [1667600.00s] Uh so this is like you know phones and
+- [1669919.00s] desktops and laptops and then every URL
+- [1673520.00s] that is visited in a browser they
+- [1676000.00s] capture they aggregate those they
+- [1677679.00s] anonymize it they remove any PII and
+- [1680320.00s] then they essentially sell the
+- [1682240.00s] aggregation. So, they're not telling us,
+- [1684080.00s] oh, Edward visited these websites.
+- [1686559.00s] They're telling us, hey, here's, you
+- [1689200.00s] know, 10,000 people visited or 10,000
+- [1692320.00s] people in the panel visited this site
+- [1694480.00s] and of those 10,000, 3,000 visited this
+- [1697600.00s] site and 2,000 visited this site and 500
+- [1700000.00s] visited this site and etc., etc. So,
+- [1702640.00s] that's that's essentially how we build
+- [1704320.00s] our data set uh behind Spark Toro. And
+- [1707120.00s] it it kind of works the same way that
+- [1708559.00s] this game project that I was talking
+- [1709919.00s] about, right? So like we're trying to
+- [1711279.00s] figure out what's successful in games
+- [1714640.00s] marketing but Spark Tour is trying to
+- [1716720.00s] figure out what does an audience do who
+- [1720159.00s] visits a particular site or who has a
+- [1723120.00s] you know particular word in their
+- [1724399.00s] profile or any way you can describe an
+- [1727039.00s] audience. We try and provide that same
+- [1729039.00s] kind of data. So for snack bar your main
+- [1732080.00s] data you were just getting it from dos
+- [1734399.00s] and from uh and from steam. Sorry. Uh,
+- [1737919.00s] we didn't use Datos for the Snack Bar
+- [1740240.00s] project. We used Datos for Spark Toro.
+- [1744080.00s] Okay. How are How are you How are you
+- [1746480.00s] crawling and and getting all of that for
+- [1750000.00s] for Snack? Uh, for Snack bot. Yep.
+- [1754399.00s] Exactly. Okay. Yeah. Just built a bot.
+- [1757039.00s] Um, I think we used one of the APIs that
+- [1760640.00s] crawls Google to get the automated
+- [1762880.00s] Google searches. So there's like uh SER
+- [1765919.00s] API, SER, a few other ones. There's I
+- [1768559.00s] think there's five or six different
+- [1770000.00s] competitors in that space that crawl
+- [1771600.00s] Google for you. Were you only looking at
+- [1773679.00s] the at the first announcements for each
+- [1775520.00s] game or were you looking at like a bunch
+- [1777039.00s] of different announcements? Yeah. Yeah.
+- [1779200.00s] We would we I think we had on average
+- [1780960.00s] five or six announcements per game where
+- [1783760.00s] we knew sales. Um because many you know
+- [1786720.00s] if a game is using sales to sort of
+- [1790080.00s] promote themselves they usually do it
+- [1792640.00s] many times right they'll be like
+- [1794559.00s] Assassin's Creed Mirage crossed 500,000
+- [1797279.00s] crossed a million crossed 2 million
+- [1798799.00s] cross 5 million crossed 10 million like
+- [1800640.00s] you know Ubisoft likes to share those
+- [1802559.00s] numbers because they they create um both
+- [1805679.00s] demand in the market and also help their
+- [1809120.00s] stock and make people excited about the
+- [1811360.00s] company that kind of thing. And you said
+- [1813840.00s] I think you said I think you said this.
+- [1815440.00s] It was just Twitter that you were
+- [1816799.00s] looking at for announcements. That was
+- [1818600.00s] No. Oh, it was it was a bunch. No. And
+- [1821840.00s] announcements come from all over. We We
+- [1823279.00s] found a healthy number of announcements
+- [1825039.00s] on Masttodon. There's It turns out
+- [1826960.00s] there's a lot of indie game developers
+- [1828559.00s] who like publish their stats on
+- [1829919.00s] Mastadon. What What year was this?
+- [1833880.00s] We beginning of last year. Oh, okay.
+- [1836720.00s] Okay. I see. Yeah. Yeah. Sure.
+- [1839720.00s] Maybe maybe two years ago, actually.
+- [1842320.00s] Dude, I I gotta say that is your
+- [1844000.00s] approach to like figuring out what works
+- [1846320.00s] with games and like that is so
+- [1848480.00s] brilliant. That's why that's why that's
+- [1850159.00s] why you're my favorite. That's that's
+- [1851440.00s] like No, for real. Like I mean, but this
+- [1853120.00s] is, you know, this is like my playbook,
+- [1855039.00s] right? Like I I like to make big data
+- [1857360.00s] studies and then like look at
+- [1858799.00s] correlations and I don't know, I just
+- [1861600.00s] opinions are fine. Like I don't have any
+- [1863440.00s] problem with opinions. And there's
+- [1864480.00s] people who are more successful than me
+- [1865840.00s] who are fully opinion based. Like they
+- [1867760.00s] they don't use data. But I just like to
+- [1870000.00s] have the numbers, right? To be able to
+- [1871360.00s] prove to myself like, "Hey, before I
+- [1873679.00s] make a, you know, make a judgment, let
+- [1876159.00s] me make sure that it's it's backed up by
+- [1878200.00s] something." There's a rare, very, very
+- [1881600.00s] small amount of people who have the most
+- [1883760.00s] incredible intuition and who are like
+- [1886159.00s] basically oracles. You can ask them any
+- [1888000.00s] question and they I have like I have
+- [1889600.00s] three friends like that. My friend Ram,
+- [1891360.00s] my friend Solomon, and my friend Yuri.
+- [1892960.00s] And they are just it they are right
+- [1895600.00s] about everything. It's it's it's crazy.
+- [1897919.00s] I am not. And I am the type of person
+- [1900240.00s] who needs to learn from these from those
+- [1902159.00s] people or from or from data. And I am
+- [1905279.00s] like proven wrong all the time. All all
+- [1908159.00s] the time. And uh I mean there's in the
+- [1910720.00s] history of humanity there's no one who's
+- [1912240.00s] right about everything. It just like it
+- [1914480.00s] doesn't happen otherwise. No no they're
+- [1916240.00s] not right. I'm exaggerating the stock
+- [1918240.00s] market, right? Yeah. Yeah. No, I'm
+- [1919919.00s] completely exaggerating. But they are
+- [1921440.00s] like it their intuition is just it's
+- [1925360.00s] shockingly it's it's shockingly good. I
+- [1927760.00s] I don't want to discount intuition like
+- [1929440.00s] like we were talking about, right? I I I
+- [1931360.00s] want to be clear that there are people
+- [1932640.00s] who don't use my approach to what you
+- [1935120.00s] know, whatever they're building,
+- [1936080.00s] whatever they're creating. They use an
+- [1937679.00s] intuition based approach. Some of them
+- [1939360.00s] have been extremely successful, far more
+- [1941200.00s] successful, you know, on paper,
+- [1943039.00s] whatever, than than I've been uh with my
+- [1945039.00s] companies. And I think I think that's
+- [1947200.00s] great. I just like the data driven
+- [1949840.00s] approach. I think one of the reasons I
+- [1951360.00s] like it is because it's
+- [1952760.00s] justifiable. Like something that I
+- [1954799.00s] always hated, Edward, I hate I'll tell
+- [1957360.00s] you like even as a kid I didn't like it
+- [1958880.00s] when my parents did this which was the
+- [1960880.00s] like you know because I said so
+- [1964399.00s] I wanted a reason right like you want
+- [1966480.00s] logic
+- [1968120.00s] andre doesn't want to be told no
+- [1971360.00s] I mean I'm happy to be told no I think
+- [1974000.00s] for for example why should I not go 80
+- [1976080.00s] miles an hour on the highway because the
+- [1978640.00s] risk of death every mile hour over 60
+- [1982159.00s] goes up so dramatically like it's just
+- [1984320.00s] ridiculous I want to be told no like
+- [1986159.00s] Speed limits are a great thing. Tell me
+- [1987760.00s] about that. Vaccines, awesome. Like, oh
+- [1990159.00s] my god, tell me to get a damn vaccine
+- [1992000.00s] and tell me which one and tell me when
+- [1994080.00s] because can save my life and prevent me
+- [1996720.00s] from getting shingles, which is like the
+- [1998320.00s] worst, most painful thing. Friend of
+- [1999760.00s] ours just got it. Um, anyway, so like I
+- [2002399.00s] love the rules. I absolutely, but I also
+- [2004799.00s] want justification. Like, show me the
+- [2006960.00s] numbers, right? I want to see that
+- [2009120.00s] 10,000 people took this clinical trial.
+- [2010799.00s] They took the shingles vaccine. when
+- [2012159.00s] they got it, their reported pain was so
+- [2014399.00s] much lower and that how long it lasted
+- [2016640.00s] was lower, blah blah blah blah blah. I
+- [2018000.00s] don't want to see the like, hey, rub
+- [2020399.00s] this, you know, compound from a beetle
+- [2022880.00s] on your chest. Like, whoa, whoa, whoa.
+- [2026159.00s] I'm not I'm not into that. Yeah. Yeah,
+- [2029120.00s] I'm Yeah, I get that completely. You
+- [2031200.00s] want to be Yeah. Just there has to be
+- [2033200.00s] reason behind it. I'm the same I'm the
+- [2035840.00s] same way. I'm I'm like happy proven
+- [2038320.00s] wrong. Yeah. Oh, yeah. Yeah, I love I
+- [2040880.00s] love being proven wrong, right? like you
+- [2042240.00s] want to you want to show me some new
+- [2043440.00s] data just you know the thing that uh I
+- [2047279.00s] think is really interesting for
+- [2048560.00s] marketers especially one of the things
+- [2051200.00s] that's fascinating is like you might be
+- [2052879.00s] listening to this conversation between
+- [2054159.00s] the two of us and like yeah data is
+- [2055679.00s] really convincing I like data I you know
+- [2058480.00s] these strong correlation studies with
+- [2060639.00s] real numbers statistically significant
+- [2063040.00s] like I understand stats and math blah
+- [2064720.00s] blah blah blah blah blah that resonates
+- [2066720.00s] with me you're in the minority if that
+- [2069280.00s] message resonates with you the way it
+- [2070800.00s] resonates with you and
+- [2072560.00s] you're in the minority. Most people are
+- [2075119.00s] not convinced by stats. For for example,
+- [2078240.00s] uh I was having this conversation with
+- [2079520.00s] some friends the other day and they were
+- [2080639.00s] like, "Oh man, Chicago is really
+- [2083159.00s] dangerous." I I had this like, is it?
+- [2086320.00s] Let's let's go look it up. Well,
+- [2088280.00s] statistically, you know what? Seattle in
+- [2090560.00s] the 80s and 90s, every day of those two
+- [2092879.00s] decades was like five times more
+- [2094960.00s] dangerous than Chicago is today. and you
+- [2097280.00s] grew up here and like you don't think
+- [2099599.00s] Seattle was dangerous when you were a
+- [2101200.00s] kid, right? So why does Chicago seem
+- [2103839.00s] dangerous? But there like but I know
+- [2105760.00s] this guy and this guy was a police
+- [2107680.00s] officer in Chicago and he said this
+- [2109040.00s] terrible thing happened. That's an
+- [2111200.00s] anecdote. It's a story. It it might be a
+- [2114160.00s] true story. I I I think it is a true
+- [2116000.00s] story, but in the grand scheme of things
+- [2118880.00s] that does not make Chicago statistically
+- [2121280.00s] dangerous, right? Highway driving way
+- [2123040.00s] more dangerous than Chicago. And and I
+- [2126480.00s] think this is a really hard message for
+- [2128560.00s] people to gro and understand. And as a
+- [2130560.00s] marketer, you should be careful about
+- [2133119.00s] learning what your audience resonates
+- [2135760.00s] with. It might not be data. Like you can
+- [2139440.00s] use data to inform your own opinion if
+- [2141520.00s] that's what resonates with you. But if
+- [2143440.00s] you're making a message, you know,
+- [2145599.00s] that's going to appear on your landing
+- [2146880.00s] page or homepage, the email that people
+- [2148960.00s] are going to open, the content that
+- [2150560.00s] you're going to create, the social media
+- [2152599.00s] post, data and statistics often is not
+- [2156000.00s] it.
+- [2157880.00s] anecdotes stories emotions things
+- [2160800.00s] that like trigger people's fear,
+- [2162720.00s] surprise, happiness, joy, um even anger.
+- [2167920.00s] Those things often are more effective at
+- [2170880.00s] changing minds and nudging behavior than
+- [2173599.00s] data is, which is infuriating. And like
+- [2176560.00s] I hate that about humanity, but also we
+- [2178960.00s] live in the real world, so let's
+- [2180079.00s] recognize it. Well, I make this show for
+- [2182480.00s] people who like data, so you're you're
+- [2184560.00s] in the you're in the right you're in the
+- [2185520.00s] right place. But I think that's a it's a
+- [2188240.00s] good lesson for all of them, right? To
+- [2189599.00s] be like not everyone is like you. Oh
+- [2191920.00s] yeah. Oh yeah. I mean I know so many
+- [2194720.00s] people who are not and it's
+- [2197160.00s] uh there are a lot but but then if
+- [2200320.00s] you're when you're obsessed with data
+- [2201760.00s] then you also have to be obsessed with
+- [2203440.00s] questioning the source of the data and
+- [2206000.00s] going really deep into where it came
+- [2207680.00s] from.
+- [2209200.00s] Yeah. Yeah. Yeah. I mean like I'll tell
+- [2212000.00s] you um good example of this. So Spark
+- [2214400.00s] Toro I mentioned uses Datos which is
+- [2216000.00s] like our clickstream data provider but
+- [2217839.00s] occasionally we see something funny in
+- [2219280.00s] the data and we're like this doesn't
+- [2221440.00s] doesn't feel right like something's off
+- [2223440.00s] here and and this is why I love digging
+- [2225359.00s] into it and I like doing big studies
+- [2227200.00s] based on it because occasionally we'll
+- [2228720.00s] find something funny and I'm like oh
+- [2230400.00s] what's going on here? Oh okay got it.
+- [2232960.00s] Datos has this like particular bias. How
+- [2234960.00s] do we control for that bias and like
+- [2237280.00s] present the data accurately? Um you know
+- [2240720.00s] it's just how panels are built. panels
+- [2243680.00s] have biases. I mean, a good example of
+- [2246560.00s] this that almost everyone's familiar
+- [2247839.00s] with is um elections, right? So when
+- [2250800.00s] when you have a a political election,
+- [2253440.00s] you know, the United States had an
+- [2254560.00s] election last year. It was very well
+- [2256800.00s] covered worldwide and um most folks are
+- [2259280.00s] familiar with the fact that like the
+- [2261839.00s] polling data, which you know, polls are
+- [2263920.00s] usually based on a few thousand people
+- [2267119.00s] and the polls were statistically
+- [2271440.00s] uh quite quite accurate, but they were
+- [2274800.00s] off by around 1.5% 2%. right in in favor
+- [2279200.00s] of um the Democratic candidate here in
+- [2281839.00s] the US uh Kla Harris. And then you know
+- [2284240.00s] come election day it turned out like hey
+- [2286240.00s] that 1.5% 2% that the polls were off
+- [2289440.00s] swung the election in the direction of
+- [2291760.00s] Trump even though like you know sort of
+- [2293520.00s] statistically it looked like Kla was
+- [2294960.00s] going to win from your polling Trump
+- [2297040.00s] won. And this is the same thing that
+- [2298400.00s] happened in 2016, the first time Trump
+- [2301280.00s] won, right? Like polls statistically
+- [2302720.00s] undercounted him, I think that time was
+- [2304079.00s] like 3 or 4%. Um, and it's a really good
+- [2308720.00s] thing to recognize like that doesn't
+- [2310320.00s] mean polls are wrong, right? Polls were
+- [2313280.00s] correct. Like polls got it so close, two
+- [2315920.00s] or 3%. That's incredible. Like that's so
+- [2318320.00s] damn close. That's that's the kind of
+- [2320720.00s] data reliability that I would love to
+- [2322480.00s] have in all my products, right?
+- [2325160.00s] But when it when it when you're talking
+- [2327599.00s] about a really close like you know 47%
+- [2329920.00s] to 48% type of thing obviously means the
+- [2333119.00s] difference between one candidate and
+- [2334640.00s] another. And so I like to be aware of
+- [2339560.00s] those what those differences are and
+- [2342320.00s] where there might be polling error or or
+- [2344720.00s] statistical sampling error. And so we
+- [2347119.00s] spend a lot of time in the raw numbers
+- [2349440.00s] that Datos gives us trying to trying to
+- [2351680.00s] identify what those are so we can
+- [2353119.00s] control for it. Yeah. Yeah. Really
+- [2355520.00s] important to look at that stuff. I want
+- [2357760.00s] to I want to go um back to like what
+- [2361200.00s] your really So this is just a personal
+- [2363440.00s] question. What got you so interested in
+- [2366240.00s] SEO when you started when you started
+- [2368640.00s] Moz and and and like and then grew it
+- [2371200.00s] and then what got you really interested
+- [2374000.00s] in in audience data because now you're
+- [2376560.00s] doing Spark Toro? Yeah. uh with Moz. It
+- [2381280.00s] was uh basically we were running a a web
+- [2384560.00s] design consultancy, you know, back in
+- [2387119.00s] like 99 to
+- [2389160.00s] 0203. And our customers started asking
+- [2391839.00s] us, our clients were like, "Hey, when
+- [2394079.00s] you build the website, like we want to
+- [2395440.00s] show up in at the time it was like
+- [2397920.00s] Dogpile, Infosek, Glycos, you know, um
+- [2401359.00s] MSN search was big back then, Yahoo, and
+- [2404400.00s] and this nent one, Google, right, that
+- [2406400.00s] was that was climbing the charts. Um,
+- [2409040.00s] and we basically hired subcontractors to
+- [2411680.00s] do SEO for our clients. But then we we
+- [2415040.00s] were so broke. We were running out of
+- [2416880.00s] money. We couldn't pay our
+- [2417680.00s] subcontractors. And so I had to start
+- [2419119.00s] doing the work myself. And I just found
+- [2420800.00s] I had a a prediliction for it, right? I
+- [2424000.00s] I like doing the work. It was
+- [2425839.00s] interesting to me. I I like the like
+- [2428320.00s] sort of game of trying to get, you know,
+- [2431119.00s] rankings and links and do the right
+- [2433520.00s] content, do the right keywords, like
+- [2435280.00s] that matching the algorithm. And that
+- [2437280.00s] was really fun for me. Um, and I found I
+- [2439920.00s] was good at explaining it to other
+- [2441200.00s] people. Probably even better than I was
+- [2442880.00s] at actually doing the work was I was
+- [2444720.00s] really good at explaining how SEO worked
+- [2447040.00s] to other people. And and that's what
+- [2448880.00s] built the SEO MA blog and then the the
+- [2451520.00s] Moz subscription, you know, sort of
+- [2453520.00s] followed from that. Um with Spark Toro,
+- [2456720.00s] my frustration, Edward, was that
+- [2459680.00s] um even even the last few years I was at
+- [2461920.00s] Moz, I found that there were many
+- [2463520.00s] businesses that I was in contact with
+- [2465640.00s] who essentially like they
+- [2470200.00s] couldn't realistically build their
+- [2473040.00s] business exclusively through ranking in
+- [2474880.00s] Google. And I think that's happened, as
+- [2476960.00s] we talked about earlier on the show,
+- [2478880.00s] that's happened to more and more
+- [2480000.00s] companies, right? where it's like, hey,
+- [2482640.00s] you can't just rely on Google. That that
+- [2485119.00s] can't be your only channel. Uh
+- [2487359.00s] especially with the rise of zero click
+- [2488800.00s] searches and all this kind of stuff.
+- [2489760.00s] Like, you got to be in more places. And
+- [2491760.00s] there was there was no way I could help
+- [2493760.00s] these companies understand where their
+- [2495920.00s] audiences actually were and prove it to
+- [2497800.00s] them. Um and I was, you know, we were
+- [2500560.00s] quickly able to see how survey data was
+- [2503760.00s] terrible for this. Like, you can't ask
+- [2505200.00s] people, "How did you hear about us?"
+- [2506960.00s] It's like, it's the worst question.
+- [2508800.00s] nobody can answer you consistently or
+- [2510960.00s] honestly or or fully. Um they don't even
+- [2513839.00s] know how they found you. Um and so yeah,
+- [2517760.00s] I wanted this I wanted this product that
+- [2520880.00s] could help solve that problem and um
+- [2524480.00s] that was the genesis of Spark
+- [2527160.00s] Toro. What
+- [2529079.00s] I you're like you should do other types
+- [2531440.00s] of marketing. That was so so as I said
+- [2533760.00s] like that was one of the things that you
+- [2535280.00s] that you taught when you were still
+- [2537040.00s] working at when you were still at MOS
+- [2538960.00s] and that was like such a valuable lesson
+- [2542319.00s] which is be a well-rounded marketer
+- [2544640.00s] because if you want SEO results that's
+- [2547200.00s] also really going to improve your SEO
+- [2550359.00s] results. There you go. That's that's
+- [2552640.00s] exactly I mean look Google I think if
+- [2556560.00s] you and I were designing a search engine
+- [2558720.00s] one of the most foolish things that we
+- [2560079.00s] could say would be hey let's only ever
+- [2562240.00s] pay attention to exactly the ranking
+- [2564400.00s] factors that sort of SEOs would try and
+- [2568319.00s] uh manipulate to rank in our search
+- [2570319.00s] engine that's just plain dumb right um
+- [2573680.00s] and now you can see you know with with
+- [2575440.00s] large language models and and the rise
+- [2577359.00s] of AI that they are using just this vast
+- [2581040.00s] variety of signals that is essentially
+- [2584040.00s] how commonly referenced are you as the
+- [2588880.00s] sort of brand or authority on a topic uh
+- [2593040.00s] not just across the web but in books in
+- [2595920.00s] magazines and radio and television and
+- [2599040.00s] sort of the offline world and what
+- [2600480.00s] people are talking about what they're
+- [2602000.00s] saying on social media e even just what
+- [2604400.00s] are people typing into their phones and
+- [2606960.00s] like emailing each other and right like
+- [2608960.00s] all these different sources are being
+- [2610640.00s] used as um training data for large
+- [2614640.00s] language models. I think uh is it
+- [2616400.00s] Facebook is in a lawsuit right now
+- [2617920.00s] because it it trained its LLM on um on
+- [2623200.00s] books without paying for them, including
+- [2624800.00s] Lost and Founder, by the way, including
+- [2626400.00s] my book and Geraldine's book. Wow. Wow.
+- [2628800.00s] Yeah. And it's it's one of those
+- [2630480.00s] frustrating things where you're like,
+- [2631440.00s] "What? You you get to do that for free?
+- [2633599.00s] You don't have to pay anybody. You can
+- [2635280.00s] just like steal it essentially." And
+- [2636720.00s] they're
+- [2637480.00s] like, and they have like, you know, the
+- [2639680.00s] DOJ, I think, has an email chain between
+- [2641920.00s] Facebook exacts that's like, hey, this
+- [2643680.00s] is super illegal. And they're like,
+- [2644800.00s] yeah, just do it anyway.
+- [2647200.00s] Wow. Wow. It gives you this sense that
+- [2650000.00s] like if you are trying to do marketing
+- [2652800.00s] effectively through one particular
+- [2654960.00s] channel and you are not paying attention
+- [2657040.00s] to the fact that influence is created in
+- [2660079.00s] a massively diverse set of channels and
+- [2662960.00s] sources, you're going to have a bad
+- [2664800.00s] time. I think the best the best brands,
+- [2667440.00s] the best marketers, the best
+- [2668800.00s] entrepreneurs realize I need to be
+- [2671359.00s] present in the places where my audience
+- [2673119.00s] pays attention and and do the the right
+- [2677040.00s] work to be in those places rather than,
+- [2681040.00s] you know, hey, I'm really good at
+- [2682400.00s] Twitter. I'm just going to stick to
+- [2685240.00s] Twitter. That's a tough one. And and
+- [2688720.00s] Spark Turo shows shows those places
+- [2691280.00s] where your audience is. you I mean look
+- [2694160.00s] because I I think it was insane it was
+- [2697280.00s] insanely frustrating to me that there
+- [2698640.00s] wasn't a like an inexpensive product
+- [2702079.00s] where I could just go and say here's who
+- [2704880.00s] my audience is tell me where they are
+- [2707440.00s] like tell me what they pay attention to
+- [2710359.00s] that you know I I Casey and I had this
+- [2713359.00s] idea in 2018 that it's like it can't be
+- [2715680.00s] that hard like that data must be
+- [2717599.00s] available somehow it is quite difficult
+- [2720560.00s] to get after after you know, working on
+- [2723440.00s] this problem for the last seven years.
+- [2725280.00s] It's hard, but it is solvable and I
+- [2727920.00s] think that's a a superpower that Spark
+- [2730079.00s] Toro can deliver and I don't know, I
+- [2732240.00s] hope I hope it's something more people
+- [2733680.00s] invest in. So, like you said, stories
+- [2736720.00s] get people to take action, stories get
+- [2738640.00s] people to move. What are some like crazy
+- [2741040.00s] customer success stories for Spark Toro
+- [2743359.00s] where customers like they just like
+- [2746720.00s] getting this audience insight data
+- [2749440.00s] helped them so much and how did it help
+- [2751520.00s] them and what results did they get and
+- [2753119.00s] where were they before? I'm sure you
+- [2754480.00s] have like tons of these. Yeah, a few.
+- [2758680.00s] Um, okay. One of the most fun ones, uh,
+- [2761599.00s] this is from a few years ago, but a um a
+- [2764640.00s] TV show contacted us, like basically the
+- [2767839.00s] um whatever the the marketing product
+- [2771119.00s] team for this particular television
+- [2772960.00s] show. I I'm not allowed to share which
+- [2774240.00s] one it is, so they didn't give me
+- [2776160.00s] permission for that, but it was a a TV
+- [2777520.00s] show that essentially was getting
+- [2778560.00s] cancelled on one of the major streaming
+- [2780560.00s] services, and they were trying to get
+- [2782400.00s] picked up by other streaming services.
+- [2785040.00s] And so they essentially used Spark Toro
+- [2787280.00s] data to get demographic and behavioral
+- [2789440.00s] information about people who watched
+- [2791680.00s] that show and subscribed to kind of the
+- [2795280.00s] um that whatever social channels that
+- [2798079.00s] like that show was producing. Um, and
+- [2801599.00s] then they use that data in their
+- [2803520.00s] presentation pitch to pitch and win a
+- [2806960.00s] contract with another streaming service
+- [2808800.00s] because they were able to show that that
+- [2811280.00s] new streaming service that they were
+- [2812800.00s] reaching an audience that that streaming
+- [2814319.00s] service really wanted to reach that they
+- [2816480.00s] didn't have subscribers in yet. Um, the
+- [2819119.00s] show was like a was kind of sci-fi uh
+- [2824319.00s] little like like historical sci-fi, but
+- [2826800.00s] um that essentially they didn't have
+- [2829359.00s] that audience. this this streaming
+- [2830880.00s] service that picked them up. And so it
+- [2833119.00s] was a big win for that show to be able
+- [2836319.00s] to get uncancled and use Spark Toro data
+- [2838960.00s] to make the pitch. And I just I love
+- [2841680.00s] that story. Like it's uh it's so fun.
+- [2843599.00s] I'll um yeah, probably probably keep
+- [2846960.00s] that one in mind for for the rest of my
+- [2848720.00s] life. I just I I love that we helped a
+- [2850640.00s] show get uncancled.
+- [2852560.00s] And and you use it I mean you use it you
+- [2854640.00s] use it to launch Spark Toro. You you
+- [2856720.00s] were like Oh, sure. Yeah, of course.
+- [2858640.00s] Yeah. Yeah. Yeah. I mean, I think a lot
+- [2860560.00s] of people use us for specifically for
+- [2862560.00s] launches either not just their company,
+- [2864480.00s] but oftentimes like a product launch or
+- [2866480.00s] even a piece of content, right? So, a
+- [2868960.00s] lot of agencies will use us to um make a
+- [2873040.00s] pitch for, hey, here's where we're going
+- [2874960.00s] to promote our content. Here's the
+- [2876720.00s] topics that we're going to focus on,
+- [2878160.00s] right? Because Spark Tour gives topics
+- [2879520.00s] of interest, search terms, that kind of
+- [2882079.00s] stuff. Um, and then here's how we're
+- [2884720.00s] going to position it to reach these
+- [2886079.00s] audiences because we know that this
+- [2887680.00s] audience pays attention to these kinds
+- [2890720.00s] of YouTube channels, these kinds of
+- [2892160.00s] podcasts, these kinds of subreddits,
+- [2893920.00s] these kinds of social accounts. And so,
+- [2895920.00s] we're going to use the same language and
+- [2898319.00s] emotions and like style that's been
+- [2900720.00s] successful for other content launches
+- [2902400.00s] with these creators when we launch our
+- [2904640.00s] own thing. Actually that was so before I
+- [2908079.00s] yeah you before I say so it was very
+- [2910240.00s] clear how was how it would be useful if
+- [2912000.00s] you're doing like outbound sales or if
+- [2914480.00s] you're getting onboarded onto a company
+- [2916079.00s] you want you want to understand that or
+- [2917599.00s] you're an agency all that stuff but you
+- [2919760.00s] know I love content marketing one of the
+- [2921359.00s] reasons I love content marketing is
+- [2922800.00s] because you made so much content about
+- [2924880.00s] content marketing and I I guess I wanted
+- [2927119.00s] to hear more about how Spark Toro is
+- [2928960.00s] used for content marketing and I guess
+- [2931440.00s] you're saying like Spark Toro shows the
+- [2933520.00s] content in your niche that is successful
+- [2935359.00s] So you can just use the style and the
+- [2937440.00s] themes and the topics. Yeah. So we we do
+- [2940800.00s] a few things on this front, right? So
+- [2942319.00s] like you can see specific pages that
+- [2946400.00s] perform well with a particular audience
+- [2949839.00s] um especially in search. So you know if
+- [2952880.00s] you if you go to Sparkurro and you
+- [2954480.00s] search for an audience like I don't know
+- [2956720.00s] landscape designers in Canada or
+- [2959200.00s] something, right? and we'll we'll show
+- [2960720.00s] like hey these pages come up most
+- [2964000.00s] frequently uh in all the search terms
+- [2967920.00s] that landscape designers search for and
+- [2971280.00s] so you can get a sense of like oh right
+- [2973359.00s] like this type of content tends to be
+- [2975040.00s] successful then you can also go over to
+- [2977040.00s] the topic section and you can get um
+- [2980319.00s] basically topics of interest to those
+- [2984359.00s] people what I like doing I like creating
+- [2986880.00s] stuff that people haven't invested in
+- [2988640.00s] before so I looking at that list of sort
+- [2991520.00s] of topics of interest that landscape
+- [2993680.00s] designers in Canada might have and then
+- [2996000.00s] the ones that have been successful and
+- [2997200.00s] be like hang on there's a hole here like
+- [2999520.00s] this this is missing this is no one's no
+- [3001920.00s] one's doing this one let's make let's
+- [3004640.00s] make some of that content I think it
+- [3006720.00s] also pays to probably invest in the the
+- [3009359.00s] sort of highest affinity topics for an
+- [3012319.00s] audience um but yeah that can that can
+- [3015520.00s] super help and then once you make it
+- [3017520.00s] Spark Toro also helps with where should
+- [3019839.00s] I promote it to whom and how, right?
+- [3022559.00s] Like what what subreddit should I be
+- [3024720.00s] participating in and sort of replying to
+- [3026880.00s] people on? What um YouTube channel
+- [3030000.00s] should I be pitching? Which podcast
+- [3031680.00s] should I be trying to go on? What press
+- [3033920.00s] sources should I reach out to for some
+- [3035599.00s] like PR coverage? Uh where should I
+- [3037839.00s] write a guest post or like submit an
+- [3040559.00s] article to? um what websites where if I
+- [3043359.00s] could, you know, maybe I should put my
+- [3045680.00s] piece of content on this website rather
+- [3047599.00s] than my own website or in addition to my
+- [3049599.00s] own website to get additional
+- [3052480.00s] um coverage and attention and rank in
+- [3054720.00s] the LLMs and get an AI overview and all
+- [3057280.00s] that kind of stuff. So, yeah, it's it's
+- [3059599.00s] really
+- [3060920.00s] um I think it solves a bunch of problems
+- [3063680.00s] that classic like SEO focused tools
+- [3066640.00s] would would not help you with um and
+- [3068559.00s] aren't designed to. Yeah. Yeah. when you
+- [3071599.00s] when you used that data to launch Spark
+- [3073680.00s] Toro, were you using were using a PR
+- [3075839.00s] agency armed with that data or were you
+- [3077760.00s] doing the outreach yourself?
+- [3080079.00s] I found that this is not true for
+- [3082160.00s] everybody, but like because I'm a person
+- [3084960.00s] who's known in the marketing field, when
+- [3087359.00s] I reach out to a publication in
+- [3089599.00s] marketing universe, the the response
+- [3092480.00s] rate is much higher, right? And so
+- [3094720.00s] that's kind of a a cheat code that I use
+- [3097119.00s] to be able to get lots of coverage for
+- [3098640.00s] Spark Toro because I I wanted to ask
+- [3100640.00s] that makes a lot of sense because I
+- [3101760.00s] wanted to ask if like someone doesn't
+- [3103280.00s] have a huge budget but they're like oh
+- [3104800.00s] my god this is super cool I want to do
+- [3106400.00s] this like should they be using Spark
+- [3108319.00s] Toro and how if they don't if they're
+- [3110160.00s] like if they're bootstrapped Yeah. Yeah.
+- [3112559.00s] Yeah. Yeah. I mean, I I think the answer
+- [3116920.00s] is almost always it pays to at least
+- [3120160.00s] have the data, like to know here's where
+- [3122640.00s] our audience is. Even if the pitches are
+- [3124800.00s] really hard and you're not having
+- [3125920.00s] success early on, people are turning you
+- [3128079.00s] down, it's okay, right? Like you can
+- [3131520.00s] over
+- [3133160.00s] time grow that audience, get better at
+- [3136160.00s] the pitching, hire a PR firm if you
+- [3138480.00s] want, hire a marketing person who's
+- [3140240.00s] going to do those pitches for you. Um,
+- [3142960.00s] participate in places where you where
+- [3145520.00s] there's no gatekeeping. Social media is
+- [3147280.00s] especially great for this. Um, YouTube
+- [3150800.00s] comments are pretty good for this to be
+- [3152480.00s] honest. I don't know if you've played
+- [3153839.00s] around, but there's lots of sectors
+- [3155040.00s] where like the YouTube video is on one
+- [3156559.00s] topic and then you'll see like a highly
+- [3158400.00s] upvoted comment that has some additional
+- [3160880.00s] useful stuff from someone and you know
+- [3163680.00s] it's not clear always like hey go buy
+- [3166160.00s] our product like that you know that
+- [3168640.00s] tends to get you banned. Same with
+- [3170800.00s] Reddit. But helpful consistency and
+- [3174640.00s] participation in communities where
+- [3176240.00s] people pay attention often gets you
+- [3179079.00s] followed, shared, liked, trusted. Uh
+- [3183200.00s] that's that's worked really well for me.
+- [3184559.00s] I I participate in a lot of Reddits,
+- [3187040.00s] like in a lot of subreddits because um
+- [3190319.00s] and I I almost never refer to Spark Toro
+- [3193680.00s] like or Snackbar, right? I'm just trying
+- [3196720.00s] to like hype people up and help them and
+- [3199040.00s] Yeah. Yeah. Are you commenting as your
+- [3200559.00s] name as Ran Fishkin? So then Okay, that
+- [3202880.00s] makes sense. Yeah. Yeah. You can't you
+- [3204880.00s] can't be anonymous. You have to like you
+- [3206640.00s] have people need to be able to Google be
+- [3208800.00s] or actually what people do on Reddit is
+- [3210720.00s] they is they pin something to their
+- [3213359.00s] personal profile and then someone goes
+- [3216000.00s] who is this? They click on on the
+- [3217599.00s] Redditor and then they see that pin
+- [3219440.00s] right there on Reddit. I and I guess I
+- [3222000.00s] guess it would kind of be the same thing
+- [3223200.00s] on YouTube. Who was this person who
+- [3224880.00s] keeps commenting? Oh, look at this. Look
+- [3226640.00s] at their look at their channel trailer.
+- [3228960.00s] It's this this thing. And same thing is
+- [3230880.00s] true on Twitter, on LinkedIn, on uh
+- [3235119.00s] Facebook, on threads, on blue sky, you
+- [3239200.00s] know, all all those places. People have
+- [3240880.00s] the same behavior. They like see someone
+- [3242559.00s] a few times and they're like, "Who who
+- [3244240.00s] is this? This this person sounds smart
+- [3245920.00s] on this topic." Click. Yeah. Yeah. Yeah.
+- [3249359.00s] That makes a lot of sense. I want to go
+- [3251520.00s] back I want to go back to SEO. I I I'd
+- [3253839.00s] be like so remiss if if I didn't mention
+- [3255839.00s] this. So I was I guess I was like one of
+- [3257760.00s] the first people to cover when you did
+- [3260559.00s] the Google API leak which was basically
+- [3262559.00s] like a one year exactly ago. I think it
+- [3264960.00s] was in May. Oh yeah. Yeah. So So you
+- [3267839.00s] dropped that man. That was Let me tell
+- [3269920.00s] you what. Well, let me tell you what
+- [3271160.00s] happened. So crazy. So like uh I was I
+- [3275119.00s] was on I was on Twitter and Twitter had
+- [3277359.00s] it I had just started doing like AI
+- [3279440.00s] summaries of things that were trending
+- [3280960.00s] and and I look at that to get news to
+- [3283599.00s] make content on and like I see I see
+- [3287280.00s] Google is in there just in the general
+- [3289359.00s] trending. Oh my god the biggest Google
+- [3291680.00s] leak of all time is there and I just
+- [3293520.00s] took a screenshot of my laptop with my
+- [3295760.00s] phone and put it as my IG story and then
+- [3297920.00s] that started going viral and I'm like I
+- [3300079.00s] need to like people want to hear about
+- [3302000.00s] this. So, I literally just and my
+- [3304480.00s] podcast editing skills were not what
+- [3306400.00s] they are now. Like for short episodes
+- [3309359.00s] now, there's like tons of tons of
+- [3311200.00s] cutaways and graphics and all of this
+- [3313280.00s] stuff. Back then, I I wasn't doing any
+- [3314720.00s] of that. I was just recording myself
+- [3316240.00s] like speaking or reading something. So,
+- [3318240.00s] I literally just read your article on
+- [3322079.00s] the Google API leak and that me just
+- [3325440.00s] sitting in a chair reading it going, "Oh
+- [3327440.00s] my god." like reacting that alone got
+- [3330160.00s] like 30,000 views and I made so much
+- [3332960.00s] content on it after and everyone was so
+- [3335119.00s] interesting and it was so what you
+- [3338079.00s] showed about how about how uh clicks in
+- [3341839.00s] the SERs are are used and engagement is
+- [3344480.00s] used and you always predicted that and I
+- [3346559.00s] this is something that I said in the in
+- [3348000.00s] the podcast over and over again which is
+- [3349839.00s] like if you've been doing SEO for a
+- [3352079.00s] while it's very clear that engagement is
+- [3355200.00s] important engagement on all levels is
+- [3358160.00s] important. It's like very clear. You
+- [3361680.00s] know, I had on uh Bill Hartzer who was a
+- [3363599.00s] pretty well-known SEO. I I was a couple
+- [3366400.00s] months ago and something that I asked
+- [3367839.00s] him. I'm like, "What do you think is
+- [3369040.00s] more important? Is it is it backlinks or
+- [3371680.00s] engagement?" This is like one of my
+- [3372960.00s] favorite favorite questions because you
+- [3374960.00s] will see a lot of SEOs who want to die
+- [3377119.00s] on the hill and say that it's backlinks.
+- [3379440.00s] But I think I totally I I Yeah. Still
+- [3382400.00s] you still you you still see that and I
+- [3384799.00s] and I'm it's so clear to me that it's
+- [3388000.00s] like you could get all these backlinks
+- [3389440.00s] get get to I don't want to but if you
+- [3392000.00s] have my understanding is during the
+- [3394160.00s] department of justice trial right was it
+- [3396720.00s] you know they they had like googlers um
+- [3400839.00s] submitting sort of testimony right where
+- [3403119.00s] they they swear to tell the truth and
+- [3404720.00s] the whole truth and and they can be
+- [3406079.00s] thrown in jail and fined right if they
+- [3408240.00s] lie and the the the Google person right?
+- [3411839.00s] The Google spokesperson, I can't
+- [3412960.00s] remember who it was, one of the
+- [3413839.00s] engineers that they subpoenaed said that
+- [3416640.00s] uh engagement essentially the the look
+- [3418640.00s] at clicks and and um bounce bounces back
+- [3422160.00s] to the SER and all that kind of stuff.
+- [3423520.00s] Basically, that was the number one
+- [3425119.00s] signal, right? And that uh I I want to
+- [3428079.00s] say links were in the top five, but not
+- [3430240.00s] the top three. So yeah, uh I can't
+- [3434000.00s] remember exactly what the testimony, but
+- [3435280.00s] but engagement was the number one signal
+- [3437200.00s] according to sworn in subpoenaed
+- [3441000.00s] testimony. Could that person be lying? I
+- [3443599.00s] guess so, but it seems unlikely, right?
+- [3446720.00s] I mean, just given both of our
+- [3448319.00s] experience, like it's it's just so clear
+- [3451119.00s] that it's engagement. It's like you make
+- [3452720.00s] a better page and the number one
+- [3454640.00s] position could have all these links, but
+- [3456400.00s] if your page is outperforming, if your
+- [3459040.00s] retention is higher, if people are
+- [3460559.00s] clicking through to other pages and
+- [3461920.00s] they're not pogo sticking, they're not
+- [3463200.00s] going back to the SERs, they're not
+- [3464880.00s] going back to the search engine results
+- [3466079.00s] page, like that's the best thing. I I
+- [3470240.00s] just can't I cannot imagine a world in
+- [3473040.00s] which you design an
+- [3475720.00s] algorithm that says, "Hey, if this thing
+- [3479839.00s] has more links, I don't care whether
+- [3481520.00s] people like it or not. Show it at the
+- [3484119.00s] top." You'd be insane to design an
+- [3486400.00s] algorithm like that. Insane. One of one
+- [3489280.00s] of the things that I love about SEO is
+- [3492640.00s] that like when you understand Google's
+- [3495920.00s] algorithm, you understand all the other
+- [3498520.00s] algorithms. Like you understand the Tik
+- [3500960.00s] Tok algorithm, you understand the
+- [3502640.00s] Instagram algorithm, you understand
+- [3504319.00s] YouTube, you understand all of it. Like
+- [3507359.00s] it's Yeah. I I mean I think Yeah. I
+- [3509839.00s] think Tik Tok is a unique one in a way
+- [3512480.00s] because Well, and social is a little bit
+- [3514880.00s] different. Like the one thing I'd say
+- [3516319.00s] that's really different from social and
+- [3517680.00s] search is search's goal is to get people
+- [3520720.00s] the answer as fast as possible because
+- [3523280.00s] Google knows that the faster they give
+- [3526000.00s] at least you know accurate information
+- [3528559.00s] the more likely it is someone will
+- [3530000.00s] perform another search and come back to
+- [3531680.00s] them and trust them and you know search
+- [3533760.00s] again and again and again. Whereas Tik
+- [3536640.00s] Tok's goal is just raw engagement. Like
+- [3539920.00s] how long can we keep people on the app
+- [3542079.00s] scrolling through more things coming
+- [3544400.00s] back more frequently create addiction?
+- [3547680.00s] And and addiction is different from
+- [3550599.00s] answering a query. And so the
+- [3554000.00s] optimization for addiction, which is
+- [3556319.00s] what Facebook and YouTube and Reddit and
+- [3558559.00s] Tik Tok and all these other ones do, is
+- [3560640.00s] just it's a different incentive
+- [3562400.00s] structure. And so I think that that's
+- [3563920.00s] the that's the core difference between
+- [3566480.00s] those two. And I I I I do think there's
+- [3569200.00s] real differences in how they design what
+- [3571760.00s] shows at the top of a social feed versus
+- [3574079.00s] what ranks at the top of a search engine
+- [3575839.00s] because of those incentives. Yeah, that
+- [3577920.00s] makes a lot of sense. But it's
+- [3579880.00s] it's I I just I'm trying to on the spot
+- [3583599.00s] think of like all the correlations that
+- [3585440.00s] I see where it's like uh I mean practice
+- [3587760.00s] the practice of being able to look at
+- [3590480.00s] you know I think
+- [3591880.00s] um NBA players have this right where
+- [3594640.00s] they like when they when they play a
+- [3596559.00s] game of like street basketball or
+- [3598160.00s] something they I can't remember the name
+- [3601040.00s] of it but but NBA players have this
+- [3602720.00s] thing where they they like can clock
+- [3604880.00s] someone's skill immediately like in a
+- [3607839.00s] few seconds, they can say they can like
+- [3610640.00s] accurately estimate how how great is
+- [3613920.00s] this person at like, you know, running
+- [3615520.00s] from the break, how good are they at
+- [3617280.00s] like getting around a certain kind of
+- [3618880.00s] defense, how good are they a three-point
+- [3621200.00s] shooter, a free throw shooter, like
+- [3623040.00s] everything, right? Like they can just
+- [3624480.00s] clock that instantly. And I think
+- [3626559.00s] professional SEOs, I had this certainly
+- [3628799.00s] back in my day, could like look at a set
+- [3631119.00s] of Google search results and be like,
+- [3632640.00s] that's why this ranks here, that's why
+- [3633920.00s] this ranks here, that's why this ranks
+- [3635200.00s] here, that's why, you know, and and I
+- [3637119.00s] think the same is true of social media
+- [3638400.00s] marketing. You can sort of look at a
+- [3639680.00s] feed and be like, I got it. I know
+- [3642160.00s] exactly what's going on, right? And be
+- [3644240.00s] you might be a little off, but you get
+- [3646799.00s] this like sixth sense, the the the like
+- [3649119.00s] Spider-Man Spidey sense of why an
+- [3651680.00s] algorithm works. And I I think you're
+- [3654079.00s] right that applies, you know, if you
+- [3656079.00s] learn that in SEO, you can apply it to
+- [3657839.00s] social. If you learn it in social, I see
+- [3660000.00s] it less frequently for whatever reason
+- [3661760.00s] applied to search. I don't know why.
+- [3665680.00s] I have some theories, but I think they
+- [3667200.00s] would offend people, so I can't say
+- [3668559.00s] those theories. But if you look at like
+- [3670079.00s] I mean if you look at the type of people
+- [3671760.00s] that a lot of SEOs are and you see it in
+- [3673839.00s] the comments on social media, you see it
+- [3675760.00s] on you like it's like it is crazy to me
+- [3678880.00s] some of the things that people don't
+- [3681119.00s] understand in SEO that to us are are so
+- [3685200.00s] are so uh what's common sense are are so
+- [3688400.00s] like of so of course obvious um within
+- [3692000.00s] you know what with engagement the way
+- [3693280.00s] that I I guess I would relate it is it's
+- [3695839.00s] it's uh p okay so like um pogo sticking
+- [3699520.00s] in in Google going back to the search
+- [3701680.00s] results is the same thing as swiping up
+- [3703520.00s] and looking for another video. That's
+- [3705680.00s] like that's that's how I relate it. And
+- [3709520.00s] not pogo sticking is the same thing as
+- [3711520.00s] actually watching a video through yeah
+- [3714559.00s] backlinking is the same thing as a share
+- [3716480.00s] because a share is the strongest factor
+- [3718799.00s] in a in a social I think I think now uh
+- [3722480.00s] most of the social platforms have
+- [3723839.00s] switched from sharing to commenting. So,
+- [3726480.00s] if you look at the um you know when Elon
+- [3728559.00s] bought Twitter, he like shared the the
+- [3731359.00s] ranking system for how Twitter shows
+- [3732960.00s] things in the feed. And basically a a
+- [3735119.00s] comment was worth I can't remember if it
+- [3738319.00s] was it was something like 33 times the
+- [3741119.00s] weight of a of a retweet. So like if
+- [3744319.00s] someone comments on a tweet, that is the
+- [3747520.00s] strongest signal by far. That was that
+- [3749760.00s] was old Twitter or that's the new the
+- [3751359.00s] new Twitter. Okay. Yeah.
+- [3753880.00s] Um, and uh, LinkedIn it works the same
+- [3758079.00s] way. We've done a ton of testing.
+- [3760240.00s] Someone sharing your post, don't get me
+- [3763040.00s] wrong, very kind, like great, especially
+- [3765119.00s] if they use a comment, uh, or, you know,
+- [3767280.00s] if they they sort of repost it to their
+- [3769440.00s] own feed, but not nearly as strong in
+- [3772160.00s] terms of reaching more people for
+- [3774160.00s] impressions as if they leave a comment.
+- [3776799.00s] I wonder why that is. Like if I'm
+- [3778559.00s] thinking about because what I do all the
+- [3780319.00s] time is with any platform I think about
+- [3782079.00s] things from the perspective of the
+- [3783920.00s] person designing the algorithm. I love
+- [3785599.00s] algorithms. I make them myself. Like
+- [3787119.00s] they're very interesting to me. I wonder
+- [3790079.00s] I like wonder why a comment is more
+- [3792559.00s] valuable than a share. I think the only
+- [3796079.00s] um the only explanation my wife is going
+- [3799039.00s] to sneak in here because we're supposed
+- [3800160.00s] to be done 15 minutes ago. Sorry. Hi. Uh
+- [3804880.00s] we'll end we'll end in a second. Yeah.
+- [3807200.00s] Do I need to run to something? No, I had
+- [3809039.00s] a question for you. Okay, keep going.
+- [3811680.00s] All right. Um, this the last one. Last
+- [3814160.00s] one. Last one and then we'll wrap. Last
+- [3816000.00s] one and then we'll wrap. Thank you.
+- [3817599.00s] Thanks for your time, Ren. Bye. Bye. Uh,
+- [3820960.00s] sorry, Edward, can you remind me what
+- [3822480.00s] was the what was the question? Why are
+- [3824160.00s] why do you think comments are more
+- [3825599.00s] important than shares? Oh, yeah. Yeah.
+- [3827680.00s] Um because
+- [3830200.00s] uh
+- [3832359.00s] a if you're designing the algorithm and
+- [3835039.00s] you see that a comment is a stronger
+- [3838079.00s] predictor of someone coming back to the
+- [3840480.00s] app, opening it again, subscribing to
+- [3842960.00s] the channel, um like like engaging more
+- [3847039.00s] versus a share, then you're going to
+- [3849280.00s] bias your uh algorithm to showing things
+- [3852400.00s] that
+- [3853400.00s] will incite or induce comments more.
+- [3857359.00s] more so than sharing. That is my that is
+- [3859839.00s] my theory and I would suspect quite
+- [3862720.00s] strongly especially for the micro
+- [3864559.00s] blogging platforms. So like threads or
+- [3866880.00s] blue sky or Twitter or mastadon um
+- [3869520.00s] although mastadon and blue sky are are
+- [3871680.00s] less algorithmic. Uh I would guess that
+- [3875119.00s] a lot of the repeat engagement like
+- [3878079.00s] their signal that someone is going to
+- [3879680.00s] start using the app and then come back
+- [3881280.00s] to the app happens from did they
+- [3883720.00s] comment. That makes a lot of sense
+- [3885760.00s] because people I people could be sharing
+- [3888640.00s] because they're angry, but I think
+- [3890640.00s] they're probably less likely. They'll
+- [3892880.00s] still comment if they're angry, but
+- [3894240.00s] maybe it's they're less likely to
+- [3896079.00s] comment. Retweet is like a, "Oh, this is
+- [3898319.00s] cool. Other people should see it."
+- [3900000.00s] Comment is like, "You've hooked me." Ah,
+- [3902880.00s] yeah. Yeah. Yeah. Rand, thank you so
+- [3904799.00s] much for your time. You're like, you're
+- [3907119.00s] an inspiration to me. I learned so much
+- [3908480.00s] from you and it's absolute pleasure to
+- [3910960.00s] have you on the show. Everyone, check
+- [3912640.00s] out Spark Toro. Is there any anywhere
+- [3914319.00s] else that you want people to go and and
+- [3916160.00s] find your stuff, find you? I mean, if
+- [3918319.00s] people are particularly interested in uh
+- [3920240.00s] in Snackbar and seeing what we're up to,
+- [3921680.00s] snackarstudio.com
+- [3923440.00s] um is where you can go. There's there's
+- [3925280.00s] an email list you can sign up for, but
+- [3926559.00s] we won't send any emails for a long
+- [3927920.00s] time. Uh and I'm most active on LinkedIn
+- [3931039.00s] and Blue Sky, so you can find me in
+- [3933280.00s] those places. Edward, thank you so much
+- [3935200.00s] for having me. I really appreciate it,
+- [3936480.00s] man. Thank you. Stick around after this
+- [3938559.00s] ends because a video will just have to
+- [3940000.00s] upload. And uh yeah, so for everybody
+- [3942400.00s] watching or listening, this is episode
+- [3945319.00s] 674 of my daily digital marketing show.
+- [3948920.00s] 674. I'm almost losing count days in a
+- [3951680.00s] row doing the show since I started.
+- [3953359.00s] Haven't missed a single day. And
+- [3955520.00s] everybody, I will talk to you again
+- [3957680.00s] tomorrow. Bye now.

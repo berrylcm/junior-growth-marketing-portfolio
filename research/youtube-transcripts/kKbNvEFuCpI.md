@@ -1,0 +1,1814 @@
+# YouTube Transcript
+
+- Source URL: https://www.youtube.com/watch?v=kKbNvEFuCpI&t=5s
+- Language: en
+
+## Transcript
+
+- [320.00s] Nico, my man, welcome back to the
+- [2960.00s] podcast.
+- [4319.00s] >> Nice to be back here, man. Thanks for
+- [5600.00s] inviting me yet again.
+- [7440.00s] >> Nico, you are you are an expert in
+- [10480.00s] automating SEO and I've had a bunch of
+- [13040.00s] requests from listeners of the pod. Can
+- [16320.00s] can you share how to automate SEO
+- [19119.00s] without getting hit?
+- [20800.00s] >> And uh so it's going to be fun to have
+- [23199.00s] you on and to see what you're working on
+- [24880.00s] and see what you're doing.
+- [26400.00s] >> Yeah. Um yeah, that's that'll be a lot
+- [28640.00s] of fun, I guess. Um, we can, you know,
+- [31920.00s] we can start with a couple of things
+- [33040.00s] because SEO is massive and I get this
+- [35280.00s] question a lot. We can show you how to
+- [37840.00s] automate the build of websites really
+- [39760.00s] well and then the content or do you just
+- [41600.00s] want to stick with the content stuff?
+- [44480.00s] >> Whatever you think is most useful for
+- [46960.00s] people.
+- [47520.00s] >> Okay. The build of websites is is very
+- [50719.00s] useful. Just explain why.
+- [53039.00s] >> Yeah. Okay. I think um we'll touch on
+- [55360.00s] that really quickly and then we'll move
+- [56320.00s] on to the content because it's probably
+- [57440.00s] a little bit faster. But I've got um we
+- [60960.00s] kind of have been trying a lot of
+- [62960.00s] different AI website builders and none
+- [65119.00s] of them really some of them are okay.
+- [67760.00s] You get wpzip and and building a website
+- [71439.00s] on things like lovable.com is very d not
+- [75200.00s] dangerous but very untidy from an SEO
+- [78080.00s] perspective. Um so you can automate kind
+- [81520.00s] of the build of websites pretty much
+- [83759.00s] 100% with really good SEO websites that
+- [85920.00s] start ranking right away. Um, and if
+- [88400.00s] you're going to do that, I highly
+- [89280.00s] recommend you use a web uh framework
+- [91840.00s] called Astro, not to be confused with
+- [94159.00s] Astra, which is behind WordPress is kind
+- [96240.00s] of something different. Um, they were
+- [98479.00s] recently bought by Cloudflare. So, it
+- [100640.00s] works wonderfully from Cloudflare all
+- [102320.00s] within Claude Code. You can build a
+- [104159.00s] website, you can upload it, you can host
+- [106079.00s] it and everything. Uh we've done a bunch
+- [108000.00s] of tutorials in there, but my
+- [109520.00s] recommendation for anyone wanting to
+- [110960.00s] like how can I get a website up and
+- [112479.00s] running really quick is probably don't
+- [114399.00s] do the lovable route because it ends up
+- [116880.00s] being a bit of a just a messy route in
+- [119360.00s] the in the end, but learn how to do a
+- [121280.00s] good framework with um Astro clawed code
+- [124960.00s] or any other kind of you can do this
+- [126799.00s] with Codex as well, but uh Astro has a
+- [129360.00s] really good fundamental of good SEO,
+- [131360.00s] quick websites, which is half of the
+- [133120.00s] battle. I highly recommend that. when
+- [135040.00s] you're when you're building um a website
+- [138319.00s] for SEO using AI, are you thinking about
+- [143440.00s] will what level of support will this
+- [145760.00s] tool have in the coming because you want
+- [149040.00s] you want to be able to keep working on
+- [150879.00s] your site and you the thing about AI is
+- [154480.00s] things are moving so fast
+- [156480.00s] >> and it's like okay in three years from
+- [158959.00s] now will this tool work the same way as
+- [162160.00s] it does now or will it have even better
+- [164160.00s] features?
+- [165760.00s] I think that's such a good question. I
+- [167200.00s] think that's why I we discussed this a
+- [170319.00s] lot um with a few WordPress experts and
+- [173440.00s] it seems like WordPress hasn't really uh
+- [178000.00s] kind of moved onto this AI uh website
+- [180879.00s] generator, but they really are they just
+- [183280.00s] released a couple of plugins. So, I am
+- [185840.00s] probably going to dive deeper into what
+- [189440.00s] WordPress will be able to do with AI
+- [191040.00s] simply because they're such a massive
+- [192480.00s] platform and I have no doubt that
+- [194959.00s] they're going to release something
+- [196080.00s] pretty amazing that you'll be able to
+- [197519.00s] plug in uh Claw, GPT, whatever you want
+- [200800.00s] and it'll do that for you just because
+- [203040.00s] they're such a massive player already.
+- [205920.00s] Um, so Astro is good just because it got
+- [210239.00s] bought out by Cloudflare, but in terms
+- [212000.00s] of being able to build a website that
+- [213519.00s] you can give to a client nice and easy,
+- [215200.00s] I think WordPress is still kind of the
+- [217120.00s] goto. I'm just excited for what they're
+- [220400.00s] no doubt going to come out with really,
+- [222560.00s] you know, really soon. You can't kind of
+- [225120.00s] cut out the the big players in the game,
+- [226879.00s] and I think WordPress will still be the
+- [229440.00s] go-to in a little while. But if you're
+- [230879.00s] if you're using Astro, basically my
+- [232879.00s] question is uh do you do you foresee the
+- [237120.00s] features getting bigger like better and
+- [239439.00s] better and things not getting like aged
+- [242239.00s] out?
+- [242799.00s] >> No. Yes. And you can you can you can
+- [245760.00s] change parameters like I let me show
+- [247760.00s] you. We built this entire um real estate
+- [254400.00s] website with this flow, right? So what
+- [256720.00s] it does is scrapes I live down in the
+- [258880.00s] southern Chile now in the Patagonia and
+- [261199.00s] there's a lot of kind of real estate
+- [263120.00s] agents but no not one single place that
+- [265680.00s] I can see all the properties. So I
+- [267759.00s] figured okay let's make it like a
+- [269040.00s] conglomerate website where I can see
+- [270479.00s] everything. Let me put this in English.
+- [272320.00s] And in an afternoon I built everything
+- [274400.00s] that scrapes all the properties around
+- [277520.00s] um rewrites the title tag and metad
+- [279919.00s] descriptions in an SEO optimized way.
+- [281759.00s] And that's all powered by clawed code
+- [283440.00s] and you can add more features as you go.
+- [285759.00s] So I don't think like as with this
+- [288880.00s] flexibility that Astro gives you with
+- [290400.00s] claude code you if a new feature comes
+- [293199.00s] out you know you can easily kind of
+- [296000.00s] place it into your website right um and
+- [300400.00s] it you can add so many wow
+- [304400.00s] >> functionalities
+- [306000.00s] because also works so well with
+- [307680.00s] Cloudflare that if you've got a workers
+- [309680.00s] account you don't even really have to
+- [311039.00s] know how that works but if you've got a
+- [312240.00s] workers account you can do a bunch of
+- [314639.00s] things idea. Um, and this also goes
+- [317039.00s] directly to the property owner, like the
+- [319759.00s] inquiry. I just got all the emails and
+- [321120.00s] stuff for that. So, I think, um, if you
+- [323360.00s] ever had an idea for a website or a
+- [325120.00s] business, now is definitely the time to
+- [326639.00s] to do that. And this kind of runs by
+- [328479.00s] itself. 90% of it runs by itself. Like
+- [331759.00s] it automates the scraping the uh the
+- [334639.00s] content and stuff like that through cron
+- [336080.00s] jobs. Um, and that's the flexibility
+- [339199.00s] that I think Astro gives you with claude
+- [341440.00s] code. You can probably do this with
+- [343520.00s] WordPress to be honest. I just wouldn't
+- [345199.00s] know how to at the moment.
+- [346800.00s] >> This method of marketing is so
+- [348320.00s] effective, I had to make sure it wasn't
+- [350000.00s] against Google's rules before I kept
+- [351840.00s] doing it. It's a form of SEO I call
+- [354320.00s] compact keywords. Whereas most SEO
+- [356800.00s] focuses on putting up articles to answer
+- [359039.00s] questions how what when compact
+- [361199.00s] keywords focuses on putting up dozens of
+- [363360.00s] pages that sell to searchers who are
+- [365680.00s] actually looking to buy. These pages
+- [368319.00s] rank on Google and convert so much
+- [370400.00s] better than normal that when I
+- [371919.00s] discovered this years ago, I couldn't
+- [373919.00s] believe this was allowed. It's less
+- [375919.00s] work, too. The average compact keywords
+- [378319.00s] page is only 415 words. Compact Keywords
+- [382160.00s] is a 13-hour deep course on getting
+- [384800.00s] sales with SEO. A customer recently
+- [387360.00s] said, "Each lesson is dense with
+- [389759.00s] information. You're giving years worth
+- [391919.00s] of experience boiled down into 15 to 30
+- [394720.00s] minute lessons with no filler or fluff.
+- [397360.00s] I feel like I'm gaining a new
+- [398960.00s] superpower. Compact Keywords is about
+- [401199.00s] setting up an SEO funnel that brings you
+- [403280.00s] sales for years and years and years. It
+- [406400.00s] works with AI. It's less work than
+- [408560.00s] traditional SEO and it makes way more
+- [411680.00s] money. You can get it now at
+- [413520.00s] compactkeywords.com.
+- [415440.00s] Back to the podcast. Are there any
+- [417360.00s] issues when you're making a site like
+- [419599.00s] this for for SEO, maybe using Astro? Are
+- [422720.00s] there any issues with crawlability from
+- [426240.00s] either search engines or from like even
+- [428560.00s] Screaming Frog if you wanted to do a
+- [430240.00s] site audit of your own site?
+- [432000.00s] >> No, that's the wonderful thing that
+- [434160.00s] Astro gives you, the correct framework.
+- [437039.00s] So, there's some I mean, let's have a
+- [438560.00s] look at the the back end, right? The
+- [440240.00s] I'll be very transparent here. This is
+- [441919.00s] the It's only been live for I don't know
+- [445120.00s] since Feb, so just shy or over a month.
+- [449520.00s] Um, a lot of things are getting indexed.
+- [452639.00s] Um, there are some things that aren't
+- [454400.00s] getting indexed, but these are like uh
+- [456639.00s] let's go to pages. Sorry, not site map
+- [459759.00s] pages. And there's some pages that
+- [462479.00s] aren't getting indexed, but they're more
+- [463919.00s] like
+- [464240.00s] >> how did you build links to it?
+- [467120.00s] Um, to be honest, I just writing a lot
+- [469840.00s] of content and it came naturally. I'm
+- [471759.00s] not even concentrating on links. I'm
+- [473599.00s] just writing content and I'm not a real
+- [476240.00s] estate expert, but then I figure how can
+- [479039.00s] I add value? I can add value by all the
+- [481440.00s] data that I gather. I know the average
+- [483759.00s] pricing of a home and over the past 10
+- [485759.00s] years. So, I can add value by saying,
+- [487680.00s] well, here's all the data collected in
+- [489520.00s] one place. If you want to know what's
+- [491199.00s] the probability of the price increase in
+- [493520.00s] the next 5 years, I've got the previous
+- [495520.00s] data that might help you do that.
+- [498160.00s] >> You're actually putting up unique
+- [499599.00s] content.
+- [501360.00s] >> Yeah. I think that's the key here. I
+- [504080.00s] think a lot of, you know, and nice
+- [505440.00s] little segue into into one of those main
+- [507520.00s] questions here. When you're writing
+- [508960.00s] content with AI, you need to pick a
+- [512000.00s] unique, helpful angle. And that doesn't
+- [514240.00s] have to be something that you're an
+- [515760.00s] expert in. But my unique angle here, for
+- [518240.00s] example, is um I did a cost of living
+- [522560.00s] guide in the little town that I'm at. Um
+- [525440.00s] just doing a bunch of research um and
+- [528399.00s] then you know from like the food and
+- [530480.00s] groceries and and everything like that.
+- [532480.00s] And as long as you're doing all the
+- [534399.00s] other fundamentals as like sourcing all
+- [538080.00s] your statements um internally linking
+- [540480.00s] and then ideally writing in what's I'm
+- [543040.00s] sure you know uh what's called like a
+- [544720.00s] content capsule technique. not all of it
+- [546720.00s] but most of it. And a content capture
+- [548560.00s] technique is essentially um you ask a
+- [553279.00s] question in one of the headings. Uh so
+- [556080.00s] for example, what happens above 8,000
+- [558399.00s] UF? You answer that right away so that
+- [562160.00s] the AI crawlers has it's easy for them
+- [564959.00s] to just to kind of copy and paste your
+- [566959.00s] content and it works remarkably well.
+- [570000.00s] >> Yeah. Um, so you can see here we we're
+- [572399.00s] like internally linking. We are sourcing
+- [575600.00s] um where we got the information from
+- [578399.00s] here like the official sites and stuff
+- [581120.00s] for that. So
+- [582080.00s] >> wow,
+- [582560.00s] >> you know the it's nothing new but as
+- [586800.00s] long as you follow the fundamentals when
+- [588800.00s] you're writing that content whether it's
+- [590480.00s] with you know whatever AI of choice
+- [593360.00s] unique angle are you answering the
+- [595040.00s] search intent ideally right in a content
+- [596720.00s] capture technique and source. So many
+- [600480.00s] people are scared of I get this all the
+- [602160.00s] time in our community. They say I don't
+- [603519.00s] want to link to external sources because
+- [605519.00s] then people will leave my website
+- [608399.00s] and my whole point is like if people are
+- [610080.00s] leaving your website and not coming back
+- [611519.00s] because of that then you've got a bigger
+- [612880.00s] issue altogether. Like that's not the
+- [614640.00s] thing. And from an SEO perspective it's
+- [616480.00s] better to link to the source to prove
+- [618480.00s] you know the one thing that AI yeah
+- [621360.00s] search is trying to mitigate is wrong
+- [624480.00s] information. So you need to be as
+- [625839.00s] trustworthy as possible and that's the
+- [626959.00s] ways that's one of the ways you become
+- [628240.00s] trustworthy. Right. So you're are are
+- [631200.00s] you um reviewing yourself all the
+- [633839.00s] content that you put out or are you just
+- [635760.00s] letting it go?
+- [637040.00s] >> Um I do review it. It'll give me
+- [640079.00s] depending on which site um
+- [644079.00s] I kind of review it once it's published
+- [645920.00s] and then I say
+- [648079.00s] uh can we please fix this or a few other
+- [651920.00s] things. Um, but I'm becoming less and
+- [656079.00s] less um strict on reading every single
+- [660079.00s] word of it. Like I'll give it a a quick
+- [662560.00s] review. I often add a too long didn't
+- [665040.00s] read section at the top. That actually
+- [666320.00s] comes from you, one of your videos that
+- [667760.00s] you've done a while ago. Um, and I was
+- [670160.00s] like, that's a great ad. So, I read the
+- [672480.00s] too long didn't read section. I go
+- [674079.00s] through it making sure that, you know,
+- [676880.00s] something isn't completely off the
+- [678640.00s] rails. And if something is wrong, it
+- [682640.00s] gets a tone of voice wrong or it links
+- [684240.00s] to something, then I can say, "Hey, save
+- [686160.00s] this in your memory. Don't do X again."
+- [688640.00s] So then it'll you have like this
+- [690240.00s] continuously improving uh copyriter.
+- [693600.00s] >> Yeah.
+- [694160.00s] >> How how often do you find that there are
+- [697760.00s] hallucinations in the content now?
+- [701120.00s] in the beginning maybe
+- [705200.00s] 80% not so much hallucinations but
+- [711120.00s] um the way that it's writing for example
+- [713600.00s] was Spanish from Spain as opposed to
+- [716399.00s] Spanish from Latin America. So I had to
+- [718399.00s] say hey this is what you got to use.
+- [720399.00s] We're in this section of the Patagonia
+- [721920.00s] not that one. There's more content
+- [723920.00s] around the internet on the Argentinian
+- [726160.00s] Patagonia for example. So it kept kind
+- [727920.00s] of quoting those things. So I had to go
+- [729519.00s] no no no no no this is to more focus it.
+- [731760.00s] So not that much but now even less so
+- [736560.00s] after you know we've been running this
+- [738560.00s] for about nearly a month now. So every
+- [741200.00s] now and then it does a little error or
+- [742800.00s] it does things that I don't like. It
+- [743920.00s] just go hey remember it in the memory to
+- [745600.00s] to not do that again please.
+- [747279.00s] >> Yeah I
+- [747760.00s] >> think I got I got overly excited. So
+- [749680.00s] you're going to show actually how to
+- [750880.00s] make the site with Astro.
+- [753040.00s] >> If you want we can go through that. I
+- [754399.00s] built like um um a whole plugin that
+- [759680.00s] will kind of do that for you. But um it
+- [761839.00s] might take a little while, but maybe we
+- [762880.00s] can do a simple site. Sure. Yeah, let's
+- [764079.00s] do it.
+- [764399.00s] >> Yeah, very very simple site just just so
+- [767600.00s] people can see where to go, how to
+- [769360.00s] start. I think that's that's everything
+- [771040.00s] that people really need to
+- [772800.00s] >> need to know right now.
+- [774240.00s] >> Um so if you're using Claude Code,
+- [777200.00s] there's a couple of things that you need
+- [778480.00s] to take into consideration, right? um to
+- [780880.00s] keep yourself organized because a lot of
+- [782959.00s] us get excited when we start using
+- [784320.00s] clawed code and we have like 100
+- [786240.00s] terminals open which makes us look like
+- [788399.00s] a cool developer but it it gets very
+- [791760.00s] easy to lose control of which terminal
+- [795120.00s] is doing what um which terminal needs
+- [797519.00s] your attention. Even if you have it in
+- [799120.00s] like the dangerously skip emission stuff
+- [800959.00s] it'll still ask you questions when it
+- [802240.00s] should. Thank god. So it ends up looking
+- [804160.00s] like this and it's a mess, right? So, I
+- [806399.00s] highly recommend for those on who are
+- [807920.00s] getting into clawed code and running it
+- [809440.00s] in the terminal. I prefer the terminal.
+- [811360.00s] The app on the desktop is fine, but it
+- [813839.00s] crashes for me all the time and it's
+- [815600.00s] heavy on memory. There's a thing called
+- [818160.00s] CMX. We'll get to the website builder in
+- [820000.00s] a second, but this is like really good
+- [821120.00s] to set up everything. There's a thing
+- [822480.00s] called CMX, and it's just allows you to
+- [824800.00s] open up a bunch of um claude code
+- [827519.00s] instances that are really well
+- [828880.00s] organized. So you can open up a project.
+- [831360.00s] Um, and yeah, so let's try it here. I'm
+- [836000.00s] going to
+- [838000.00s] show you the mess of my desktop. And
+- [841199.00s] >> okay,
+- [841920.00s] >> let's create a random website here. So
+- [846639.00s] I'm going to go and create a new folder.
+- [849360.00s] I like to keep everything in folders
+- [850959.00s] that I'm working on within Claude Code.
+- [852800.00s] and let's create a um you know Joe's
+- [857040.00s] plumbing in Melbourne, right?
+- [861360.00s] >> So I'm going to then um open up uh just
+- [866560.00s] a new workspace here or the new folder
+- [869760.00s] um open folder
+- [872639.00s] uh Joe's new plumbing. So now I can I'll
+- [876800.00s] rename this as well just to keep track
+- [878399.00s] of everything. Uh rename Joe's
+- [883680.00s] plumbing example. Okay, I'm going to be
+- [887279.00s] a bit cheeky. I've got a
+- [889839.00s] um a little shortcut to open clawed code
+- [893920.00s] and dangerously skip permission. So,
+- [895600.00s] CCDP.
+- [897360.00s] Um if obviously anyone else doesn't have
+- [899600.00s] this shortcut, the way to do that is go
+- [901760.00s] to claude dash dangerously
+- [907920.00s] skip
+- [909440.00s] uh permissions.
+- [911040.00s] What does this do?
+- [912720.00s] >> This makes it so that Claude doesn't
+- [914399.00s] continuously ask you for permissions
+- [916160.00s] like making files. Can I access this
+- [919040.00s] website? Can I do this? Um, you know, it
+- [922560.00s] is inherently a little bit dangerous.
+- [924399.00s] But the more I use it, the more I
+- [925680.00s] realize that the team in anthropic have
+- [928000.00s] done a good job of like, yeah, it's
+- [930000.00s] dangerously skipping permissions, but
+- [932000.00s] the important permissions like, hey, can
+- [934639.00s] I delete this file or things like that,
+- [936399.00s] it will still ask you,
+- [938800.00s] >> right? Um, so I'm just going to use uh
+- [942800.00s] Claude
+- [943839.00s] >> your shortcut.
+- [944720.00s] >> Yeah, my shortcut.
+- [947120.00s] Um, thanks for kind helping me through
+- [949440.00s] this. I can barely do two things at
+- [950639.00s] once. So, this is fantastic.
+- [951680.00s] >> Dude, you're you're awesome. This is
+- [952959.00s] this is so much fun.
+- [954480.00s] >> So, we've got claw code open within the
+- [957040.00s] folders in that folder, right? Um, so
+- [960399.00s] I'm going to I always like to start by
+- [963839.00s] going into plan mode. So you see if I
+- [966000.00s] press shift tab you see let me zoom in a
+- [968720.00s] little bit more here that the bottom
+- [970399.00s] here changes to plan mode bypass
+- [973279.00s] permissions and so on right so I'm going
+- [975680.00s] to go to plan mode so this makes it
+- [977600.00s] think about your question before you
+- [979279.00s] even kind of get started and then you
+- [980639.00s] can approve it improves the quality of
+- [982959.00s] the output so much so much so that it
+- [985600.00s] makes it more token efficient because it
+- [987600.00s] doesn't get things wrong it gets it
+- [989040.00s] right from the first time there's one
+- [990560.00s] more trick as well so let's just say Um,
+- [995040.00s] uh, we want to build a quick website.
+- [998320.00s] Uh, there's going to be an example for
+- [1000560.00s] Joe's Plumbing. Um, there's going to be
+- [1002399.00s] a fictitious business. So, I want you to
+- [1003839.00s] make all the business information up.
+- [1005279.00s] It's going to be a plumbing website that
+- [1007120.00s] does plumbing services in Melbourne.
+- [1009680.00s] They predominantly will concentrate in
+- [1011279.00s] Carlton, Carlton North, Brunswick,
+- [1013040.00s] Brunswick East. They'll do three
+- [1014959.00s] services. um emergency plumbing,
+- [1018160.00s] pipelink repair, and hot water
+- [1020560.00s] installation services. Make up all the
+- [1022639.00s] information for the business first. Um
+- [1025039.00s] and then once you created that into an
+- [1026799.00s] MD file in that folder, uh let me know
+- [1030319.00s] and we'll go from there. This might take
+- [1033360.00s] a little while, but we'll just go from
+- [1035120.00s] there. Um if you're wondering, I'm using
+- [1038480.00s] Super Whisper for this little thing
+- [1041520.00s] here. So, ideally, when someone's
+- [1045280.00s] watching this that's building this, when
+- [1047120.00s] you're building this for a client, start
+- [1048480.00s] a folder and just throw
+- [1051520.00s] as much information and the kitchen sink
+- [1053360.00s] to that folder. Like, we're getting to
+- [1055919.00s] the point that I believe this more and
+- [1057360.00s] more that it's not so much about the way
+- [1059120.00s] you prompt it, but it's the context that
+- [1060640.00s] you give it. There is some improvements
+- [1062960.00s] in the in the prompting, but I think
+- [1064799.00s] it's becoming less and less important.
+- [1066880.00s] Um,
+- [1068480.00s] so I really think you you can just if
+- [1071120.00s] you can gather as much content as
+- [1072559.00s] possible on the business, it's going to
+- [1074000.00s] make your job a lot easier once you
+- [1076000.00s] start building the website.
+- [1077200.00s] >> Is there such a thing as too much
+- [1078640.00s] content? Like too much context, excuse
+- [1080880.00s] me.
+- [1082559.00s] >> If it's not relevant, yes, because then
+- [1085280.00s] you're adding more data for the model to
+- [1087120.00s] get confused.
+- [1088240.00s] >> Mhm.
+- [1089039.00s] >> Yeah. But if it's like um I don't know
+- [1092240.00s] all the wins and stuff like that.
+- [1093520.00s] Particularly now with clawed code
+- [1094799.00s] recently they released you can have a
+- [1097039.00s] million context window right
+- [1100160.00s] um so before you would get 200,000
+- [1102880.00s] tokens um which is equivalent to about
+- [1106400.00s] maybe
+- [1108400.00s] not even all the book here right in
+- [1110960.00s] terms of words. The problem with that
+- [1112880.00s] that you didn't really actually get the
+- [1114320.00s] 200,000 tokens because once you hit the
+- [1116480.00s] context window of about 40% it declines
+- [1119679.00s] the performance declines the cla code a
+- [1121520.00s] lot. So now with a million token window
+- [1124240.00s] you have like
+- [1126320.00s] these three books worth of content right
+- [1129679.00s] that you have before it declines the
+- [1131679.00s] performance. Um so do you have too much
+- [1135919.00s] content? Not really these days anymore.
+- [1138640.00s] Okay perfect. So, we've it's created an
+- [1140000.00s] MD file about the business information.
+- [1141760.00s] Um, and I'm going to say now um use the
+- [1147200.00s] uh was it build website?
+- [1150880.00s] Yeah, build website
+- [1154720.00s] um website
+- [1159919.00s] and create um the entire site.
+- [1167200.00s] We can take a look.
+- [1170559.00s] Um,
+- [1172080.00s] when we're getting through something a
+- [1174400.00s] little bit more complex, like building
+- [1175440.00s] an entire site, there's one more thing
+- [1176880.00s] you can do and type in ultraink.
+- [1181440.00s] If I can spell right
+- [1184240.00s] and you see how it changes into a like
+- [1186960.00s] rainbow color, the ultra think.
+- [1188559.00s] >> Yeah,
+- [1188880.00s] >> that's when you know it's activated. So,
+- [1190480.00s] that's just giving a lot more
+- [1192960.00s] >> uh reasoning effort for this task.
+- [1196080.00s] Um, so this skill was added
+- [1198080.00s] successfully. Great. Um, this is going
+- [1200880.00s] to probably take a little while. So, we
+- [1203120.00s] can probably do some writing content
+- [1204960.00s] while this is going. And I've got a
+- [1206720.00s] couple of flows that I can show you. But
+- [1208799.00s] essentially, because we started clawed
+- [1210400.00s] code now in the dangerously skip
+- [1211760.00s] permission, we can leave this sucker
+- [1214000.00s] running until it needs us
+- [1216960.00s] >> and until it's kind of done essentially.
+- [1219120.00s] >> I want to I want to ask you something.
+- [1221360.00s] So, you know, it's so easy for you to
+- [1223760.00s] make websites now and to make apps, um,
+- [1226880.00s] to do SEO. Do you just have a million
+- [1229919.00s] different projects that you're working
+- [1232159.00s] on and and it it it what is your like if
+- [1237120.00s] you're if you are thinking really long
+- [1239600.00s] term, let's say you there's a business
+- [1241520.00s] that you love and you plan to stick with
+- [1243600.00s] it for 5 to 10 years, how are you going
+- [1246400.00s] to make the site? Are you going to use
+- [1248000.00s] WordPress? Are you going to use Astro?
+- [1250159.00s] Are you going to use something else?
+- [1253919.00s] >> Such a good question. I
+- [1259120.00s] constantly go through
+- [1261760.00s] ideas,
+- [1263679.00s] but I've wasted so much time with other
+- [1266480.00s] ideas that now I write them down and I
+- [1271360.00s] tell Claude to remember this idea. If
+- [1273440.00s] this idea doesn't make sense for me in a
+- [1274960.00s] week, then I don't, you know, I don't go
+- [1276880.00s] through it. I get, you know, there's
+- [1278320.00s] when you get a cool idea, you think,
+- [1279520.00s] "Oh, this is going to make me thousands
+- [1280799.00s] of dollars or it's going to be really
+- [1281919.00s] cool." You kind of have blinders on, at
+- [1284080.00s] least I do for the first few days. So, I
+- [1286240.00s] just leave it for just a little bit. If
+- [1288640.00s] I continuously think about it for a
+- [1290080.00s] week, I go, you know what? Let's explore
+- [1291840.00s] this. Am I going to build it? It depends
+- [1295600.00s] what kind of tool I'm building. For
+- [1298080.00s] example, let me show you. I was
+- [1301840.00s] currently am building a an improvement
+- [1305440.00s] of
+- [1307120.00s] um
+- [1309679.00s] of a SEO application for our community.
+- [1313840.00s] Um let me see if I can actually launch
+- [1315760.00s] it. Where was it? It was
+- [1318799.00s] data wise or was the URL that I was
+- [1322080.00s] building it on? Uh,
+- [1326159.00s] and this requires
+- [1328559.00s] um neither, right? I can host this on
+- [1334400.00s] Cloudflare.
+- [1336240.00s] Um, so this is a
+- [1339600.00s] app that you can do like normal stuff,
+- [1342000.00s] keyword research, competitor analysis,
+- [1344400.00s] AI ranking, visibility. Uh there's a few
+- [1346480.00s] content tools that help you kind of
+- [1347679.00s] revive your old content and also analyze
+- [1349760.00s] your so that I am building on whatever
+- [1352720.00s] Claude tells me to build it on. I tell
+- [1354480.00s] it like here are the requirements.
+- [1355440.00s] Here's what I want to do. And it's
+- [1357280.00s] saying like great, we're going to use
+- [1359039.00s] Flutter. Uh we're going to use this and
+- [1360960.00s] that. And um I tell it everything that
+- [1364000.00s] I've got access to. I say look, I've got
+- [1365360.00s] a paid account in Cloudflare. We can
+- [1366880.00s] have workers. I've got um Google um
+- [1373120.00s] uh developers the cloud. Sorry. Um,
+- [1376880.00s] those are all the things that I want to
+- [1378080.00s] build this with and it kind of builds a
+- [1380000.00s] plan for me first and then we go from
+- [1381360.00s] there. So really in terms of what I what
+- [1384240.00s] platform I use, it's the one that I need
+- [1386960.00s] for the task at hand when it comes to
+- [1390559.00s] applications. When it comes to websites,
+- [1392960.00s] I'm having so much fun building websites
+- [1394559.00s] in Astro that I think I'll continue
+- [1395919.00s] doing that for a little while.
+- [1397200.00s] >> Yeah. Okay. So like uh basically
+- [1402159.00s] let's just let's say that you were
+- [1403600.00s] making a vibe coded SAS. You love the
+- [1405760.00s] idea and you planned to stick with it
+- [1408559.00s] for for 5 to 10 years. You were this is
+- [1412080.00s] you're like I'm going to stick with this
+- [1414480.00s] for minimum 5 years. So you would do you
+- [1417520.00s] would make the the part of the you would
+- [1420400.00s] make the site that you're doing SEO on.
+- [1422480.00s] You would use Astro for that.
+- [1424720.00s] >> If I'm the only one that's going to be
+- [1426000.00s] in control of the website. Yes. If I
+- [1428320.00s] need to sell it to a client, then I' I'd
+- [1430080.00s] do it on WordPress.
+- [1431280.00s] >> Yeah. It's not for a client, but you you
+- [1433440.00s] might grow the business. You plan on
+- [1435360.00s] growing the business. You'll hire
+- [1436559.00s] people. They'll be in charge some then
+- [1438559.00s] more people will be in charge of the
+- [1439679.00s] site.
+- [1441120.00s] >> I'd still do it on on Astro probably to
+- [1443280.00s] be honest. Yeah.
+- [1444240.00s] >> Wow. Yeah. Cool.
+- [1445280.00s] >> Yeah. Um there's been some big projects
+- [1447840.00s] that that were on Web Flow that have
+- [1449520.00s] migrated to Astro and stuff like that.
+- [1451120.00s] Um, so and I think that Cloudflare
+- [1454880.00s] bought them.
+- [1457440.00s] I think it's a good sign, you know. Um,
+- [1460320.00s] so
+- [1460640.00s] >> you said they were, you said, sorry,
+- [1462240.00s] they were on Astro and they migrated to
+- [1464320.00s] Web Flow or the other
+- [1465120.00s] >> No, no, no, no, no. Uh, Cloudflare
+- [1467279.00s] bought uh the framework, the Astro
+- [1470080.00s] framework, and a lot of websites since
+- [1472240.00s] that were on Webflow have migrated to um
+- [1477120.00s] to Astro. Um, you know, I I kind of just
+- [1481279.00s] went into the rabbit hole and fell
+- [1483279.00s] really fell in love with it. Like I it's
+- [1485279.00s] not for everybody 100%, right? But, um,
+- [1488159.00s] it's just working so well for me in
+- [1490960.00s] terms of in one central hub. I can build
+- [1495200.00s] a website, control a website, get
+- [1497840.00s] analytics from Google Search Console,
+- [1499679.00s] and publish content and stuff like that.
+- [1502000.00s] and, you know, probably needs a prettier
+- [1503760.00s] interface as opposed to looking at code,
+- [1505360.00s] but I've gotten so used to it now that
+- [1506640.00s] it it doesn't really bother me anymore.
+- [1508400.00s] >> Have you found that um that like all
+- [1510640.00s] cloud websites look the same and how are
+- [1512480.00s] you making them look different?
+- [1514080.00s] >> Yeah. Yeah, absolutely. Good question.
+- [1517200.00s] Um there's a couple of ways, right? Um I
+- [1520880.00s] think you because I'm not a designer,
+- [1524320.00s] the one thing that I'm liking at the
+- [1525679.00s] moment is um playing around with Google
+- [1527679.00s] Stitch.
+- [1529440.00s] Yeah. So, for example, I'm working on a
+- [1532400.00s] app that is uh has all of Chile's laws
+- [1536480.00s] and it's a rag system essentially and I
+- [1538240.00s] can ask it questions and it'll tell me
+- [1539600.00s] where I got the information so it'll
+- [1540880.00s] reference it. Um,
+- [1543600.00s] I think
+- [1546240.00s] Google Stitch that is free creates some
+- [1548159.00s] beautiful landing pages. But then when
+- [1550559.00s] it comes to okay, I want some cool hover
+- [1553760.00s] animations or something else. Then if
+- [1557279.00s] you're not a designer, you don't know
+- [1558559.00s] the design language. So then you need to
+- [1561200.00s] find platforms that allow you to copy.
+- [1563520.00s] One of my favorite ones is 21st uh.dev.
+- [1567039.00s] So, I can go to components, for example,
+- [1569919.00s] and let's go to
+- [1573200.00s] uh this one's a cool one, right? So, it
+- [1575679.00s] shows you these little subtle animations
+- [1578400.00s] on the side of the borders. So, you
+- [1580080.00s] might say, "Oh, cool. That that's cool."
+- [1581840.00s] You don't see that in viod websites at
+- [1583600.00s] all. Um or this little subtle animation
+- [1586960.00s] there as well with like cards. So, you
+- [1590000.00s] can
+- [1591760.00s] go through these inspiration websites
+- [1594880.00s] and a lot of them allow you just to copy
+- [1598000.00s] the prompt entirely for Claude or
+- [1600559.00s] whatever and say, "Hey, can you
+- [1601520.00s] integrate this section, this design, and
+- [1603360.00s] that section?"
+- [1604720.00s] >> Oh, wow.
+- [1605840.00s] >> Yeah,
+- [1606240.00s] >> that's awesome. The copy prompt.
+- [1608880.00s] >> Yeah. Really, really cool. And some of
+- [1610240.00s] them are pretty, you know.
+- [1612320.00s] >> Oh, yeah.
+- [1613279.00s] >> You know, uh, really, really cool. The
+- [1615520.00s] scroll animation. I know that. So you so
+- [1617520.00s] you've used these for for your cloud
+- [1619200.00s] sites.
+- [1620159.00s] >> I used it for this one. Yeah. So this uh
+- [1623440.00s] you see how this has got a tiny little
+- [1625919.00s] um the border kind of hovers and stuff
+- [1627840.00s] like that. So that's from this thing.
+- [1631120.00s] >> Um
+- [1632720.00s] >> uh did I add
+- [1636080.00s] >> Yeah, these icons as well. You start
+- [1638240.00s] collecting library. So you start
+- [1639520.00s] collecting library icons because if you
+- [1641200.00s] don't collect that, it'll use uh emojis
+- [1643919.00s] which I don't like on a website. Um, so
+- [1646799.00s] you can get uh icon libraries. There's a
+- [1649039.00s] bunch from GitHub that are free and
+- [1650880.00s] stuff like that. Um, so I think it's
+- [1653440.00s] it's inspiration having a little
+- [1655760.00s] websites and and GitHub repos that that
+- [1659600.00s] allow the build to not become AI
+- [1661919.00s] generated. What I am noticing is that a
+- [1663840.00s] lot of AI generated websites do this
+- [1665440.00s] little thing at the top or sometimes
+- [1666799.00s] they'll be in like a little bubble thing
+- [1669039.00s] >> which you know now it's a kind of a
+- [1670960.00s] trend that you see but you know I'm not
+- [1672559.00s] mad about it.
+- [1673600.00s] >> Yeah. Also, the uh the the icon at like
+- [1676799.00s] um the top left. I'm It's like, "Oh,
+- [1679679.00s] yeah. This looks like every every cloud
+- [1681600.00s] site that I've made."
+- [1682720.00s] >> Yeah. Yeah.
+- [1683120.00s] >> Yeah. Yeah.
+- [1684320.00s] >> Um
+- [1685039.00s] >> but you can change it easy enough.
+- [1686720.00s] >> Yeah. Yeah. Yeah. Exactly. Um cool. So,
+- [1690799.00s] this is now launching a couple of agents
+- [1694159.00s] at the same time. Um it's launching a
+- [1698159.00s] website tech builder, a SEO writer, and
+- [1701039.00s] then
+- [1702559.00s] um I'll integrate. Yeah, cool. And then
+- [1705120.00s] it's still going. So that's running.
+- [1706480.00s] Cool.
+- [1707840.00s] >> So let's get into the content I guess
+- [1709360.00s] while while it's still going.
+- [1710880.00s] >> Let's get into the content. So I've got
+- [1713600.00s] a
+- [1714880.00s] >> actually before you show the content,
+- [1716559.00s] can you answer this is such a common
+- [1719520.00s] question. how you are putting up AI
+- [1722960.00s] generated content and then not getting
+- [1725200.00s] hit by Google.
+- [1727679.00s] >> Sure. By get hit, I'm assuming we're
+- [1731520.00s] meaning like getting penalized or not
+- [1734399.00s] getting indexed because there are three
+- [1736240.00s] different
+- [1736559.00s] >> Well, so you know, actually, I think uh
+- [1738799.00s] SE SE ranking, they they just put out a
+- [1741520.00s] post and it was like uh yeah, like we
+- [1744080.00s] can put out thousands of pages, get
+- [1747520.00s] indexed, get a lot of traffic in a
+- [1749919.00s] threemonth period, and then by the end
+- [1752159.00s] of those three months, all of the
+- [1753520.00s] organic traffic is gone.
+- [1760000.00s] I have a couple of set of rules that
+- [1762480.00s] that
+- [1764320.00s] you know I can't prove if if the rules
+- [1766559.00s] have been like
+- [1770080.00s] if they've been really successful but I
+- [1772000.00s] know for now that if I stick to them I I
+- [1774240.00s] seem to do pretty good. One of them is
+- [1778399.00s] particularly if it's a new domain or
+- [1780000.00s] even if it's an old one, don't start
+- [1782080.00s] publishing hundreds of blog posts a
+- [1785120.00s] month. Like that's a red flag from
+- [1788080.00s] Google, particularly even if the website
+- [1789840.00s] is an age domain. Um, if it didn't
+- [1793200.00s] publish historically a lot of blog
+- [1795039.00s] posts, then what are you doing
+- [1796080.00s] publishing 100 all of a sudden, right? I
+- [1799039.00s] try to do everything from a data-driven
+- [1800720.00s] approach. So, let's say I am publishing
+- [1802399.00s] a lot of content. I say, "Cool, let's
+- [1804399.00s] start with four a week. Let's do that
+- [1806240.00s] for a month. Look at the search console.
+- [1808480.00s] Is it doing okay? Great. Let's continue
+- [1810640.00s] this or maybe add one more. Um, and then
+- [1814320.00s] at the same time, don't just add more,
+- [1816240.00s] but fix blogs that are six 16 12 months
+- [1821200.00s] older. Like that should be part of the
+- [1823279.00s] strategy. People forget about that. They
+- [1824480.00s] just like, I need to write more content.
+- [1826000.00s] You also need to fix your old stuff. So
+- [1829440.00s] then don't publish crazy. um try to
+- [1834799.00s] integrate your experience into it. So
+- [1837440.00s] here for example, this is my like
+- [1839200.00s] command center. Um I there's a bunch of
+- [1844240.00s] information here in terms of the
+- [1845840.00s] content, the assets. Uh there's
+- [1848640.00s] testimonials here. Screenshots is
+- [1851279.00s] somewhere
+- [1854159.00s] series emails. When you're putting when
+- [1855679.00s] you're putting in images, are you
+- [1857760.00s] describing the images very thoroughly so
+- [1860640.00s] that the AI understands what it is or
+- [1864559.00s] how does that work?
+- [1866320.00s] >> No, Claude, maybe I should, but Claude
+- [1868640.00s] seems to understand pretty well what's
+- [1870480.00s] on the image, particularly if it's
+- [1872080.00s] written here. So, let me just see where
+- [1876399.00s] I left. I taught it to organize.
+- [1879919.00s] Um
+- [1881760.00s] yeah, output SEO audit our news content.
+- [1886480.00s] We have weekly reviews dashboard.
+- [1890559.00s] Cool.
+- [1892720.00s] Scratch pads.
+- [1894799.00s] And
+- [1897519.00s] there's one here that I'm looking for
+- [1901279.00s] screenshots.
+- [1903919.00s] Um thing is that I tell it to organize
+- [1907120.00s] how it wants to and then yeah okay
+- [1911200.00s] testimonials
+- [1912720.00s] claw it perfect.
+- [1914880.00s] So
+- [1917200.00s] I
+- [1918720.00s] gave it a bunch of images in the
+- [1920640.00s] beginning and said hey these are all the
+- [1921840.00s] wins that we've done over the past years
+- [1923360.00s] for community members or clients. Um it
+- [1925919.00s] turned that into an MD file that
+- [1927279.00s] information. Um, so then every time that
+- [1929840.00s] it's writing something, it'll see, do I
+- [1931600.00s] need to look at any wins that I could
+- [1934000.00s] naturally integrate to this content that
+- [1935279.00s] make sense to do? So,
+- [1938399.00s] I think one of the best things you can
+- [1939679.00s] do when you're starting this is go to
+- [1942640.00s] something like uh, Otter.
+- [1948559.00s] Um, the free version allows you for like
+- [1951279.00s] 300 minutes, which is more than enough.
+- [1953120.00s] record uh you're recording and walk
+- [1957679.00s] around whatever you want to do, but talk
+- [1959600.00s] to this thing for a good 30 minutes
+- [1961279.00s] about what your angle in your industry
+- [1963360.00s] is. Let's say you're a you're a doctor
+- [1966080.00s] and your whole thing is kind of
+- [1967279.00s] naturopathy and like you know more
+- [1969600.00s] natural remedies, why you think that
+- [1971200.00s] thing. It's like talk talk. Throw that
+- [1974000.00s] in there into the folder. Throw anything
+- [1976480.00s] else you want in there. And then what
+- [1979440.00s] you want to do is uh once you have a
+- [1982559.00s] session open, let me start a new one
+- [1984399.00s] here without organizing yourself like be
+- [1988399.00s] as messy as you want. The beautiful
+- [1990000.00s] thing is that if we launch claude in the
+- [1992880.00s] folder that you've left a mess with all
+- [1994320.00s] the documents, it doesn't matter because
+- [1995679.00s] you can go forward slashinit
+- [1998799.00s] that's initialize an md file. So it'll
+- [2001279.00s] read all the content structure and say
+- [2003120.00s] okay I think I know what you're trying
+- [2004159.00s] to get to do here. And the MD file is
+- [2006559.00s] just kind of like a set of instructions
+- [2008159.00s] so that when you open Claude in this
+- [2010080.00s] session, it kind of understands
+- [2011760.00s] everything right away. Um, and even
+- [2014240.00s] those things are going to make you a
+- [2016720.00s] better content writer. Oop, sorry for
+- [2019039.00s] the animations there are going to are
+- [2021519.00s] going to make you a better copywriter.
+- [2023840.00s] >> So again, to kind of summarize into
+- [2026880.00s] points, don't publish a 100 at once if
+- [2029279.00s] if the website hasn't historically done
+- [2031200.00s] so. Try to inject your own experience or
+- [2035039.00s] bring something new. Always back up the
+- [2037679.00s] statements as well and you can automate
+- [2039519.00s] majority of these things as well.
+- [2041440.00s] >> Yeah. So think about velocity. Think
+- [2044559.00s] about a natural velocity which a lot of
+- [2047279.00s] people don't they don't they don't do.
+- [2049119.00s] Think about like Yeah. Like what would
+- [2050879.00s] actually look real here?
+- [2052320.00s] >> Yeah. Yeah. And I think and it's not
+- [2055599.00s] that Google penalizes AI content or what
+- [2057919.00s] what was it saying? It's that all spammy
+- [2060240.00s] content is AI, but not all AI content is
+- [2062960.00s] spammy.
+- [2063839.00s] >> Yeah,
+- [2064639.00s] >> right. Um, it was probably you that said
+- [2067359.00s] that to be honest.
+- [2068320.00s] >> I don't know. I I mean, al you can have
+- [2070720.00s] spammy content that's not AI, but I get
+- [2073760.00s] I get the point you're trying to make.
+- [2074960.00s] >> Yeah. Right. Perfect. So, that's the
+- [2076639.00s] thing as well. Just because you wrote it
+- [2078960.00s] organically doesn't mean it's going to
+- [2081119.00s] do better as well, right?
+- [2082879.00s] >> Yeah. Yeah. Yeah. Um, so anyway, let's
+- [2085200.00s] go to
+- [2085760.00s] >> But you can also have good you can have
+- [2087440.00s] good AI content, but you you actually
+- [2089679.00s] have to know how to make good content in
+- [2091520.00s] the first place,
+- [2093119.00s] >> right?
+- [2094480.00s] >> Yes. And that is bringing something new
+- [2096240.00s] to it or are you actually answering the
+- [2097839.00s] search intent that the user is kind of
+- [2099760.00s] going for, you know?
+- [2101119.00s] >> Yeah. Yeah. Um,
+- [2103359.00s] so I think the wonderful thing about
+- [2104960.00s] having working with claude code whether
+- [2107040.00s] it's in the desktop or or something like
+- [2108560.00s] ugly like the terminal like this is you
+- [2110480.00s] can make it work to your flow you the
+- [2112800.00s] way you work for example um you and I
+- [2116000.00s] kind of very similar here where we do a
+- [2117440.00s] lot of YouTube content but I like to be
+- [2119680.00s] as efficient as I can. Can I turn the
+- [2121680.00s] YouTube content into a blog post and
+- [2123119.00s] into a LinkedIn post all repurposing not
+- [2125440.00s] copy and paste but doing you know all
+- [2127920.00s] the different things. I have a skill
+- [2130400.00s] here that will do that for me. Um, it
+- [2132960.00s] can run automatically, but I can also um
+- [2136000.00s] instruct it to run. So, this for example
+- [2138720.00s] extracts the um the video information
+- [2143280.00s] including the transcript, the
+- [2144960.00s] description, everything that it can
+- [2146800.00s] using a free um I think it's an API
+- [2151040.00s] access called YTLP
+- [2153200.00s] and then it creates into a blog post.
+- [2154720.00s] So, let's try it out now. Right. I've
+- [2156240.00s] got um this video that I published I
+- [2160079.00s] think yesterday on using CMax. I'm going
+- [2162960.00s] to go here
+- [2165599.00s] and just give it the URL. Um and it'll
+- [2169440.00s] start scraping, looking at my tone of
+- [2172320.00s] voice, seeing what else it can inject.
+- [2174320.00s] And hopefully we should see it if I tell
+- [2177280.00s] it to do so as a draft in my web flow.
+- [2180880.00s] So at the moment you can see that the
+- [2182560.00s] last draft that I've done is uh a
+- [2186320.00s] something that I haven't played [ __ ]
+- [2187520.00s] which is um AI SEO for dentists that was
+- [2190720.00s] created on the yeah today very early
+- [2193040.00s] automatically.
+- [2194560.00s] Um,
+- [2197280.00s] so yes, let's get this.
+- [2199839.00s] >> Do you have any do you have any uh
+- [2202640.00s] successful
+- [2204480.00s] AI AI content that you can share where
+- [2207760.00s] you put up a AI written post? Maybe it
+- [2210480.00s] was on X, maybe it was on LinkedIn and
+- [2212480.00s] it did pretty well and we could see
+- [2214720.00s] that.
+- [2215760.00s] >> Um, the only one that I've done on
+- [2218560.00s] LinkedIn lately was one where I went on
+- [2220960.00s] a rant and it did that for me. So, if I
+- [2224560.00s] go to
+- [2226640.00s] >> I want because I'm I want to see the
+- [2228079.00s] writing style. I want to see if it reads
+- [2230079.00s] like AI to me.
+- [2231760.00s] >> Sure.
+- [2232560.00s] >> Um, let's have a look. So,
+- [2235280.00s] >> or if it reads like, "Yeah, this guy was
+- [2237200.00s] pissed." Like,
+- [2239200.00s] >> uh, let's go to
+- [2240960.00s] >> postal.
+- [2245280.00s] You know, I've also found that like if
+- [2246960.00s] the hook is good enough and the the
+- [2249119.00s] subject matter is good enough, even if
+- [2250880.00s] it does read like AI writing, people
+- [2252560.00s] don't care.
+- [2254400.00s] >> No. Cool. So, this one's the one that's
+- [2255920.00s] done for me better so far. I'm not the
+- [2260160.00s] biggest on
+- [2262000.00s] >> LinkedIn. Get in there. So, let's see.
+- [2264800.00s] Warning, rant incoming. Might sound like
+- [2266960.00s] I'm an ass here. Excuse me. I don't know
+- [2269200.00s] if I can swear, but anyway.
+- [2270240.00s] >> Wow. Yeah. No, this this reads very
+- [2271839.00s] natural.
+- [2272400.00s] >> Yeah. I don't care. Uh I've been lucky
+- [2274320.00s] enough to yeah um and I just kind of go
+- [2277760.00s] explaining about you know
+- [2280880.00s] uh you you know actually SEO. I keep
+- [2285119.00s] hearing the same thing over and over.
+- [2286400.00s] Hey uh I have a client who says they
+- [2288240.00s] don't want SEO. They only want AI SEO,
+- [2290320.00s] GEO, LLM SEO or whatever fancy new
+- [2292960.00s] acronym you want to invent this week. Uh
+- [2295200.00s] then people get stuck trying to explain
+- [2296560.00s] to clients that all these madeup
+- [2298640.00s] acronyms. Um you know, AEO, GEO, LLM,
+- [2303040.00s] SEO. Me rattling them offs makes you
+- [2305359.00s] sound like buster rhymes. I don't know.
+- [2306960.00s] Like it's got my cheeky aspect to it. Um
+- [2310720.00s] none of this works without solid
+- [2312000.00s] foundations. And I keep ranting on about
+- [2313680.00s] like, you know, if you want to rank in
+- [2315599.00s] the AI search engines, you got to get
+- [2316880.00s] your fundamentals right, otherwise good
+- [2318880.00s] luck to you. But I like it.
+- [2321040.00s] >> Yeah.
+- [2322000.00s] >> Um
+- [2322480.00s] >> it did well. I think it did well because
+- [2324640.00s] it's the the angle like if you're trying
+- [2327760.00s] to say something somewhat controversial
+- [2329920.00s] then that's the main thing which I
+- [2331200.00s] should now realize I should probably
+- [2332480.00s] write more of but uh yeah then the
+- [2334960.00s] others is just uh every now and then me
+- [2339359.00s] saying like I canled my N and Zapia
+- [2342240.00s] subscriptions and then
+- [2343839.00s] >> this is all you wrote you wrote this
+- [2345280.00s] with AI too.
+- [2346400.00s] >> This is all automat I don't even write
+- [2348000.00s] this. So this is part of a cron job. So,
+- [2350800.00s] for those of you who don't know, a cron
+- [2352240.00s] job is essentially a scheduled job,
+- [2355119.00s] right? You can do this now in co-work.
+- [2356960.00s] You've been able to do this for a while.
+- [2359119.00s] Uh so, um these are the list of all the
+- [2362240.00s] chron jobs that I have. Um the one thing
+- [2365040.00s] is you need to be working on your
+- [2367920.00s] laptop, which a lot of people say, "Oh,
+- [2370000.00s] I wish it could run automatically." For
+- [2371359.00s] me, it isn't a problem. like the cron
+- [2373040.00s] jobs uh they run when I'm working and
+- [2377440.00s] they run headless which means
+- [2379359.00s] essentially I don't need a terminal open
+- [2382000.00s] I don't need anything open that I can
+- [2384160.00s] see claude code kind of doing its thing
+- [2385839.00s] it just does it right in the background
+- [2388320.00s] so for example it gives me a morning
+- [2390480.00s] brief uh one of the watches my meta ads
+- [2394079.00s] uh one of them links my Facebook leads
+- [2396320.00s] to my email octopus because I don't want
+- [2398000.00s] to pay for the subscription
+- [2401280.00s] Um, one's an invoice tracker, one is a
+- [2403839.00s] video to blog post that runs
+- [2405280.00s] automatically on Tuesday and Thursday
+- [2407599.00s] because I know I upload videos on Monday
+- [2409200.00s] and Wednesday, so the day after, just to
+- [2410960.00s] make sure that it's there. Video to
+- [2413040.00s] LinkedIn. So, this one, the video to
+- [2415359.00s] LinkedIn one is the one that did this
+- [2418480.00s] content automatically.
+- [2422000.00s] Yeah,
+- [2422480.00s] >> the video to blog posts. How how well
+- [2424720.00s] are those doing with SEO?
+- [2427119.00s] >> Um, good question. I probably haven't
+- [2429680.00s] even checked in a while.
+- [2433119.00s] >> Yeah. Or or just it'd be it'd be cool to
+- [2435280.00s] see like some of your sk some of your
+- [2437839.00s] scheduled AI content where it just goes
+- [2440079.00s] out. You're it just goes out on schedule
+- [2443280.00s] automatically in the background. That's
+- [2445760.00s] doing well.
+- [2449119.00s] >> Love your site, by the way.
+- [2450800.00s] >> Thanks. I probably need to upload it,
+- [2452800.00s] but for now it's doing okay.
+- [2456079.00s] Um
+- [2458160.00s] Um,
+- [2460720.00s] so all these
+- [2464079.00s] have been from
+- [2468400.00s] Yeah.
+- [2470240.00s] Yeah. It's got the source here. Let's
+- [2471599.00s] take a look. Let's see if any of these
+- [2472640.00s] are ranking. I haven't looked at my
+- [2474160.00s] search console in a while. Let's go to
+- [2477359.00s] school and let's see which ones have
+- [2479520.00s] been doing the better ones. Performance.
+- [2482400.00s] Let's go to pages
+- [2485280.00s] and let's go. Yeah. So the the second
+- [2488319.00s] best one is a
+- [2493440.00s] is a blog about back in the day when GPT
+- [2497040.00s] had personalities and that arrived. So
+- [2499440.00s] that's the one that's bringing in the
+- [2500880.00s] most kind of organic traffic from the
+- [2502319.00s] blog post and to this day it still is.
+- [2504079.00s] It even decided to do these little HTML
+- [2506000.00s] elements here. Um
+- [2509040.00s] you know uh let's see another one. How
+- [2513119.00s] to connect. Oh yeah, this one's an
+- [2516640.00s] interesting one. How to
+- [2520160.00s] connect.
+- [2521119.00s] >> So, so to so to what extent do you find
+- [2524480.00s] scheduled AI content like if if you are
+- [2527359.00s] if you're trying to get results are are
+- [2529839.00s] you going to you're trying to get not
+- [2533200.00s] just traffic but traffic that converts,
+- [2536480.00s] >> what type of AI content are you going to
+- [2538800.00s] make and how are you going to make it?
+- [2544400.00s] I try to
+- [2547200.00s] leverage my workflow. So by that I mean
+- [2551040.00s] I want to be as efficient as possible. I
+- [2553040.00s] put a lot of effort into the YouTube
+- [2554319.00s] videos. I've got someone helping me as
+- [2556000.00s] well these days. So we ideate together.
+- [2559520.00s] The amount of time that we spend
+- [2560880.00s] creating the idea. I want to stretch
+- [2563920.00s] that out as much as I can. So then
+- [2567119.00s] it's it generally starts from there. So
+- [2569359.00s] the content that always gets automated
+- [2571839.00s] completely is stuff from YouTube goes to
+- [2574800.00s] my blog post goes to LinkedIn or
+- [2576319.00s] whatever else. That's one. The other one
+- [2578720.00s] is I try to go through a
+- [2583599.00s] something uh whatever news is out
+- [2586400.00s] currently. It's both a blessing and a
+- [2588240.00s] curse. Our industry moves so fast. You
+- [2589920.00s] have a new model or new whatever every
+- [2591599.00s] single day practically. So I try to do
+- [2594000.00s] like a recap maybe at the end of the
+- [2596000.00s] Fortnite or something. And then the
+- [2598400.00s] other one is educational content. So
+- [2600640.00s] like I'm all I'm trying to do is get
+- [2603599.00s] cited for the questions that my audience
+- [2606880.00s] might be beginning to ask if they're in
+- [2608400.00s] the journey to find me. How do I write
+- [2610640.00s] SEO content without getting penalized?
+- [2612560.00s] Can I use ChatBT for SEO? How do I do
+- [2615119.00s] keyword research with AI? Things that
+- [2617760.00s] that might not even do that well. They
+- [2619680.00s] might not even get clicks, but from a
+- [2621680.00s] blog post perspective, I don't really
+- [2623520.00s] care. I just want to get cited and I
+- [2625599.00s] want to be there. um you know so I yeah
+- [2630560.00s] I think those three things where the
+- [2633359.00s] YouTube video gets gets repurposed news
+- [2636319.00s] and then educational content for um it
+- [2640640.00s] changes for the different types of
+- [2641920.00s] businesses like if we work with local
+- [2643440.00s] business and stuff like that then we
+- [2645440.00s] have to see what makes sense what kind
+- [2648000.00s] of content makes sense for them to write
+- [2650880.00s] um but I think
+- [2655040.00s] I think you can't rely rely solely on
+- [2657200.00s] written content. I think if you're not
+- [2659200.00s] doing video content, then
+- [2662400.00s] it's going to be very difficult for you
+- [2664079.00s] to get those results. By results, I mean
+- [2666240.00s] like conversions, you know, you know,
+- [2670240.00s] and I think that can kind of help you
+- [2671839.00s] out. And you can repurpose the other
+- [2674240.00s] way. If you're doing the educational
+- [2675920.00s] content on how to write SEO content with
+- [2678079.00s] a video that's not going to get
+- [2679040.00s] penalized and you've got a blog post,
+- [2681119.00s] turn that into a couple of shorts. Embed
+- [2683040.00s] one of those shorts into the blog post.
+- [2687599.00s] Yeah, I mean we've seen
+- [2689760.00s] >> Okay. Yeah, we've seen we've seen AI
+- [2692400.00s] content rank and and do well. Uh
+- [2695680.00s] >> yeah, that's interesting. But so
+- [2699839.00s] you're not relying on the written SEO
+- [2702240.00s] content very much for conversions or or
+- [2705440.00s] or even qualified traffic.
+- [2709680.00s] You know, it's one of the the traffic
+- [2711680.00s] from our website is one of the things
+- [2713599.00s] that converts better the best to our
+- [2716480.00s] community and to our other services. So,
+- [2719680.00s] it's the traffic isn't that much, but
+- [2722720.00s] it's really good. So, am I relying on
+- [2726400.00s] >> Yeah. Am I relying on it? No.
+- [2729040.00s] >> Do I want to improve it? And am I trying
+- [2730720.00s] to get more traffic? Yes. But it it
+- [2732800.00s] attributes, let's say,
+- [2733680.00s] >> I'm not even Well, I'm not even asking
+- [2735119.00s] for your specific for for the AI ranking
+- [2737760.00s] site. I I'm I'm talking more so about if
+- [2740960.00s] you're you're you're doing a business,
+- [2742880.00s] you're starting a new business, for
+- [2744400.00s] example,
+- [2745440.00s] >> and you want SEO to play a major part of
+- [2750079.00s] your go to market. How will you use AI
+- [2753599.00s] content, AI written content for that?
+- [2762800.00s] If it's a let's start with a local
+- [2764880.00s] business for example just because we do
+- [2766960.00s] a lot of that I
+- [2771200.00s] would try and use the AI first with the
+- [2775359.00s] connection to data for SEO to find me
+- [2777440.00s] the kind of any search volume out there
+- [2780240.00s] for specific questions that people are
+- [2781599.00s] asking about their area. So like I don't
+- [2783920.00s] know plumbers in Texas, what's the
+- [2785680.00s] average price of plumbers in Texas? How
+- [2787119.00s] do plumbers in Texas works? All these
+- [2788400.00s] kind of things. Um, not only am I using
+- [2791839.00s] it to write the content, but I'm using
+- [2793359.00s] it to organize what we're going to write
+- [2796240.00s] and when and why and how it's going to
+- [2797839.00s] be interlinking with each other. That
+- [2799280.00s] takes a lot of brain power, particularly
+- [2800960.00s] for me. So, that's kind of number one.
+- [2803280.00s] Um,
+- [2805200.00s] and yes, I'm writing all that content,
+- [2809040.00s] but I'm almost writing it so that
+- [2812319.00s] there's two there's two loops to this,
+- [2814800.00s] right? The first loop is I want to write
+- [2816960.00s] all the content so that the AI starts
+- [2819280.00s] recognizing that I'm a subject matter
+- [2821599.00s] expert in plumbing or leaky pipes in
+- [2824400.00s] Texas as a business owner, right?
+- [2825920.00s] Because I'm getting cited. But then I
+- [2827920.00s] know that because I got crawled, I'm
+- [2831440.00s] going to have the highest possibilities
+- [2832880.00s] for my content to be used as training
+- [2834720.00s] data set next time they do an update to
+- [2836880.00s] the to the AIS. So I'll be there kind of
+- [2839680.00s] ingrained into that. So 6 months down
+- [2841760.00s] the track, the AI might not even have to
+- [2844160.00s] search all the time and and I might get
+- [2845760.00s] recommended, right? But more important
+- [2849040.00s] than blogs to me these days are becoming
+- [2852000.00s] optimize the service pages as much as
+- [2855599.00s] you can. The service pages are going to
+- [2857520.00s] get you to the transactions. The blog
+- [2859359.00s] posts are going to get you cited and
+- [2861280.00s] known like so that the AI's engines
+- [2864240.00s] knows that you exist.
+- [2867040.00s] But I think people, at least for the
+- [2868800.00s] businesses that we help a lot, they try
+- [2872000.00s] to concentrate so much on blog post and
+- [2873680.00s] then they get uh kind of disappointed
+- [2875839.00s] when they're not bringing too much
+- [2877200.00s] traffic. But I think
+- [2880640.00s] it's not Yes, it is about traffic for
+- [2882720.00s] blog post, but it's also just about
+- [2884880.00s] getting the AI to realize that you're
+- [2886560.00s] there with these blog posts and getting
+- [2888240.00s] you cited. And if if your transactional
+- [2890960.00s] pages are are done really well for this,
+- [2892880.00s] then yes, um you're going to start doing
+- [2895680.00s] really well. So, I think that's how I
+- [2897359.00s] think about the the content, the blog
+- [2899920.00s] post. Yeah, I'm writing as much as I
+- [2902559.00s] can, but that's not my my end all and be
+- [2906240.00s] all to to make a successful business
+- [2908000.00s] from an SEO perspective.
+- [2909520.00s] >> You're are you making the service pages
+- [2911119.00s] with AI?
+- [2912240.00s] >> Yes, the cont.
+- [2915520.00s] >> Um, yeah, sure. Let's see what we've
+- [2919200.00s] worked on recently.
+- [2920720.00s] >> By the way, I I completely agree.
+- [2922480.00s] service.
+- [2924000.00s] Conversion-based SEO landing pages are
+- [2925920.00s] where it's at. I personally am more
+- [2928960.00s] likely to use a blog for company
+- [2931440.00s] announcements, new features, things in
+- [2934160.00s] the industry we're excited about, things
+- [2935839.00s] that people need. I'm like when I'm use
+- [2937760.00s] when I'm using the blog, I'm writing for
+- [2940880.00s] the my customers, my potential
+- [2943359.00s] customers, not even for SEO. The SEO for
+- [2946559.00s] me, the most important SEO for me is the
+- [2948319.00s] conversionbased SEO landing pages. And
+- [2950319.00s] that sounds similar to what you're
+- [2952480.00s] talking about.
+- [2953520.00s] >> Yeah. No, I think I
+- [2956559.00s] >> that's what brings the money. That's
+- [2957839.00s] what brings the that's it's like yeah,
+- [2959839.00s] it's important to be there for the
+- [2961440.00s] journey. And sometimes I'll do I'll do
+- [2963599.00s] blog SEO for the journey,
+- [2965680.00s] >> but it it's less time, effort, and
+- [2969440.00s] competition to go after those bottom
+- [2971359.00s] offunnel keywords with these
+- [2972800.00s] conversionbased SEO landing pages.
+- [2976480.00s] >> Yeah. And I think a lot of people miss
+- [2978720.00s] out on like the
+- [2982480.00s] what a transactional page is supposed to
+- [2985200.00s] be. Uh like you don't they have no call
+- [2988079.00s] to actions in the first fold and things
+- [2989599.00s] like that. And it's it's you know you
+- [2991440.00s] you need to keep it to the to the
+- [2993599.00s] basics. Let me
+- [2995599.00s] >> see if I can find one that that I've
+- [2997359.00s] been working I've been working with
+- [2998800.00s] someone lately uh and they just redid
+- [3002319.00s] one of their pages. Um let me just see.
+- [3008960.00s] Yeah, I'm curious.
+- [3013760.00s] >> Was this
+- [3015040.00s] >> while while you're looking I I don't
+- [3016480.00s] know if you can um if you can talk about
+- [3019119.00s] your thoughts on Claudebot while you're
+- [3021040.00s] searching for this. I think um I've
+- [3025200.00s] tested a lot of variants Lord Bort uh
+- [3029440.00s] and
+- [3031359.00s] you know whichever other ones you want
+- [3033839.00s] to
+- [3035440.00s] play with. My honest opinion is that
+- [3041119.00s] you can probably do
+- [3044079.00s] 90% of what all these tools do with if
+- [3048319.00s] you really learn how to use one very
+- [3050079.00s] well. Like it's a whole thing with
+- [3051359.00s] clawbot or with open claw or whatever.
+- [3055440.00s] Um
+- [3057599.00s] you know you can test all these tools
+- [3059599.00s] and you can dip your toe into them a
+- [3061760.00s] little bit but then your knowledge of
+- [3063520.00s] how to use these tools is is very
+- [3064960.00s] superficial. I dove in completely into
+- [3068240.00s] clawed code and now I realize I can
+- [3070960.00s] automate a good solid 80% not to be too
+- [3074720.00s] out there sort 80% of my work. So
+- [3078720.00s] whether it's Claudebot, whether it's
+- [3080559.00s] claude code, whether it's codec, my
+- [3083359.00s] whole thing would be stick to one and
+- [3086000.00s] learn how to use it to its full
+- [3087520.00s] capacity. Don't get shiny object
+- [3089520.00s] syndrome and go, "Oh, this is going
+- [3091359.00s] super viral on YouTube. Maybe I should
+- [3093119.00s] try that." Because the time you waste
+- [3095200.00s] trying to learn this new tool, you could
+- [3097280.00s] have learned really knowing how to
+- [3099040.00s] master that one tool and in my opinion,
+- [3101680.00s] it's going to be a better return on your
+- [3103520.00s] time.
+- [3104480.00s] >> That's great advice. I I was literally
+- [3106400.00s] having that conversation two hours ago
+- [3108000.00s] with a friend that's who a friend who
+- [3110319.00s] has shiny object syndrome bouncing from
+- [3112000.00s] thing to thing to thing and I like I'm
+- [3113839.00s] like dude pick one thing stick to it for
+- [3117040.00s] minimum 5 years you will be shocked what
+- [3119440.00s] happens in your life.
+- [3120880.00s] >> Yeah. And like I I get it. I get the
+- [3124400.00s] >> it's compounding. It's compounding.
+- [3126800.00s] That's what it is.
+- [3128319.00s] >> When you when you do get shiny object
+- [3130160.00s] syndrome, you lose any potential
+- [3133280.00s] compounding that you will get. And
+- [3135119.00s] compounding works literally with
+- [3137119.00s] everything in life. People think that
+- [3138880.00s] compounding is just finance. And it is
+- [3141119.00s] not at all. It works with relationships.
+- [3143440.00s] It works with branding. It works with
+- [3145599.00s] marketing, with business, with with
+- [3147440.00s] knowledge, with having a a job and
+- [3149520.00s] working for somebody else. It it works
+- [3152400.00s] with nature and growth. It works with
+- [3155280.00s] literally everything.
+- [3157359.00s] >> It is a fundamental aspect of life. and
+- [3159680.00s] shiny object syndrome stomps any
+- [3162480.00s] potential compounding that you get. And
+- [3165040.00s] I've I've heard a lot of people say
+- [3166880.00s] great people I mean there's a reason
+- [3168640.00s] that people love cloud code and it's
+- [3170559.00s] cool to see uh what you're doing. I and
+- [3173760.00s] I mean I it took me a while to the the
+- [3177520.00s] the
+- [3179040.00s] terminal component can be scary to a lot
+- [3181359.00s] of people and the name Claude code is a
+- [3183280.00s] lot like oh I'm I'm not code I'm not a
+- [3184880.00s] developer it's not a tool for me but if
+- [3186400.00s] you can get past that little hurdle it's
+- [3188880.00s] the most
+- [3191280.00s] like life-changing in terms of work tool
+- [3193680.00s] that I've used ever and I kind of think
+- [3195920.00s] before I'm getting into using another
+- [3197920.00s] tool like I was instinctively going to
+- [3199520.00s] go I need to automate this with Zapio or
+- [3201200.00s] with I go
+- [3203680.00s] Can just claw just do it for me? And 90%
+- [3206800.00s] of the time it can. So, um,
+- [3211119.00s] >> I had I had a uh Well, sorry. I'll I'll
+- [3215119.00s] I'll tell you in a minute. But yeah, you
+- [3216720.00s] have the page open.
+- [3218240.00s] >> This is a page that we reworked with um
+- [3222079.00s] with someone we do like a sixe program
+- [3224079.00s] with uh
+- [3226480.00s] general contractor. So, these are leads
+- [3228640.00s] that are going to pay, you know, big
+- [3230559.00s] moola. So there's a lot of these. So
+- [3233599.00s] this one is in Fort Collins. Um
+- [3236720.00s] then there's a lot of different location
+- [3238319.00s] pages that are they've got the same
+- [3240079.00s] structure but very different content. My
+- [3241760.00s] thing when you're building this is
+- [3243280.00s] there's a couple of rules here cuz this
+- [3245680.00s] essentially becomes kind of what used to
+- [3247200.00s] be um programmatic SEO where you change
+- [3250800.00s] the name and the service but you keep
+- [3252319.00s] everything the same. The fundamental of
+- [3255200.00s] that can still work, but what's really
+- [3257359.00s] not non-negotiable is the content has to
+- [3259920.00s] differentiate from page to page at least
+- [3261839.00s] by 50% otherwise it's not going to work
+- [3264400.00s] >> because when it does work it works
+- [3265680.00s] phenomenally well. So there's an example
+- [3268079.00s] here where you know
+- [3270800.00s] >> at least 50%. I want to emphasize that
+- [3272720.00s] cuz cuz yeah I I'm a huge proponent of
+- [3275280.00s] having unique content per page because
+- [3277760.00s] the like
+- [3280000.00s] >> if you if you don't take the shortcut
+- [3282559.00s] >> then you can just rank for many many
+- [3284559.00s] many years and people take the shortcut
+- [3286960.00s] and then it yeah
+- [3288319.00s] >> so then the question starts going okay
+- [3290160.00s] but how do I differentiate the content
+- [3291760.00s] so much and it's really not that
+- [3292960.00s] difficult let me show you a page where
+- [3294240.00s] we're kind of really happy with this so
+- [3297040.00s] you know you've got the call out the the
+- [3298960.00s] service and the location the first
+- [3302240.00s] sentences should always be new to that.
+- [3305200.00s] So, transform your home in Fort Collins,
+- [3307520.00s] um, we try to make sure that the first
+- [3309440.00s] sentence is applicable to the location,
+- [3313119.00s] what they offer, all the services they
+- [3315599.00s] offer in that location, right? So, this
+- [3317920.00s] is kind of pretty standard stuff. Um,
+- [3321040.00s] why choose us? This gets very specific
+- [3323520.00s] to why choose us for this specific
+- [3325920.00s] service. And here's where it gets
+- [3327599.00s] interesting. So, this doesn't isn't
+- [3329599.00s] applicable for every single service, but
+- [3331280.00s] they are, you know, home renovators. So,
+- [3333440.00s] what did we do? Well, okay, we did let's
+- [3336720.00s] explain everything you need to know
+- [3338160.00s] about Fort Collins. You can embed a map
+- [3339920.00s] of Fort Collins. That's going to
+- [3341359.00s] differentiate already the page a lot.
+- [3343200.00s] Let's get an image of somewhere in Fort
+- [3346000.00s] Collins that's really wellnown. And then
+- [3347839.00s] here we did a tab thing like okay
+- [3350640.00s] because it's building stuff then talking
+- [3354079.00s] about the weather, the economy, the cost
+- [3355599.00s] of living still kind of makes sense
+- [3357280.00s] because well I'm going to live there. I
+- [3359040.00s] want to see if the renovation investment
+- [3360960.00s] makes sense for me and all these things.
+- [3362640.00s] So we did a section here that goes well
+- [3365040.00s] this is the typical weather in Fort
+- [3366720.00s] Collins. We are still linking to the
+- [3369520.00s] correct sources. Hopefully this is going
+- [3371040.00s] to work. Yeah, to the correct sources
+- [3373920.00s] like the weather and stuff for that. um
+- [3377440.00s] the economy, the cost of living, the
+- [3379760.00s] employment, and it doesn't the main
+- [3381520.00s] thing is as long as it doesn't get in
+- [3382960.00s] the way of the search intent, which here
+- [3384480.00s] it doesn't because, you know, this is
+- [3386480.00s] way down at the bottom. But it's also
+- [3388640.00s] content that makes sense for this page
+- [3390000.00s] to have. So, let's say if you're a
+- [3391440.00s] plumber, then you would do, okay, well,
+- [3393280.00s] in this area of Fort Collins, the pipes
+- [3396079.00s] are actually old from the 1800s, for
+- [3398079.00s] example. Uh so, they need this kind of
+- [3400400.00s] fixing or you find this issue.
+- [3402799.00s] A lot of people go, "Oh, my industry,
+- [3404960.00s] you can't do so much um you know, unique
+- [3408000.00s] content." And it's like, "You're not
+- [3409760.00s] being creative enough about this. You
+- [3411040.00s] haven't thought about this enough
+- [3412000.00s] because you can always create really
+- [3413680.00s] unique content."
+- [3414799.00s] >> Yeah.
+- [3415119.00s] >> Then the neighborhoods um and then the
+- [3417440.00s] FAQs, which is a simple one to add. And
+- [3419920.00s] then obviously this page has schema, I
+- [3422000.00s] think. Hopefully. Let's double check. Uh
+- [3425040.00s] yeah so
+- [3427599.00s] organization schema, service schema,
+- [3430240.00s] home and construction business schema,
+- [3431680.00s] all these things going to help you
+- [3432720.00s] differentiate um that page as well, you
+- [3435680.00s] know. Um so here, see, yeah, the
+- [3440160.00s] description of the schema here is
+- [3441520.00s] trusted general contractor in Fort
+- [3443440.00s] Collins. So that's going to help as well
+- [3445280.00s] uh to differentiate all these things.
+- [3447440.00s] And
+- [3447599.00s] >> the keyword that you're targeting with
+- [3448960.00s] this is general contractor Fort Collins,
+- [3452079.00s] >> correct? Yeah.
+- [3453280.00s] >> Yeah. Yeah.
+- [3454240.00s] >> Yeah. So then we have all the other
+- [3457280.00s] kitchen stuff like that. And yeah, we if
+- [3461760.00s] one of the hardest things to get, but if
+- [3463760.00s] you do have them is if you can get used
+- [3466319.00s] to getting reviews and you tell your
+- [3469599.00s] customers, hey, can you mention the
+- [3471760.00s] location and the service for me in the
+- [3473359.00s] review? Because then you can pick the
+- [3476160.00s] reviews that mention the service and the
+- [3477839.00s] location and put it in that page. And oh
+- [3479200.00s] my goodness, that's a whole new level of
+- [3480799.00s] like of doing stuff the correct way.
+- [3484640.00s] >> Yeah.
+- [3485760.00s] >> Um,
+- [3486559.00s] >> very awesome. Thank you for showing
+- [3488079.00s] that.
+- [3488640.00s] >> No worries. Let's see how we're doing
+- [3491119.00s] here. Okay, this guy is still going. Oh,
+- [3493839.00s] but it's running. So, let me see if it's
+- [3496880.00s] not an absolute um mess here.
+- [3505040.00s] Okay, so this is the first iteration.
+- [3507440.00s] Obviously, it's not the best, but we've
+- [3508960.00s] got Joe's Plumbing, Melbourne's trusted
+- [3511280.00s] since quote our services.
+- [3514559.00s] >> Amazing. Amazing.
+- [3517680.00s] >> I mean, you you you spoke you spoke the
+- [3519839.00s] prompt in in 20 seconds and then we got
+- [3523119.00s] this. So, it's
+- [3524720.00s] >> it's cool.
+- [3525920.00s] >> So, we've got
+- [3527359.00s] >> as like a starting point. It's it's
+- [3529359.00s] amazing to see.
+- [3531359.00s] So then the next level of this would be
+- [3534640.00s] I have given this nano banana uh sorry
+- [3538000.00s] I've given this an image generator AI
+- [3541040.00s] called nano banana pro 2. The latest one
+- [3543119.00s] is incredible. So you can tell it hey
+- [3546160.00s] can you create the feature images for
+- [3547680.00s] this one thing with that if you're going
+- [3550240.00s] to do that I would recommend to create a
+- [3552319.00s] style guide for the website. This can be
+- [3556480.00s] like, hey, can you create a style guide
+- [3559839.00s] including the camera that's taking the
+- [3562160.00s] images, the the lens, the focal length,
+- [3564880.00s] the aperture, and every time you
+- [3566640.00s] generate the images for this business,
+- [3568480.00s] use that as a template because then what
+- [3570640.00s] you find is that all the images are
+- [3572319.00s] cohesive
+- [3573920.00s] and it doesn't look completely out of
+- [3576079.00s] place and it just adds another sense of
+- [3578000.00s] professionalism. Um, we'll see once this
+- [3580400.00s] one is is done. Hopefully not not too
+- [3582400.00s] long, but um you know you can kind of
+- [3585280.00s] get it up and running. And because we
+- [3589359.00s] have done
+- [3592400.00s] it with Astro, let me just check. I
+- [3594799.00s] might shoot myself in the foot here, but
+- [3596480.00s] let's just do it. I got to put my money
+- [3597920.00s] where my mouth is.
+- [3600079.00s] So this is a service hot water
+- [3601760.00s] installation in Melbourne. Um we have
+- [3605440.00s] service schema, we have FAQ schema, and
+- [3608160.00s] we got breadcrumb schema. So already the
+- [3610240.00s] fundamentals that a lot of people would
+- [3611599.00s] miss are there, right? Um
+- [3615119.00s] kind of doing pretty well. We've got the
+- [3617520.00s] locations as well.
+- [3620480.00s] Uh plumber and local carton. Yeah, it
+- [3623119.00s] still needs to Oh, it's mentioning Lagon
+- [3626319.00s] Street. These are all things in carton
+- [3627920.00s] in in Australia. What the customers say,
+- [3631200.00s] FAQs here. So,
+- [3634559.00s] >> you know, nothing
+- [3637280.00s] extraordinary, but it's well done. I see
+- [3639760.00s] a lot of videos around that people
+- [3641440.00s] selling or I got AI to generate me a
+- [3643680.00s] $10,000 website. I don't know if you've
+- [3645200.00s] seen this stuff. And they look pretty,
+- [3646559.00s] don't get me wrong, with like animations
+- [3647920.00s] and stuff for that. But I wouldn't I
+- [3651520.00s] don't care how pretty it is. I care how
+- [3654720.00s] much money it's going to bring me or the
+- [3656480.00s] customer by caring how much it's going
+- [3658799.00s] to rank. That should be the number one
+- [3660880.00s] goal here. Unless it's to for a
+- [3662799.00s] designer.
+- [3663200.00s] >> Rank and convert. Rank and convert. Rank
+- [3664960.00s] and convert.
+- [3666000.00s] >> That's all that matters, right?
+- [3667760.00s] >> At least for me, obviously, we're
+- [3669040.00s] biased, but Yeah.
+- [3670319.00s] >> No. Well, no. You want to make money.
+- [3671920.00s] Rank and convert.
+- [3672799.00s] >> Yeah.
+- [3673520.00s] >> Yeah. Yeah.
+- [3674640.00s] >> Um, and let's see. We had another one
+- [3676960.00s] here. Maybe it was done. We had one that
+- [3679920.00s] should have done the content for us.
+- [3687599.00s] I didn't run it in uh
+- [3692160.00s] it's gathering the because I didn't run
+- [3693920.00s] it in uh dangerously skip permissions.
+- [3696160.00s] It's asking me for hey can I do this
+- [3698000.00s] Python script and stuff like that. So
+- [3699280.00s] that's that's a good example actually. I
+- [3700640.00s] don't mind that I haven't you can see
+- [3702000.00s] that it kind of stops you from um from
+- [3705440.00s] doing the whole work there. Is there
+- [3707520.00s] anything is there anything with AI
+- [3709040.00s] content that you used to do and that uh
+- [3713200.00s] that worked a lot better that you don't
+- [3716160.00s] do anymore and you're like I'm never
+- [3717680.00s] going back there and people shouldn't do
+- [3719599.00s] that. People should know
+- [3722799.00s] using
+- [3726079.00s] I might get in trouble here
+- [3728480.00s] using
+- [3731200.00s] con like paid content writers. So like
+- [3734559.00s] um
+- [3738319.00s] uh what are some names here? Uh
+- [3743440.00s] you know the the apps that you sign up
+- [3745040.00s] and it'll create generate the content
+- [3747040.00s] for you like they're still okay things
+- [3749280.00s] like Machined AI things like uh Sonet
+- [3753040.00s] Sonic Writer um writer Sonic and all
+- [3755920.00s] these things um SEO writer even Zim
+- [3759359.00s] writer which I do love. I I think you're
+- [3762559.00s] stuck in a framework that has no
+- [3765920.00s] flexibility. I don't like that anymore.
+- [3768480.00s] You need to be flexible. You need to
+- [3770000.00s] amend really quickly to, you know, for
+- [3773119.00s] whatever it is that you've got going on.
+- [3775440.00s] Um
+- [3777599.00s] I used to try and
+- [3783920.00s] re
+- [3785680.00s] it used to work. Okay. just get the
+- [3788559.00s] content of a competitor that's doing
+- [3790160.00s] really well, rewrite it and add a couple
+- [3792160.00s] of more like add a bit more schema or
+- [3795599.00s] headings that I would ask in questions
+- [3797039.00s] and stuff for that. I find that that
+- [3799599.00s] does not work as well anymore. Like if
+- [3803200.00s] you're rewriting it, you need to add
+- [3804640.00s] something that the competitor doesn't
+- [3806720.00s] have. Um, so don't rewrite it just for
+- [3809280.00s] rewriting. So, oh, I'll put more content
+- [3811200.00s] in there. Okay, what is that content
+- [3814079.00s] more content they're going to put in
+- [3815280.00s] there? Um, but yeah, I just don't think
+- [3818319.00s] you need these these paid writers like
+- [3821039.00s] Sonic Writer and and and I'm having a
+- [3823520.00s] mind blank sorry, but all these other
+- [3825039.00s] paid kind of writing tools. If you if
+- [3826799.00s] you're
+- [3828319.00s] paying for Claude for Chat GBT, a good
+- [3830720.00s] process and a good system in my opinion
+- [3832799.00s] is probably going to be better than than
+- [3834160.00s] all these things. Um,
+- [3837200.00s] you know, again, if it solves the
+- [3838960.00s] problem for you, like if you just want a
+- [3841280.00s] really easy UX and you prefer using
+- [3843280.00s] these writing tools, by all means, go
+- [3844880.00s] for it. But I just don't think they're
+- [3846319.00s] as flexible as what you you need to have
+- [3849200.00s] these days.
+- [3850720.00s] >> This is awesome. Thank you for showing
+- [3852000.00s] all of this.
+- [3852960.00s] >> No worries. Uh, cool. Okay, we've got
+- [3856160.00s] >> you just got married, right?
+- [3858400.00s] >> I did. Uh, yeah. Thank you very much. I
+- [3861280.00s] did. It was lovely. Um,
+- [3862559.00s] >> congratulations.
+- [3863760.00s] >> Thank you very much. I appreciate it was
+- [3865839.00s] really really nice. Um, so let's have a
+- [3868880.00s] look. Hopefully already exists in
+- [3871760.00s] Webflow.
+- [3873359.00s] If we go to my Web Flow back end, we can
+- [3877200.00s] refresh
+- [3878960.00s] and hopefully we're not talking here.
+- [3881440.00s] And this thing is doing its thing.
+- [3890960.00s] >> What are we looking at now? We're
+- [3893039.00s] looking at whether the
+- [3897039.00s] log post from the YouTube to No, it
+- [3899440.00s] didn't do that. So, we need to push it
+- [3902079.00s] uh push it
+- [3905839.00s] web flow. So, I just want to show you
+- [3907280.00s] the whole sequence. So, like I've
+- [3909200.00s] written the blog post, but it's just
+- [3910480.00s] written it as an MD.
+- [3912880.00s] Um, and it's saved it somewhere, but it
+- [3916319.00s] should be here as a draft. Um, I think
+- [3921280.00s] it's getting Claude called to do that.
+- [3923920.00s] Uh,
+- [3929599.00s] so it's saying it's published.
+- [3932799.00s] Oh. Oh, it it didn't published it. Yeah,
+- [3935839.00s] there you go. So, there it is. Um,
+- [3937440.00s] >> wow, look at that name. Slug, can you go
+- [3941039.00s] back to that? Can you go back to that
+- [3942240.00s] screen?
+- [3945200.00s] >> Sorry, my bad. Where was it?
+- [3950319.00s] Where is the page title and metad
+- [3951760.00s] description?
+- [3953119.00s] >> Um, that's the page title and then the
+- [3955280.00s] metad descriptions are down at the
+- [3956799.00s] bottom.
+- [3958000.00s] >> Uh, it takes the page summary as the
+- [3960160.00s] metad description
+- [3960960.00s] >> and you also have open graph stuff here.
+- [3964799.00s] >> Um, what do you mean by open graph stuff
+- [3967760.00s] here? Oh,
+- [3968240.00s] >> you have like the og image
+- [3972880.00s] >> or maybe maybe
+- [3974240.00s] >> from the main image.
+- [3975440.00s] >> Yeah. Okay.
+- [3976640.00s] >> Yeah. Um, but yeah, now that's the front
+- [3979200.00s] end component. Uh, and it even
+- [3984319.00s] um embedded the the YouTube video that
+- [3987359.00s] we talked about.
+- [3988640.00s] >> Yeah.
+- [3989599.00s] >> Awesome.
+- [3990240.00s] >> Um, so I think
+- [3991920.00s] >> Wow.
+- [3992799.00s] >> Sorry. Go on.
+- [3994720.00s] >> No, no, no.
+- [3996079.00s] >> Do you think you just you just wrote
+- [3997599.00s] that?
+- [3998799.00s] >> Yeah, we just wrote that then while we
+- [4000799.00s] were talking. So
+- [4002000.00s] >> I think that's the
+- [4004400.00s] >> the thing about this claude code and
+- [4010160.00s] this
+- [4012240.00s] it's like a autonomous operating
+- [4014319.00s] software. it it can be a tool but I
+- [4017440.00s] think if you just think it of it a tool
+- [4019520.00s] it's more like you say hey do this now
+- [4023200.00s] whereas if you start thinking about it
+- [4025680.00s] as an autonomous
+- [4028240.00s] software you can kind of train it to hey
+- [4032799.00s] like you do one run of something for
+- [4035359.00s] example you write one blog where you
+- [4037200.00s] give it the tone of voice and you do
+- [4038319.00s] that manually and then you go cool turn
+- [4040160.00s] this into a skill or turn this into an
+- [4041760.00s] agent and do this every now and then And
+- [4044720.00s] then the the the goal here is to start
+- [4048880.00s] using this as an autonomous software
+- [4051200.00s] that gives you back your Fridays.
+- [4053200.00s] Otherwise, I don't think you're doing
+- [4054559.00s] this correctly
+- [4056400.00s] cuz we get into this thing of like and
+- [4058559.00s] I'm at fault for it as well. I can use
+- [4061599.00s] this tool that allows me to do a million
+- [4063599.00s] things
+- [4065760.00s] and then I end up working Saturday and
+- [4067839.00s] Sunday as well because I think, oh, I
+- [4069119.00s] need to be I need to do more. And I
+- [4071359.00s] think that's where I'm I've been I've
+- [4073440.00s] had to kind of reflect going cool I'm
+- [4075039.00s] doing probably you know not 10 times but
+- [4078240.00s] let's say realistically maybe three to
+- [4080160.00s] five times more than before using claude
+- [4082640.00s] code and I don't think I'm being too
+- [4084880.00s] like over the top with that. So then
+- [4087520.00s] before the for a long while I was also
+- [4089440.00s] working Saturdays because I just get
+- [4090799.00s] excited but then I was like that's hang
+- [4092079.00s] on that's not the point of this. I'm
+- [4094400.00s] supposed to be automating this or maybe
+- [4096719.00s] I can take Fridays off now you know. So,
+- [4099520.00s] I think that's that's a key goal. Maybe
+- [4102159.00s] that's just me and and I like to relax a
+- [4104319.00s] little bit more if I can. But, you know,
+- [4106960.00s] if you also have that that drive and you
+- [4108560.00s] want to work all the time, then go for
+- [4109520.00s] it. But, I think if if it's not giving
+- [4111040.00s] you time back, then you're missing out
+- [4112719.00s] on part of the reason why these tools
+- [4114480.00s] exist.
+- [4115600.00s] >> You got your Fridays back.
+- [4117520.00s] >> Yeah.
+- [4118480.00s] >> Yeah.
+- [4119600.00s] >> Yeah.
+- [4120560.00s] >> This has been
+- [4121600.00s] >> this has been so much fun. Thank you for
+- [4123120.00s] showing all of this.
+- [4124319.00s] >> Has been a lot of fun. Hopefully, that
+- [4125679.00s] was uh that was informative. Um, and
+- [4129920.00s] yeah, if anyone has any questions, you
+- [4131440.00s] can leave it in the YouTube video. I'll
+- [4133199.00s] make sure to browse the YouTube video
+- [4134960.00s] and and answer as much as I can. Uh,
+- [4137279.00s] mate, thanks so much for taking the time
+- [4138960.00s] to reach out to me. And I I love the
+- [4141440.00s] session.
+- [4141839.00s] >> Where should everybody where where does
+- [4143199.00s] everybody need to go and find you?
+- [4145120.00s] >> Um, you guys can go if you want to learn
+- [4149440.00s] how to do this stuff, you want a little
+- [4150640.00s] bit more support and a cool community of
+- [4153279.00s] like just sharing stuff. If you get an
+- [4155120.00s] onboarding session with myself, a lot of
+- [4156719.00s] live Q&As, you can go to um the AR
+- [4160239.00s] ranking school. We'll leave a link
+- [4162000.00s] below. Um if you want to dip your toes
+- [4165120.00s] in, we have a lot of free um content.
+- [4168480.00s] Check out the YouTube channel at nikoir
+- [4171199.00s] ranking. Um you can check out our
+- [4173040.00s] website as well, but we also have um a
+- [4177199.00s] free AI search starter kit
+- [4180239.00s] if you guys want it. I I'll leave it in
+- [4181679.00s] the link below. I'll give it to you to
+- [4183279.00s] give just to get you started. Um, but by
+- [4185839.00s] all means, there's enough content online
+- [4188400.00s] that you can probably do all this
+- [4190239.00s] yourselves as well, but we'll leave the
+- [4191759.00s] links below.
+- [4192560.00s] >> Yeah, everything will be in the
+- [4193520.00s] description. Nico, thank you again. This
+- [4195920.00s] was seriously, thank you so much for
+- [4197840.00s] showing all of that. This was so
+- [4200000.00s] awesome. This was really great. Uh, this
+- [4202800.00s] episode 990 of the Edward Show. 990 days
+- [4208560.00s] in a row.
+- [4209840.00s] >> Congratulations.
+- [4211360.00s] Thank you so much. 10 days until episode
+- [4214159.00s] 1,00 990 days in a row doing this
+- [4217040.00s] podcast. If you watch this on YouTube,
+- [4219040.00s] thank you so much for watching. You
+- [4220320.00s] probably didn't listen on Spotify or
+- [4221840.00s] Apple Podcast, but if you did, thank you
+- [4223360.00s] so much for listening and I will talk to
+- [4226000.00s] you again tomorrow. Bye now.

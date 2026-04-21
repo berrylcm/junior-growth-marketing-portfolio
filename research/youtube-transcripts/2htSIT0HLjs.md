@@ -1,0 +1,1946 @@
+# YouTube Transcript
+
+- Source URL: https://www.youtube.com/watch?v=2htSIT0HLjs
+- Language: en
+
+## Transcript
+
+- [80.00s] Lily Ray, you are one of the most
+- [1839.00s] well-known figures in search engine
+- [3840.00s] optimization. So, thank you for coming
+- [5839.00s] on the podcast.
+- [7839.00s] >> Thanks for having me.
+- [9519.00s] >> I want to start with a question that a
+- [11280.00s] lot of people have been thinking about
+- [13360.00s] and talking about is uh is Google core
+- [16400.00s] updates and if you have seen any
+- [19359.00s] patterns across the last couple of
+- [21520.00s] updates.
+- [24000.00s] Yeah, I mean, um, there's often like
+- [27519.00s] similar patterns with each core update,
+- [29760.00s] I would say. Um, I've been pretty
+- [32399.00s] focused on core updates probably almost
+- [34160.00s] like 10 years now. Um, so I've analyzed
+- [36880.00s] almost all of them. You know, I think
+- [38480.00s] there's certain ones where Google's
+- [40000.00s] trying to do something kind of specific.
+- [41840.00s] Like I would say during COVID, I think
+- [44160.00s] there was a lot of interesting movement
+- [45680.00s] with like prioritizing more really high
+- [48239.00s] authority sites like government sites,
+- [49920.00s] things like that. But generally
+- [51680.00s] speaking, I would say Google's trying
+- [53199.00s] to, you know, improve the relevancy of
+- [55520.00s] the results, the quality of the results,
+- [57760.00s] and reducing spam and overly optimized
+- [61120.00s] sites, like sites that are basically
+- [62800.00s] doing too much SEO. I would say that's
+- [65040.00s] been the trend for a really long time.
+- [67040.00s] >> You talk about what too much SEO means.
+- [69119.00s] I think that's something that a lot of
+- [70479.00s] people don't really understand.
+- [72640.00s] >> Yeah. Right. It's kind of a it's a weird
+- [74880.00s] counterintuitive thing when you work in
+- [76320.00s] the SEO industry, right? But I think
+- [78080.00s] that's why I talk about it so much
+- [79520.00s] because I think understanding how to do
+- [81520.00s] SEO properly and like for the long term
+- [84400.00s] is a lot about knowing what not to do as
+- [86400.00s] much as what you should be doing. Um,
+- [88400.00s] you know, Google has all kinds of
+- [89600.00s] policies around basically doing things
+- [92079.00s] that are for search and not for humans.
+- [94479.00s] Um, so I think a lot of the times the
+- [97040.00s] SEO industry will identify and now I
+- [98880.00s] guess GEO industry will identify some
+- [101040.00s] type of tactic that works really really
+- [102960.00s] well and it definitely tricks Google's
+- [105680.00s] algorithms, right? And then it becomes
+- [107920.00s] really popularized and a lot of people
+- [109280.00s] talk about it, a lot of people do it, a
+- [110640.00s] lot of people share it at conferences or
+- [112079.00s] on YouTube or whatever it is. And then
+- [113840.00s] you get thousands and millions of people
+- [115360.00s] doing the same thing. And so it's very
+- [116640.00s] easy for them to kind of reverse
+- [118000.00s] engineer that and say we don't really
+- [120000.00s] want this type of like overly optimized
+- [122079.00s] SEO content in the search results, which
+- [124000.00s] I think we saw with like the helpful
+- [125200.00s] content update. So you know, some
+- [126960.00s] examples that come to mind are it's
+- [128640.00s] almost always scaling content in some
+- [130319.00s] way. you know, you find some type of
+- [132239.00s] trick that works and then you create
+- [134080.00s] tens of thousands of pages or whatever
+- [136160.00s] that do the same thing. It's almost
+- [138000.00s] always that something like that. Yeah.
+- [140560.00s] >> Actually, I have a question about
+- [141680.00s] programmatic SEO and I I want to know is
+- [145440.00s] uh when is programmatic SEO not spam or
+- [149599.00s] is it always just like uh you know it's
+- [152400.00s] it's kind of risky?
+- [154800.00s] It's always very risky, I would say. You
+- [156879.00s] know, and I think people love to debate
+- [158640.00s] about this because it's true that like
+- [160480.00s] there's ways to do it thoughtfully. Um,
+- [163200.00s] and there there's ways to do it where
+- [164800.00s] you're really bringing in a lot of
+- [166160.00s] original data and insights and
+- [169120.00s] information that Google didn't have
+- [170560.00s] before, but I really do think that they
+- [173440.00s] see it as like when you're trying to do
+- [175519.00s] something that's manipulative for SEO
+- [177040.00s] purposes and you're creating a lot of
+- [178879.00s] content that like isn't really adding a
+- [180879.00s] lot of original value. So, for example,
+- [183760.00s] there's a lot of sites that create like
+- [186879.00s] uh area codes, like different area codes
+- [189040.00s] around the United States, right? And
+- [190319.00s] then they're like trying to bring in all
+- [191840.00s] this different content dynamically and
+- [193360.00s] really just show a lot of ads, but like
+- [195280.00s] in reality, Google doesn't need 50,000
+- [197599.00s] pages about area codes, especially now
+- [200239.00s] with AI overviews, right? So, it's like
+- [202000.00s] I think it's getting harder and harder
+- [203519.00s] to identify what those opportunities
+- [204720.00s] are, but I think there's plenty of
+- [205760.00s] examples of companies that have done it
+- [207519.00s] thoughtfully with original data and
+- [209760.00s] original information that usually can be
+- [212319.00s] okay. But more often than not, honestly,
+- [214239.00s] like over time, I see Google demoting a
+- [217680.00s] lot of these sites, even really big
+- [218879.00s] brands.
+- [219760.00s] >> Yeah. Yeah. The key words there that
+- [222400.00s] like a lot of people don't understand,
+- [224640.00s] and it's across all industries, but it's
+- [226400.00s] thoughtful. like it's it's if you
+- [228480.00s] actually try to make thoughtful content,
+- [231599.00s] you're going so much further than what a
+- [233519.00s] lot of other people are doing and you're
+- [235280.00s] less likely to make something that's
+- [237599.00s] that would be deemed spammy. Also,
+- [241040.00s] unique content when it comes to
+- [242640.00s] programmatic SEO. That's like that's
+- [245120.00s] another thing that I see all the time is
+- [246799.00s] that a lot of people are just doing
+- [248879.00s] programmatic SEO showing things that are
+- [251040.00s] already out there
+- [252480.00s] >> and it's it's like you said like Google
+- [255120.00s] doesn't need more of it. like it's it's
+- [256560.00s] already out there. Um
+- [258239.00s] >> yeah,
+- [258799.00s] >> I want to talk about I want to I also I
+- [261040.00s] want to go into into Gio because he
+- [262720.00s] posts a lot about uh about like agencies
+- [265520.00s] trying to get their brands cited more in
+- [267759.00s] large language models and then
+- [269120.00s] accidentally getting the sites nuked in
+- [271120.00s] Google and in LLMs. And so I think uh I
+- [275520.00s] mean it's a it's a fun question for me
+- [277280.00s] to ask but definitely not for people to
+- [279600.00s] hear. Well, maybe for some people to
+- [281840.00s] hear. What are some SEO disasters that
+- [284560.00s] you are seeing by people trying to do
+- [287520.00s] generative engine optimization, trying
+- [289360.00s] to get cited more in LMS?
+- [292479.00s] >> Yeah, and I think I think we're still
+- [294000.00s] really in the early days of this. Um, so
+- [296720.00s] I think even like there's a lot of
+- [298880.00s] people trying a lot of things where I
+- [300960.00s] feel like they're it's working and it's
+- [302960.00s] not necessarily the case that like
+- [304800.00s] Google or Bang or anybody's cracked down
+- [306880.00s] on it yet. So, I do think we're in a bit
+- [308560.00s] of like uh the early days of like spammy
+- [311919.00s] kind of manipulative tactics actually
+- [313440.00s] working pretty well. We've seen this
+- [314720.00s] before, right? We've been in all kinds
+- [316000.00s] of eras of SEO where people find some
+- [319199.00s] type of loophole and it works extremely
+- [320960.00s] well. Like, think about the years before
+- [322880.00s] the Penguin update or the years before
+- [324320.00s] the helpful content update. There were
+- [325600.00s] all kinds of things that worked really,
+- [326720.00s] really well until they didn't, right?
+- [328320.00s] So, I think we're in that kind of phase
+- [330000.00s] right now. And I do think we're in the
+- [331600.00s] early days of Google almost like
+- [334880.00s] collecting enough data of what people
+- [337600.00s] are doing because you know they need to
+- [339280.00s] they need to get it right right when
+- [340639.00s] they launch some type of counter measure
+- [343039.00s] um which is something that we see with
+- [344240.00s] like the March 24 core update when they
+- [346400.00s] reduced what they say unhelp they call
+- [348479.00s] it unhelpful content by 45%. You know
+- [351759.00s] that was massive but it took them a long
+- [353520.00s] time to create that. So anyway, some of
+- [355600.00s] the things I think people are doing. Um,
+- [357840.00s] I think right now there's a lot of
+- [359039.00s] people entering the space without SEO
+- [360639.00s] experience. You know, there's a lot of
+- [362479.00s] people that are really excited about AI
+- [363919.00s] and GEO and everything that are looking
+- [366160.00s] for an opportunity to get in there and
+- [368160.00s] they just don't really understand the
+- [369759.00s] cyclical nature of SEO. And so I think
+- [372560.00s] mostly it's, you know, using AI to
+- [375919.00s] generate lots of content. I would say
+- [377520.00s] that's again like the main way that
+- [379600.00s] people are putting themselves into kind
+- [381120.00s] of risky situations. Um, but there's a
+- [384000.00s] lot of like kind of manipulative stuff.
+- [386319.00s] I mean, I know you you talked about like
+- [388000.00s] my listical article, you know, putting a
+- [391039.00s] 300 articles on your website that call
+- [393039.00s] you the best company in all the
+- [394880.00s] different categories that you care
+- [396000.00s] about. Yes, it works for AI search for a
+- [398960.00s] while. Um, it works on Google for a
+- [402080.00s] while, but they're clearly identifying
+- [404800.00s] it and starting to kind of like nullify
+- [406800.00s] it. So, I think again like we're in this
+- [409759.00s] these early days um where a lot of
+- [411680.00s] things work for GEO, but I really
+- [413280.00s] wouldn't be surprised if I've been
+- [414639.00s] calling it like Google dropping like an
+- [416000.00s] atomic bomb on
+- [418160.00s] >> all these search results in the next few
+- [419840.00s] months. We'll see.
+- [420960.00s] >> You know, actually, I heard a crazy
+- [422800.00s] rumor uh that self-promotionalistic. So,
+- [426400.00s] you wrote this mega awesome article on
+- [429280.00s] self-promotional listicals and how they
+- [431039.00s] are how people are were using them for
+- [433919.00s] geo. Like it was Glenn Alop of Hrefs of
+- [436800.00s] previously detailed than Hrefs. He put
+- [438639.00s] out this article like look at all these
+- [440880.00s] companies that are using
+- [442080.00s] self-promotional listicles to game LLMs.
+- [444880.00s] And then you put out it was several
+- [446720.00s] weeks later you put out this article.
+- [448160.00s] Well, doesn't really look like it's
+- [450000.00s] working that well anymore and it
+- [451440.00s] actually could be hurting. And uh I
+- [454560.00s] actually just heard a rumor that
+- [458319.00s] self-promotional listicals are now
+- [460240.00s] actually hurting brands visibility in
+- [463440.00s] LLMs. So, if you you write for people
+- [466080.00s] who don't know what self-promotional
+- [467280.00s] listical, you're you're writing like a
+- [468960.00s] best x fory article, the best standing
+- [471120.00s] desks for offices, and you put yourself
+- [472960.00s] number one, and and I've heard rumors
+- [475599.00s] that like an LLM will be like, "Oh,
+- [478479.00s] yeah, this is a reputable BL brand, but
+- [480479.00s] I didn't include them in my
+- [482319.00s] recommendations because they had this
+- [485360.00s] suspicious article where they put
+- [487199.00s] themselves number one." And you know,
+- [489120.00s] you can't really it LLMs don't know why
+- [492879.00s] they are recommending things, but it it
+- [497199.00s] was interesting to hear that and I I was
+- [499199.00s] wondering if you've heard anything like
+- [500479.00s] that or if you think something like that
+- [502080.00s] could even happen.
+- [504080.00s] >> 100% I think it can happen. You know, I
+- [506560.00s] think um again like we're we're OpenAI
+- [509599.00s] is a very young company and Anthropic
+- [511759.00s] and all these companies, right? And I
+- [513039.00s] think it took Google a really long time
+- [514560.00s] to create a web spam team. Number one,
+- [516640.00s] they didn't have one for a long time.
+- [518159.00s] You know, they didn't have the Panda
+- [520399.00s] update or anything for a long time or
+- [522240.00s] like Matt Cuts and and you know, just
+- [524480.00s] basically the web fam team. Um I think
+- [526880.00s] we're in early days of them even seeing
+- [528640.00s] that this is a big problem, but it's
+- [530399.00s] clearly becoming a problem. I mean, like
+- [532080.00s] everyone in their mother is talking
+- [533200.00s] about it. Um but I yes, to answer your
+- [535839.00s] question, yes, I've literally seen
+- [537279.00s] Claude in the last few weeks give me the
+- [539040.00s] exact same response. you know, when I
+- [540800.00s] asked about the best SEO agencies or
+- [542959.00s] whatever, it was like, here's some SEO
+- [544880.00s] agencies, but I do want to let you know
+- [546320.00s] this is a very spammed category. A lot
+- [548240.00s] of people are putting their own sites
+- [549440.00s] first. So, I tried to use reputable
+- [551519.00s] third party websites. I think we're
+- [553200.00s] going to see more and more of that. Um,
+- [555040.00s] I also think like I guess with chat BPT
+- [557839.00s] 5.4, like the new one, a lot of people
+- [559680.00s] are talking about how the fan out
+- [560959.00s] queries are using like site searches.
+- [563279.00s] Um, so they're basically honing down the
+- [565760.00s] fan out queries to specific domains. To
+- [568480.00s] me, that seems like a okay, let's stop
+- [570720.00s] allowing so many random sites to appear
+- [572880.00s] in citations and limit it to sites that
+- [575440.00s] we already trust.
+- [576800.00s] >> Why do you think uh why do you think
+- [578399.00s] it's it's doing the site sitew searching
+- [582399.00s] for a specific site? Do you think it's
+- [584080.00s] like seeing it's doing uh a search and
+- [588080.00s] then it's seeing a list of companies and
+- [590080.00s] then it's doing site to get more info
+- [592720.00s] directly from the companies that it
+- [594160.00s] found on its initial search? or is it
+- [596959.00s] something else?
+- [598640.00s] >> Yeah, I mean to be honest I haven't dug
+- [600000.00s] into too much yet into what those actual
+- [601600.00s] site searches look like. So it's still
+- [603040.00s] very early. I think it's like a couple
+- [604240.00s] days old that they've been doing that.
+- [605760.00s] Um but my theory is okay. So like if you
+- [610480.00s] want to look at reputable reviews about
+- [613120.00s] a business, you know, you can start by
+- [615279.00s] saying let's only look at Trust Pilot.
+- [616959.00s] Let's only look at G2. I mean, obviously
+- [618560.00s] there's debates around whether or not
+- [619760.00s] those are trustworthy sites anyway, but
+- [621279.00s] assuming that we call those trustworthy
+- [622640.00s] sites, you can just say this is a
+- [624399.00s] predefined list of of domains that tend
+- [626959.00s] to have the authoritative answer that
+- [628480.00s] I'm looking for and I'm filtering out
+- [629839.00s] all the other people that might be doing
+- [631200.00s] some type of manipulative thing. You
+- [632880.00s] know, if you're looking at travel
+- [634000.00s] recommendations, maybe you only look at
+- [635839.00s] Trip Advisor and Expedia booking and
+- [638160.00s] Yelp or whatever, right? So, I think
+- [639920.00s] they might just kind of be developing
+- [641440.00s] this like almost like whitelisted, you
+- [643600.00s] know, batch of domains for different
+- [645360.00s] questions. That's my theory. I mean,
+- [646959.00s] we'll see. Oh, that's scary.
+- [648399.00s] >> I wouldn't put it past them. Yeah,
+- [649600.00s] >> that's crazy. I I when I saw that cuz
+- [652480.00s] cuz uh cuz I looked at that screenshot,
+- [654240.00s] I think Chris Long shared it and it was
+- [656560.00s] it started it looked like it started
+- [658160.00s] with a normal search. I think it was
+- [659680.00s] like two normal searches and then it
+- [661200.00s] started doing the site colon ones. And
+- [663360.00s] so I I I was just like, "Oh, maybe it's
+- [665760.00s] maybe it's gathering sites from its
+- [667680.00s] first two searches and then it's and
+- [670160.00s] then it's going." I mean, it's possible
+- [672480.00s] though. I've I have heard other people
+- [674079.00s] say what you just said and that would be
+- [677279.00s] very very insane especially because
+- [679839.00s] there's so many sites out there and it's
+- [681279.00s] like how do you just cherrypick a
+- [682640.00s] handful to for to give in in different
+- [685680.00s] topics? I don't even like how do you
+- [687920.00s] even approach that? That's such a
+- [689519.00s] mammoth thing to do and the best sites
+- [692079.00s] are always changing.
+- [693760.00s] >> Yeah. I mean, I think it's naive of our
+- [696320.00s] industry to assume that OpenAI and these
+- [698880.00s] other companies will always just be
+- [700560.00s] like, all these sites are treated the
+- [702720.00s] same, right? I mean, like that's how
+- [704399.00s] Google got into trouble really early on,
+- [706160.00s] right? There's so much spam. There's so
+- [708240.00s] much manipulation. And I think that
+- [709920.00s] they're figuring it out, right, with
+- [711519.00s] each model update how to potentially
+- [713120.00s] like refine the results more and more.
+- [715680.00s] So, I think this might be their first
+- [717120.00s] attempt at doing that.
+- [718800.00s] >> Yeah, I 100% agree. It's like um it's I
+- [722800.00s] mean, you know, it's like they're
+- [724560.00s] they're a couple years in and it's like
+- [726639.00s] they're just learning how to deal with
+- [728160.00s] with spam and they have so many lessons
+- [731360.00s] from Google to to take and uh
+- [734320.00s] >> Yeah.
+- [734800.00s] >> Yeah. They're going to they're going to
+- [735760.00s] improve a lot.
+- [737839.00s] If um in terms of like getting results,
+- [741600.00s] if there is one thing that somebody does
+- [745040.00s] after listening to this podcast to get
+- [747200.00s] their brand recommended in large
+- [749200.00s] language models, what would you actually
+- [752000.00s] suggest?
+- [754639.00s] >> Yeah. The thing about it is like there
+- [756800.00s] isn't in my opinion a sustainable
+- [760240.00s] shortcut, right? Like there isn't like
+- [762240.00s] one quick trick, right? Um, I've, as you
+- [766320.00s] probably know and people listening
+- [767600.00s] probably know, I've uh, associated
+- [769920.00s] myself very strongly over the years with
+- [771440.00s] this concept of EAT. Um, and for me
+- [774560.00s] that's a very there's a lot that goes
+- [776000.00s] into that, but the fundamental nature of
+- [778480.00s] it is you want to become a human being,
+- [782639.00s] right, that is known in your industry
+- [785760.00s] and whether it's, you know, a handful of
+- [787760.00s] humans who are associated with a brand,
+- [789360.00s] right? like different people that are
+- [790560.00s] contributors and influencers and experts
+- [792320.00s] that are associated with the brand. The
+- [794000.00s] more that you can have those real people
+- [795600.00s] building out a presence and they're well
+- [797920.00s] known in the space and they're putting
+- [800000.00s] out original ideas and original content
+- [801680.00s] and building a social profile and
+- [803360.00s] building engagement and putting out
+- [805600.00s] authentic content across YouTube and
+- [808240.00s] Reddit and all the different LinkedIn,
+- [809519.00s] all the different places that search
+- [811040.00s] engines and large language models are
+- [812480.00s] citing. Um, I think that's the most
+- [814880.00s] sustainable way to have a presence. You
+- [817760.00s] know, I think that they both Google and
+- [820560.00s] Microsoft and everybody, they've been
+- [821839.00s] looking for a very long time at like
+- [824639.00s] real human content. And I think now with
+- [826639.00s] AI content, of course, yes, there's many
+- [828480.00s] examples of AI content that's really
+- [830000.00s] great, but they seem to be prioritizing
+- [833519.00s] over time, real humans having real
+- [835920.00s] conversations and real experts
+- [837279.00s] contributing content. Um, which is why I
+- [839360.00s] think we see, you know, so much social
+- [841360.00s] media and user generated content and
+- [842880.00s] everything over time because at the end
+- [844079.00s] of the day, users like engaging with
+- [845440.00s] that content. So I think the best thing
+- [847279.00s] you can do is establish yourself as an
+- [849519.00s] expert in the space. Put out your
+- [851440.00s] original ideas. You know, don't use AI
+- [853600.00s] to come up with all your ideas for you.
+- [855519.00s] You should be able to demonstrate that
+- [856959.00s] you have your own original insights. You
+- [858800.00s] can use AI to help write the content and
+- [860959.00s] everything, but the more you're just
+- [862639.00s] leaning on tools to do the thinking for
+- [864639.00s] you, I think the more that that's going
+- [866639.00s] to not work over time. So invest in I
+- [871120.00s] guess EAT, as I've always said.
+- [873120.00s] >> Invest in Okay. So, this method of
+- [875360.00s] marketing is so effective, I had to make
+- [877199.00s] sure it wasn't against Google's rules
+- [878959.00s] before I kept doing it. It's a form of
+- [880959.00s] SEO I call compact keywords. Whereas
+- [883839.00s] most SEO focuses on putting up articles
+- [886240.00s] to answer questions, how, what, when,
+- [888639.00s] compact keywords focuses on putting up
+- [890639.00s] dozens of pages that sell to searchers
+- [893040.00s] who are actually looking to buy. These
+- [895760.00s] pages rank on Google and convert so much
+- [898320.00s] better than normal that when I
+- [899839.00s] discovered this years ago, I couldn't
+- [901760.00s] believe this was allowed. It's less
+- [903839.00s] work, too. The average compact keywords
+- [906160.00s] page is only 415 words. Compact Keywords
+- [910079.00s] is a 13-hour deep course on getting
+- [912639.00s] sales with SEO. A customer recently
+- [915199.00s] said, "Each lesson is dense with
+- [917600.00s] information. You're giving years worth
+- [919760.00s] of experience boiled down into 15 to 30
+- [922639.00s] minute lessons with no filler or fluff.
+- [925199.00s] I feel like I'm gaining a new
+- [926800.00s] superpower. Compact Keywords is about
+- [929120.00s] setting up an SEO funnel that brings you
+- [931120.00s] sales for years and years and years. It
+- [934240.00s] works with AI. It's less work than
+- [936399.00s] traditional SEO and it makes way more
+- [939519.00s] money. You can get it now at compact
+- [941920.00s] keywords.com. Back to the podcast. This
+- [944639.00s] is this is an interesting question. I'm
+- [946320.00s] sure you've thought about this one a
+- [947600.00s] lot. How does how do you think Google
+- [951920.00s] judges EAT? Do you think it's a lot of
+- [954800.00s] external signals or are they looking for
+- [957360.00s] direct things or is it like a huge mix?
+- [961519.00s] >> Yeah, it's a really complicated
+- [962959.00s] question, right? It's a really I think
+- [964399.00s] it's a really big mix of things. You
+- [966079.00s] know, number one, they have the
+- [967279.00s] knowledge graph, right? They have actual
+- [969519.00s] an actual database of billions or
+- [972560.00s] hundreds of millions of different
+- [973759.00s] entities. you know, when you search for
+- [975839.00s] somebody's name, if they're recognized
+- [977519.00s] in Google's knowledge graph, they're
+- [978720.00s] going to be able to tell you about that
+- [979920.00s] person and talk about them in AI
+- [981440.00s] overviews and link to their social
+- [982639.00s] profiles and link to the articles
+- [983839.00s] they've written. You know, Google's done
+- [985440.00s] all types of like SER features over the
+- [987120.00s] years that highlight individual experts.
+- [989360.00s] Um, they've had like um author and
+- [992000.00s] article carousels directly in the SERs
+- [994160.00s] that show different authors in different
+- [995680.00s] spaces. You know, now in Google
+- [997199.00s] Discover, they have profile pages that
+- [999040.00s] highlight different contributors and
+- [1000560.00s] everything like that. Um they used at
+- [1002480.00s] one point they tested showing your
+- [1004000.00s] follower counts directly in the search
+- [1005519.00s] results. Like they've been testing so
+- [1007040.00s] many different things over the year
+- [1008240.00s] years but there's just it was clear that
+- [1010399.00s] they have a way of associating
+- [1012480.00s] individual experts with brands and with
+- [1014800.00s] topics. So I feel like you know they
+- [1018160.00s] don't necessarily want to tell us how
+- [1019839.00s] they're doing it. You know I think
+- [1020880.00s] that's why so many people debate about
+- [1022320.00s] it but like EAT is mentioned like a 100
+- [1025600.00s] plus times in Google search quality
+- [1027199.00s] guidelines. It's very indirect. It's not
+- [1029439.00s] going to be some ranking factor that you
+- [1031199.00s] can easily manipulate. It's going to be
+- [1033039.00s] like vibes, right? It's like something
+- [1035520.00s] that they can kind of tell about your
+- [1037760.00s] your, you know, individual contributor
+- [1040079.00s] and also like the brand and the people
+- [1041760.00s] that work at the brand. It's just clear
+- [1043839.00s] to me that they've been able to like
+- [1045520.00s] kind of identify that and highlight and
+- [1047919.00s] elevate that type of content over time.
+- [1050160.00s] >> When you when you do site audits, what
+- [1052240.00s] are some common EAT mistakes that you
+- [1055919.00s] see over and over again?
+- [1058320.00s] I think a lot of people try to fake it,
+- [1059840.00s] right? You know, I think a lot of people
+- [1061039.00s] look for shortcuts. Um, you know, I've
+- [1063280.00s] seen over the years like midjourney
+- [1066000.00s] generated, you know, author images,
+- [1068799.00s] right? Um, and like yes, that can work
+- [1071600.00s] for a while, but like the whole idea is
+- [1074160.00s] to like it's not just about like having
+- [1076480.00s] an author name or whatever. It's about
+- [1078000.00s] having all the different signals across
+- [1079600.00s] the ecosystem that indicate that you're
+- [1081200.00s] a real person. You know, I think look at
+- [1083440.00s] the SEO industry for example. If you
+- [1085200.00s] look at like any of the main prolific
+- [1088080.00s] SEO contributors, right, you look on
+- [1090960.00s] Google, they have all kinds of
+- [1092559.00s] information about conferences they've
+- [1094160.00s] spoken at and articles they've written
+- [1095840.00s] and videos that they've done, interviews
+- [1097520.00s] that they've done. Like you can kind of
+- [1099120.00s] extrapolate that for different
+- [1100240.00s] industries. And yes, I do believe
+- [1102320.00s] there's many many categories where it
+- [1104000.00s] doesn't matter as much. Google's very
+- [1106000.00s] clear about that, right? Like you can be
+- [1107919.00s] a puppy photographer and maybe EAT is
+- [1111280.00s] not that important, right? But like when
+- [1113120.00s] we're talking about finance and health
+- [1115280.00s] and politics and news and safety and
+- [1117760.00s] things like this, yeah, they really want
+- [1119600.00s] to get it right. You know, they really
+- [1120799.00s] want to make sure that they're
+- [1121520.00s] highlighting authoritative content.
+- [1123360.00s] >> I think even for puppy photographers,
+- [1125280.00s] you still want to have social profiles
+- [1127120.00s] out. It's still it's still good if you
+- [1129919.00s] have a page on your site that explains
+- [1131919.00s] why you're why you're a puppy
+- [1133840.00s] photographer, why who you are,
+- [1136000.00s] >> like and and that's a thing that it's
+- [1139200.00s] crazy to me that a lot of people don't
+- [1140559.00s] do that. I um actually when when I had
+- [1143360.00s] Rand Fishiskin on the show last year,
+- [1145840.00s] something that I said to him because he
+- [1147840.00s] was like the first person that I started
+- [1149600.00s] paying attention to when I was learning
+- [1150960.00s] SEO and I I said, "I really loved your
+- [1154559.00s] focus on doing like broad marketing,
+- [1157679.00s] general marketing, and how that actually
+- [1159520.00s] benefits SEO." And I also think it's the
+- [1162400.00s] same with increasing large language
+- [1164559.00s] models because if you're focusing on
+- [1165919.00s] broad broad marketing, you're getting
+- [1168480.00s] mentions in a lot of different places.
+- [1170240.00s] you're getting a lot of reviews. If
+- [1172160.00s] you're getting a bad review, you're
+- [1173440.00s] trying to maybe work with that person
+- [1175760.00s] and and then like have them not hate you
+- [1178240.00s] and and then get more better reviews and
+- [1179919.00s] all sorts of things like that. And I I
+- [1182559.00s] think what happens what you see in in
+- [1184080.00s] the SEO community is a lot is people
+- [1185840.00s] will focus on one specific external
+- [1188640.00s] thing for example like link building
+- [1190799.00s] instead of actually thinking how do I do
+- [1193120.00s] just some awesome marketing for my
+- [1194880.00s] brand.
+- [1196080.00s] >> Yeah, 100%. You know, I mean, I think
+- [1197840.00s] listen, like it's it's hard. I would say
+- [1200240.00s] it's harder to um do it what I would
+- [1203520.00s] consider to be like the right way long
+- [1205280.00s] term, which is instead of focusing on
+- [1207760.00s] buying links all day, focus on putting
+- [1210240.00s] out one incredible piece of content or
+- [1212160.00s] one incredible asset or one incredible
+- [1214000.00s] LinkedIn post that gets a ton of
+- [1215520.00s] engagement or an article that you've
+- [1217200.00s] written that gets a ton of engagement
+- [1218320.00s] because it's actually useful. It's
+- [1219679.00s] actually helpful. It's actually
+- [1220880.00s] controversial, whatever it is. And
+- [1223039.00s] you're going to get a ton of links
+- [1224400.00s] without doing anything, without doing
+- [1225760.00s] well, you did something. you you
+- [1227120.00s] produced good content, right? But you
+- [1228720.00s] don't have to like artificially
+- [1230559.00s] manufacture interest and popularity. You
+- [1234000.00s] can just get it by doing the hard work
+- [1235919.00s] and doing good work. And I actually
+- [1237200.00s] think right now with AI, it's easier
+- [1239760.00s] than ever to put out really interesting
+- [1242159.00s] stuff. I mean, like I'm still working on
+- [1244240.00s] it, but it's private. But like
+- [1245760.00s] yesterday, I had Claude do this
+- [1247360.00s] incredible analysis about something
+- [1249200.00s] happening in the SEO space, and I like
+- [1250720.00s] vibecoded a whole visualization of it.
+- [1252640.00s] And I'm like, if I publish this, it
+- [1253760.00s] would get so many links. You know what I
+- [1255200.00s] mean? But it's like now it's like an
+- [1256240.00s] equal playing field where you just have
+- [1257600.00s] to have the ideas. Um and the research
+- [1260080.00s] and putting together the content is
+- [1261600.00s] easier than ever.
+- [1262880.00s] >> I'm looking forward to making an episode
+- [1264480.00s] on that.
+- [1266480.00s] >> Um
+- [1266960.00s] >> we'll see. Have to be careful about
+- [1268640.00s] publishing that one.
+- [1269760.00s] >> Oh. Oh, that sounds spicy. Um so your
+- [1273600.00s] favorite your favorite techniques for
+- [1275760.00s] getting links would you is it linkable
+- [1277679.00s] assets? Do you have other things that
+- [1279679.00s] you like doing? Expert quotes?
+- [1282880.00s] Yeah, it's very um you know it's case by
+- [1285200.00s] case depending on the client. Um I will
+- [1287360.00s] say you know over the years so my
+- [1288960.00s] history in the space is I got hit really
+- [1290960.00s] hard by Penguin when I was first
+- [1292640.00s] starting in SEO. I literally had no idea
+- [1295039.00s] that buying links on Blackout World was
+- [1296720.00s] against Google's guidelines. I just had
+- [1298080.00s] no idea. There was no one to like teach
+- [1299840.00s] me that. I hadn't I hadn't reached my
+- [1302720.00s] you know that point in my SEO journey
+- [1304240.00s] yet where I actually knew that was
+- [1305360.00s] against the guidelines. But I learned
+- [1306480.00s] the hard way. Um, and so that always put
+- [1309520.00s] me off of like paid link building, even
+- [1312720.00s] though I know obviously many many brands
+- [1315280.00s] engage in it. That's very much how the
+- [1317039.00s] internet often works. Um, but my
+- [1320080.00s] approach is always to do things that
+- [1321840.00s] won't ever get clients in trouble. Um,
+- [1324720.00s] because Google's really good at this
+- [1326640.00s] stuff, right? They have spam brain.
+- [1328480.00s] They're always updating it and like link
+- [1330400.00s] spam is one of the biggest, you know,
+- [1332159.00s] violations of their policies over time.
+- [1334559.00s] So I think I like to not put my clients
+- [1336480.00s] in hot water. Um so the more that we can
+- [1338799.00s] yeah invest in like whether it's like a
+- [1340480.00s] survey or original content, original
+- [1342960.00s] images, original videos, but really
+- [1344960.00s] focusing on like yeah like I guess it's
+- [1347679.00s] a linkable asset. Um something that
+- [1349840.00s] takes a lot of time and effort to build
+- [1351280.00s] and kind of earns links because it's
+- [1352720.00s] naturally important and then you can do
+- [1354400.00s] outreach with that content, right?
+- [1355760.00s] That's not against the guidelines to try
+- [1356960.00s] to earn links to something that you've
+- [1358240.00s] built.
+- [1359200.00s] >> Yeah. And honestly, people people
+- [1362320.00s] underestimate the results that you can
+- [1365440.00s] get when you actually let a brand
+- [1367120.00s] compound and you don't dodgy things that
+- [1370080.00s] can actually get a hit.
+- [1372000.00s] >> Like people really don't get it. It's
+- [1374159.00s] really crazy. But it's like, oh, it
+- [1376320.00s] takes a little. It It is tougher though
+- [1378240.00s] for the for the agencies who have to who
+- [1380880.00s] feel like or maybe they just have to get
+- [1383280.00s] results fast for their clients.
+- [1385520.00s] >> Yeah. Yeah. I mean that's I've worked in
+- [1388000.00s] agencies for 13 years, right? I totally
+- [1390400.00s] get it. I think the main thing with
+- [1392880.00s] agencies is education. You know, it's
+- [1394559.00s] having those conversations up front
+- [1396320.00s] though, you know, there's many many
+- [1398159.00s] companies who want to see really
+- [1400000.00s] dramatic results from SEO in two months
+- [1403120.00s] and you're not always going to see that.
+- [1404640.00s] And so it's a lot of it is like having
+- [1407120.00s] these conversations early where it's
+- [1408480.00s] setting expectations and saying,
+- [1409600.00s] "Listen, we want you to grow over the
+- [1411840.00s] next 5 to 10 years, right? We don't want
+- [1414640.00s] to do something dodgy that's gonna screw
+- [1416640.00s] up your website because I'm sure you've
+- [1418480.00s] seen it before, but when you do drive
+- [1421120.00s] dramatic SEO growth in two to three
+- [1423039.00s] months, you often crash and then it's
+- [1424720.00s] very very very difficult to recover for
+- [1426320.00s] a very long time. Could it could take
+- [1427760.00s] years.
+- [1428640.00s] >> Yeah. Yeah. And and if you when you
+- [1431120.00s] actually let the brand compound and you
+- [1434240.00s] act you're you're building up just a
+- [1436400.00s] very solid authority profile. I don't
+- [1438400.00s] even want to call it domain authority or
+- [1439919.00s] brand authority or any of these things.
+- [1441520.00s] It's just like you know that this is an
+- [1442880.00s] authoritative brand. You actually do you
+- [1445200.00s] actually are able to get those wins.
+- [1446960.00s] Like there are some big brands out there
+- [1448880.00s] that have massive topical authority.
+- [1450400.00s] They don't they just don't know how to
+- [1451520.00s] find the right keywords and then it's
+- [1453440.00s] like you they can find these keywords
+- [1455120.00s] and then rank high for them within hours
+- [1458080.00s] and they're extreme and those are the
+- [1459679.00s] types of wins that they want to get and
+- [1461279.00s] they can get them because they let the
+- [1463360.00s] brown the brand compound. I think it's
+- [1465440.00s] similar to how Forbes could rank for
+- [1467120.00s] anything and it's like well it's an aged
+- [1469279.00s] brand and it's and you know it's it
+- [1472080.00s] maybe it's not the best example because
+- [1473440.00s] they have done they have done a lot of
+- [1474960.00s] dodgy things. I don't know, maybe it's
+- [1476400.00s] not
+- [1477440.00s] >> the
+- [1478799.00s] >> Yeah, I mean, I've seen it on my
+- [1481039.00s] personal site. I've seen it on our
+- [1482799.00s] agency site, AMS. Um, we're not they're
+- [1485919.00s] not very big authoritative sites. We're
+- [1487919.00s] not Forbes, right? But because I would
+- [1490720.00s] say both of those domains, just using
+- [1492640.00s] those as examples, have only ever really
+- [1495520.00s] done what I would consider to be like
+- [1497760.00s] highquality work or like natural kind of
+- [1500400.00s] link building because of like earned
+- [1502240.00s] publicity or like putting out good
+- [1504320.00s] content. I see it where we can I don't
+- [1507120.00s] want to say we can rank for anything but
+- [1508640.00s] we do rank really fast when we put out
+- [1511360.00s] an article and we get cited in LLM
+- [1513520.00s] within hours. So for me that's the
+- [1515919.00s] approach. It's like build an
+- [1517120.00s] authoritative asset where search engines
+- [1519200.00s] and also LLM trust you enough to say we
+- [1522000.00s] know that the content being put out on
+- [1523279.00s] that website is good and so we're going
+- [1524960.00s] to reward it very quickly.
+- [1527679.00s] when you work with clients, do you ever
+- [1529440.00s] do you ever get a client that's doing
+- [1530799.00s] all the SEO fundamentals correct? And
+- [1532640.00s] it's like, okay, so now we actually have
+- [1534400.00s] to do offensive SEO, what do we do? And
+- [1537760.00s] yeah, and and and if you do do get
+- [1539520.00s] clients like that, what do what do you
+- [1541360.00s] tell them to do in terms of like
+- [1542640.00s] offensive SEO? They already have the
+- [1544320.00s] defensive fundamentals down.
+- [1548000.00s] >> Well, what do you mean by offensive?
+- [1550159.00s] >> Offensive as in they they fixed the
+- [1553600.00s] common mistakes that lots of people are
+- [1555760.00s] making. the mistakes that we were just
+- [1557279.00s] speaking about and it's like where do we
+- [1560159.00s] go from here?
+- [1561760.00s] >> Yeah. Yeah, definitely. I mean, I think
+- [1563679.00s] there's clients in super competitive
+- [1565520.00s] categories where that can be really
+- [1567039.00s] tricky and I know it's really tempting
+- [1568960.00s] to try to do something really crazy in
+- [1571360.00s] those situations, right? Um, you're
+- [1574240.00s] going to get different answers from
+- [1575120.00s] different SEOs. Obviously, I'm much more
+- [1577120.00s] riskaverse than most SEOs just because I
+- [1579200.00s] work with so many companies that have
+- [1580320.00s] been burned, right? So, that totally
+- [1581760.00s] changes my perspective. Um, but I think
+- [1584080.00s] in those cases, yeah, it's going to come
+- [1586000.00s] back to like some type of content and
+- [1589840.00s] social strategy where it's like, you
+- [1592960.00s] know, I worked with a finance company um
+- [1595520.00s] or like a credit card comparison site
+- [1598080.00s] where they put out original content
+- [1600320.00s] based on survey data, you know, about
+- [1602559.00s] it's it's re it's relevant to their
+- [1604240.00s] niche. It's not exactly what they focus
+- [1605600.00s] on, but it's like things that their
+- [1607120.00s] audience would want to know, right?
+- [1608400.00s] Statistics that they would want to know.
+- [1610000.00s] And those articles do really really well
+- [1611840.00s] to get a lot of press. You know, they
+- [1613520.00s] get mentioned in the news. They get a
+- [1615279.00s] lot of really great links. They get
+- [1616400.00s] talked about in social. Um, there's also
+- [1618720.00s] like Google Discover. There's some types
+- [1620320.00s] of content that I help companies with to
+- [1622080.00s] get more visibility and discover. I
+- [1623600.00s] think all of that that kind of shows
+- [1625039.00s] that the brand has a pulse and that
+- [1626480.00s] they're creating really interesting
+- [1627679.00s] content. I think pays off with SEO.
+- [1630080.00s] >> Yeah. By the way, I'm I'm the same. I I
+- [1632799.00s] commonly get the criticism that I am too
+- [1634720.00s] riskaverse and and I and for me it's
+- [1638159.00s] like I said I know what happens when you
+- [1640320.00s] let the brand compound. So yeah,
+- [1642400.00s] >> I'm I'm very I'm very much the same way.
+- [1644720.00s] What do you what what strategies do you
+- [1646400.00s] suggest for Google Discover?
+- [1649440.00s] >> Yeah, that's actually one that I um
+- [1652320.00s] focus on and have specialized in since I
+- [1654320.00s] would say 2018 or 2019 when Discover
+- [1656640.00s] came out. Um but I don't necessarily
+- [1659600.00s] talk about the tactics as much publicly
+- [1661279.00s] at least. Um sometimes I talk about it
+- [1662960.00s] in private conferences and things just
+- [1665039.00s] because I know how these things go with
+- [1666640.00s] Google number one they are watching what
+- [1668159.00s] I tweet and what I post. Not just me but
+- [1670799.00s] many people. Um you know if I were to
+- [1672720.00s] share what works in discover it would
+- [1674640.00s] get shut down in a month. So but the
+- [1677440.00s] reality is at least for the last few
+- [1679679.00s] years Google discover has been much more
+- [1681919.00s] easy to manipulate and influence than
+- [1684880.00s] SEO. Um, you know, I think, yeah, I
+- [1688240.00s] think a lot of it is driving
+- [1690000.00s] click-through rate, right? And they'll
+- [1691360.00s] tell you that the Google Discover
+- [1693600.00s] guidelines say don't have clickbait, you
+- [1695760.00s] know, don't have misleading headlines.
+- [1697840.00s] And it's true. When you overdo it, you
+- [1699520.00s] can get manual actions and things. Um,
+- [1701760.00s] but the reality is the stuff that works
+- [1703360.00s] in discover is tabloids, tabloid type
+- [1706159.00s] content. You know, it's it's trending
+- [1708640.00s] more and more towards like social posts
+- [1710480.00s] and things. I think they're trying to
+- [1712000.00s] improve the quality of discover. But
+- [1713840.00s] over the years, there's been ways to
+- [1715840.00s] write your headlines that leave out
+- [1718159.00s] little bits of information and entice
+- [1719919.00s] the user to click. And then there's ways
+- [1721600.00s] to optimize the featured image so that
+- [1723440.00s] people are really engaged, like a lot of
+- [1725440.00s] like human faces, close-ups of faces,
+- [1727600.00s] popular celebrities, things like this.
+- [1729520.00s] Um, there are a lot of kind of tricks
+- [1731440.00s] that you can do in Discover. Um, but
+- [1733679.00s] just be careful because it's one of
+- [1735039.00s] those things where like if you overdo it
+- [1736320.00s] and it's working too well, they will
+- [1737520.00s] shut you down. So really um yeah I mean
+- [1740399.00s] discover you can lose all your traffic
+- [1741840.00s] like forever if you go too
+- [1743360.00s] >> why would they shut you down if you're
+- [1744799.00s] if you're doing things oh you mean if
+- [1746880.00s] it's too clickbaity as in like you're
+- [1749039.00s] not you are overpromising and completely
+- [1751200.00s] underdeling.
+- [1752720.00s] >> Yeah. So like some examples that are
+- [1754399.00s] pretty clear um are like the actual
+- [1756399.00s] manual actions that come from discover.
+- [1758080.00s] So release date spam within the movie
+- [1760320.00s] category for example. If you do a lot of
+- [1762720.00s] articles that say when is the next, you
+- [1765520.00s] know, MCU movie or whatever TV show
+- [1768240.00s] coming out um or like like something
+- [1771840.00s] like find out when it's coming out and
+- [1773360.00s] then you don't say in the article when
+- [1775120.00s] it's coming out or you say it in like
+- [1776399.00s] the 10th paragraph and then you say
+- [1778480.00s] sometime in summer of next year. I think
+- [1780720.00s] they have systems that actually look for
+- [1782240.00s] the date like the actual explicit date
+- [1784799.00s] on the page. Um so it's a lot of that
+- [1787120.00s] kind of like misleading stuff that's
+- [1788399.00s] just traditional clickbait. If you go
+- [1790240.00s] too hard in that direction, they will
+- [1792000.00s] either penalize your site or you'll lose
+- [1794000.00s] a lot of traffic really fast.
+- [1796320.00s] >> How do you find a balance? This is
+- [1798000.00s] always an interesting question. How do
+- [1799279.00s] you find a balance between making
+- [1801760.00s] content that properly satisfies
+- [1806640.00s] the SEO signals that you want to satisfy
+- [1809919.00s] um while also you know targeting the
+- [1812799.00s] keyword properly so that you are as
+- [1814880.00s] relevant as possible.
+- [1818000.00s] I mean, I think yeah, it's always about
+- [1819679.00s] striking that balance, right? I think,
+- [1821360.00s] you know, SEO from 10 or 15 years ago is
+- [1823679.00s] just put the keyword and the, you know,
+- [1825840.00s] relevant keywords and similar keywords
+- [1827840.00s] in as many places as possible. I think
+- [1830559.00s] that's still true to a degree. Like, I
+- [1832720.00s] wouldn't say, you know, don't put the
+- [1834159.00s] keyword in the title tag. Like, you
+- [1835679.00s] should still do that. Um, there's still
+- [1837679.00s] some fundamental SEO things that are
+- [1839360.00s] true, but like obviously Google's gotten
+- [1841360.00s] a million times better at understanding
+- [1843039.00s] language and semantics. And so I think
+- [1845440.00s] there's a lot more freedom to kind of
+- [1847039.00s] just like make sure that you're
+- [1849200.00s] producing good content while also using,
+- [1851440.00s] you know, keyword research tools and
+- [1852960.00s] looking at query fan arts and looking at
+- [1854399.00s] all these things and saying, am I really
+- [1856399.00s] answering the question clearly and
+- [1858240.00s] staying on topic on the page? Um, and I
+- [1861039.00s] think there's a lot of interesting work
+- [1862320.00s] people are doing now with AI search to
+- [1864159.00s] like make sure that paragraphs and and I
+- [1867200.00s] guess like chunks of content are kind of
+- [1868799.00s] like self-contained with the exact
+- [1870640.00s] answer that an LLM or that AI overviews
+- [1872720.00s] would be pulling in. And there's a lot
+- [1874399.00s] of like complicated stuff you can do
+- [1876000.00s] with embeddings and everything to like
+- [1877520.00s] cosign similarity and really like really
+- [1879600.00s] drilling down to make sure that the
+- [1880720.00s] paragraph itself has the answer that's
+- [1882480.00s] that's needed. I'm a little skeptical of
+- [1885200.00s] that stuff because I think if everyone
+- [1886320.00s] starts to do it too much, Google's going
+- [1887679.00s] to say this is skewed way too far from
+- [1889600.00s] producing good content for humans. So,
+- [1891679.00s] um there's that they're striking a
+- [1893039.00s] balance. I think as a good SEO, you're
+- [1894880.00s] like, "Yeah, if I gave this to the
+- [1896399.00s] average person, they would read it and
+- [1897440.00s] they would have a really good experience
+- [1898399.00s] and they wouldn't feel like you're just
+- [1899760.00s] repeating the same keywords over and
+- [1901279.00s] over. you're doing things specifically
+- [1902720.00s] for SEO while also making sure that
+- [1905039.00s] you're writing clearly and concisely and
+- [1906640.00s] you're getting the message across
+- [1907760.00s] without being too vague or too
+- [1909039.00s] ambiguous.
+- [1910399.00s] Yeah, I've made episodes on how the
+- [1912399.00s] stuff that you just described is like
+- [1915360.00s] it's over it's it's overly technical
+- [1917519.00s] when it doesn't need to be. Like I think
+- [1919039.00s] I think uh I think someone could even
+- [1921840.00s] have like probably create a a decent
+- [1924240.00s] checklist of what good content is for a
+- [1927519.00s] newb who's coming into SEO. And it's
+- [1929840.00s] like okay like will the searcher bounce?
+- [1932559.00s] Is the searcher going to pogo stick on
+- [1934320.00s] this?
+- [1934960.00s] >> Is the searcher going to want to click
+- [1936320.00s] in the first place? Is a searcher going
+- [1937919.00s] to come to this page and feel like it is
+- [1939600.00s] for them? Are they going to see AI
+- [1941600.00s] images and not trust it? Are they going
+- [1943360.00s] to see real images and be like
+- [1945279.00s] >> it's it's like uh yeah, think things
+- [1947840.00s] like that. Um, I want to talk about the
+- [1949760.00s] helpful content update because actually
+- [1952000.00s] when all of that stuff was going down, I
+- [1954720.00s] watched a few podcasts with you to get
+- [1956799.00s] your take on it because you were one of
+- [1958480.00s] the the leading the leading people
+- [1960559.00s] talking about the helpful content update
+- [1962960.00s] and uh so it wiped out so many
+- [1965840.00s] publishers and I'd like to ask you what
+- [1968799.00s] are some takeaways that apply from the
+- [1972159.00s] helpful content update to today in 2026?
+- [1977039.00s] Yeah. And I will say that that update
+- [1979360.00s] like broke my soul.
+- [1982080.00s] That was such a big one that like I
+- [1984960.00s] really and I don't think this is a
+- [1986240.00s] secret. I think Google went way too far.
+- [1988159.00s] Um I think they hit a lot of sites in
+- [1991360.00s] really really dramatic ways that
+- [1992960.00s] probably didn't deserve to lose 85 95%
+- [1996720.00s] of their visibility in Google search and
+- [1998480.00s] still to this day can't really get it
+- [2000559.00s] back um in many cases. So, you know,
+- [2004080.00s] what I learned about that and I think it
+- [2005840.00s] actually probably um explains a lot of
+- [2008320.00s] my position right now is, you know, in
+- [2011760.00s] 2022 before the helpful content update,
+- [2014240.00s] I felt it coming only because like I've
+- [2016399.00s] dealt with Penguin and Panda and medic
+- [2018159.00s] and all these other big updates over the
+- [2019440.00s] years. I knew that this was going to get
+- [2021919.00s] crackdown on like there were a lot of
+- [2023600.00s] sites that were using very very similar
+- [2025360.00s] approaches to SEO that were working
+- [2026720.00s] really well and we were also in like the
+- [2028000.00s] early days of like AI generated content.
+- [2031200.00s] So, there were some companies, I'm not
+- [2033440.00s] going to name names, but companies that
+- [2034960.00s] were um allowing their clients to start
+- [2038720.00s] experimenting with producing lots of
+- [2040399.00s] content really quickly with AI or
+- [2041840.00s] optimizing content with AI. Um or like
+- [2044720.00s] using these very clickbaity titles where
+- [2047039.00s] it's like, you know, 10 things that do
+- [2050399.00s] this and that and then like a little
+- [2051919.00s] bracket that's like you'll never believe
+- [2053599.00s] number seven, right? Like everyone's
+- [2055760.00s] doing that and it's working really well.
+- [2058159.00s] It's definitely increasing click-through
+- [2059280.00s] rates. It's driving a lot of SEO
+- [2060720.00s] traffic. But then you start to hear the
+- [2062480.00s] backlash where there's a lot of
+- [2063679.00s] publications like The Verge and
+- [2065040.00s] everything where they're like, "We hate
+- [2066480.00s] SEO. SEO is ruining Google. We're having
+- [2069280.00s] a really bad experience." And when
+- [2070720.00s] Google starts to get a lot of public
+- [2072000.00s] pressure like that that their results
+- [2073280.00s] are not good, they take really dramatic
+- [2075760.00s] action. And I think we're in the early
+- [2078000.00s] days of that with AI search right now,
+- [2079520.00s] which is why I think the listicles are
+- [2080960.00s] the first clue. But, you know, my big
+- [2083839.00s] takeaway from the helpful content update
+- [2085280.00s] is that even if you're doing something
+- [2086720.00s] that does really, really well with SEO,
+- [2088639.00s] and let's say it lasts six months, when
+- [2090560.00s] everyone else starts doing it, becomes
+- [2091839.00s] very popularized, and you start to have
+- [2093119.00s] the average user like, "This is
+- [2094879.00s] annoying, and it's ruining my experience
+- [2096720.00s] on Google." Google takes countermeasures
+- [2098560.00s] that are more aggressive than they need
+- [2100160.00s] to, I think. So, I feel like we're in
+- [2102400.00s] that cycle again right now.
+- [2104079.00s] >> So, how about when when everyone starts
+- [2106560.00s] doing the same thing in SEO, but it's
+- [2108480.00s] actually a good tactic that searchers
+- [2110320.00s] like?
+- [2112240.00s] Can you name an example?
+- [2114400.00s] >> Um, okay. TLDDRs are getting pretty
+- [2117200.00s] popular.
+- [2118400.00s] >> So, putting up too long, didn't reads
+- [2120560.00s] that literally give the answer right
+- [2122800.00s] away to the target searcher at the top
+- [2125119.00s] and and a lot of a lot more people are
+- [2126640.00s] doing that. They're they're having
+- [2128160.00s] they're they're scaling AI content and
+- [2130400.00s] even telling the AI content to put the
+- [2132079.00s] TLDDR there. And you scaled AI content,
+- [2134480.00s] that's like another conversation, but
+- [2136560.00s] like yeah, TLDDR would be an example.
+- [2138720.00s] >> I think that's a really good example.
+- [2140160.00s] Um, you know, I do think it generally
+- [2143440.00s] helps users and even search engines and
+- [2145599.00s] LLMs and everything to have a TLDDR. So,
+- [2148960.00s] you know, I'm not going to sit here and
+- [2150160.00s] say don't do that because if everyone
+- [2151599.00s] starts doing it, it's spammy. I will say
+- [2154720.00s] there are certain things like that. For
+- [2156400.00s] example, tables of contents, which I
+- [2158800.00s] think tables of contents are good for
+- [2160160.00s] users. I've recommended them to clients
+- [2161920.00s] forever. I use them in my own content
+- [2163520.00s] when my content's very long. But if you
+- [2165440.00s] remember, Danny Sullivan from Google
+- [2167680.00s] like right after the helpful content
+- [2169520.00s] update was launched started making a
+- [2171520.00s] laundry list of all these things that
+- [2172880.00s] Google just kept seeing over and over
+- [2174640.00s] that was like you all are doing this.
+- [2176240.00s] It's everyone's kind of participating in
+- [2178000.00s] the same thing for SEO, right? And he
+- [2180320.00s] actually listed table of contents as one
+- [2182000.00s] of them. So, it's almost like we can't
+- [2184000.00s] have nice things because even if it is
+- [2186720.00s] good for users, if it becomes this
+- [2188880.00s] pattern that everyone's doing for SEO
+- [2190960.00s] purposes and the whole internet becomes
+- [2192560.00s] super homogeneous and like Google just
+- [2194240.00s] says, these are the patterns that we're
+- [2195839.00s] seeing in these sites that are doing way
+- [2197200.00s] too much for SEO that have lost
+- [2198960.00s] authenticity with users, good things can
+- [2201440.00s] even eventually become a liability.
+- [2203760.00s] >> You think table of contents still hurt
+- [2205760.00s] articles or still hurt pages?
+- [2208160.00s] >> I haven't stopped doing it. You know, I
+- [2210160.00s] think that it's one thing among many
+- [2212160.00s] different clues that they're looking for
+- [2213359.00s] when they demote websites, but in my
+- [2215359.00s] experience, it's of course when you have
+- [2217119.00s] a super long article, especially now
+- [2218320.00s] with AI search where it likes to jump to
+- [2220000.00s] different parts of the page, you know, I
+- [2221760.00s] wouldn't say not to do that. Now, if
+- [2224000.00s] you're if you're doing it all the time
+- [2226079.00s] and it's like really spammy and
+- [2227760.00s] excessive and maybe the article doesn't
+- [2229200.00s] really need it, like you don't always
+- [2230880.00s] need one, right? But I think if it helps
+- [2232560.00s] if it helps the user experience, then
+- [2233920.00s] yeah, you should use one. I've actually
+- [2235920.00s] thought about experimenting with just
+- [2237440.00s] doing anchors just uh just yeah just
+- [2240800.00s] anchoring different parts of the page
+- [2242160.00s] instead of doing like a traditional TOC
+- [2245359.00s] because I' i've seen the same I've seen
+- [2247280.00s] the same thing that pages with the table
+- [2249520.00s] of contents even even now in 2026. It it
+- [2252880.00s] still doesn't seem to be working out as
+- [2254480.00s] well. Um,
+- [2257040.00s] what separates sites that grow during
+- [2260720.00s] updates from those that collapse?
+- [2264640.00s] >> Yeah. I mean, over the years there's so
+- [2268000.00s] many sites that like were poster child
+- [2270560.00s] for like good SEO, you know, two years
+- [2273200.00s] earlier and everyone's like, "Wow,
+- [2274800.00s] they're so good at SEO." I'm thinking of
+- [2277359.00s] some obvious examples um that have
+- [2279440.00s] crashed, right? And it's like I'm not
+- [2281200.00s] going to name names, but like just
+- [2283599.00s] because something's working for a really
+- [2284800.00s] long time, it doesn't mean it's always
+- [2286160.00s] going to work. And I really do believe,
+- [2288000.00s] you know, like it or not, I think one of
+- [2289520.00s] Google's biggest motivations with core
+- [2291680.00s] updates is to demote SEO tactics that
+- [2294000.00s] are working too well. Even when we all
+- [2296720.00s] agree, wow, they're doing SEO really
+- [2298240.00s] well. If Google says this is too
+- [2300880.00s] repetitive and too many people are
+- [2302240.00s] emulating this strategy, they'll demote
+- [2303920.00s] it. So, I think, believe it or not, and
+- [2305760.00s] this is something that SEOs don't love
+- [2307280.00s] to hear, um, the best thing you can do
+- [2309359.00s] in a core update is to be some type of
+- [2311280.00s] site that's not doing SEO,
+- [2313599.00s] like a government site, right? Or in
+- [2316640.00s] some cases like a forum, you know, like
+- [2319359.00s] things where it's just raw, authentic,
+- [2321920.00s] like helpful content that's not really
+- [2324800.00s] thinking about SEO. Maybe they have like
+- [2327119.00s] good titles or whatever, but generally
+- [2329760.00s] speaking, I'll see a lot of those types
+- [2331119.00s] of companies or not even companies, like
+- [2332800.00s] organizations and institutions, you
+- [2334320.00s] know, the CDC and the Mayo Clinic and
+- [2335920.00s] this stuff where it's just literally
+- [2337440.00s] good content, not thinking about SEO.
+- [2339680.00s] But I do think that um you can kind of
+- [2342160.00s] take that um you know, philosophy or
+- [2345040.00s] approach and use it in your SEO
+- [2346320.00s] strategy. So, it's like it's a defensive
+- [2348640.00s] SEO strategy. It's like, how do I make
+- [2350960.00s] it seem like, yeah, I'm addressing
+- [2352720.00s] technical SEO. I'm addressing user
+- [2354320.00s] experience. I'm addressing conversion
+- [2355440.00s] rate optimization, but I'm not
+- [2357280.00s] exploiting, you know, SEO tactics to try
+- [2360320.00s] to drive as much traffic as physically
+- [2362160.00s] possible. I'm just trying to earn
+- [2364240.00s] traffic for the topics that I'm very
+- [2365839.00s] relevant for.
+- [2366960.00s] >> Yeah. Yeah. Yeah.
+- [2369599.00s] That's um and I'm glad that you you
+- [2372240.00s] mentioned you mentioned titles because
+- [2373599.00s] you have to there we were again going
+- [2376079.00s] back to that conversation. And how do
+- [2377359.00s] you balance between actually having good
+- [2379040.00s] content but also having relevant enough
+- [2380720.00s] content that it ranks and uh yeah
+- [2383200.00s] because you you still need to you still
+- [2385200.00s] need to be uh relevant. I also think
+- [2387760.00s] what you just said speaks to why doing
+- [2391760.00s] having a varied marketing mix is so
+- [2393599.00s] important because that makes you more
+- [2395599.00s] like a real brand rather than an SEO
+- [2398160.00s] brand. And if there are all of these
+- [2401280.00s] different s if there are all of these
+- [2404079.00s] signals that indicate during an update
+- [2406880.00s] that this is a spammy site by doing lots
+- [2409680.00s] of different types of marketing you are
+- [2412560.00s] probably less likely to fall into those
+- [2415440.00s] signals because you have like even if
+- [2417920.00s] it's a a backlink profile you have like
+- [2420160.00s] a more natural backlink profile
+- [2423040.00s] >> for for sites that do get hit. What is
+- [2426800.00s] the first step that you take when a site
+- [2429839.00s] loses like 70 to 80% of its traffic?
+- [2433359.00s] >> Even if it's not during a core update,
+- [2434960.00s] if if just a client comes to you and
+- [2437040.00s] they're like,
+- [2438240.00s] >> "We can't rank anymore. We don't know
+- [2439839.00s] what's happening. We've lost so much
+- [2441359.00s] organic traffic. This is our Google
+- [2442880.00s] Search Console. Why does it look like
+- [2444480.00s] this, Lily? What what should we do?"
+- [2447440.00s] >> Story of my life. Um yeah, and listen,
+- [2450640.00s] you can lose a lot of traffic really
+- [2452320.00s] fast outside of a core update um for
+- [2455200.00s] different reasons. And you know, listen,
+- [2457119.00s] like yes, there's there's sometimes it
+- [2459200.00s] can be explained by you accidentally no
+- [2461520.00s] indexed off the site. You accidentally
+- [2463040.00s] blocked something with robots.txt, your
+- [2464880.00s] JavaScript is not rendering so search
+- [2466640.00s] engines can't see any of the content.
+- [2467839.00s] Like the you want it to be that stuff,
+- [2469680.00s] right? Something that's actually
+- [2471599.00s] fixable, the technical problem. Like
+- [2473119.00s] that's the dream. So you have to rule
+- [2475200.00s] those out. And obviously if it's one of
+- [2476800.00s] those things, hopefully it's one of
+- [2477839.00s] those things and you can get back in
+- [2479119.00s] Google's good graces pretty fast. I've
+- [2480800.00s] seen a lot of examples recently where
+- [2482319.00s] site like big brands they lose all their
+- [2484319.00s] traffic in two days and it's like you go
+- [2485839.00s] to the site and they you know it's like
+- [2488000.00s] under construction or something like
+- [2489520.00s] well yeah of course you're going to lose
+- [2490720.00s] all your traffic. Um, but you know, you
+- [2494319.00s] have if it's not that, and more often
+- [2496800.00s] than not, it's not that, um, you have to
+- [2498960.00s] start to reverse engineer what it is.
+- [2500880.00s] And I really recommend working with
+- [2502880.00s] someone who knows what those patterns
+- [2505280.00s] are because I would say, listen, there's
+- [2507200.00s] all kinds of SEOs out there with all
+- [2508880.00s] types of skills. Not every SEO has the
+- [2511680.00s] skill to understand what gets sites in
+- [2513359.00s] trouble during core updates or outside
+- [2515040.00s] of core updates. There's certain SEOs
+- [2516960.00s] focused on that. You know, I think you
+- [2518319.00s] look at that. I look at that. Like Marie
+- [2520240.00s] Haynes, Glen Gabe, there's a lot of the
+- [2521680.00s] people that look at that and not every
+- [2522960.00s] SEOs does that and that's fine. You
+- [2524720.00s] know, lots of SEOs only do e-commerce.
+- [2526400.00s] Lots of them only do news, whatever. But
+- [2527760.00s] like a lot of people literally work on
+- [2529280.00s] core updates. So, I would say try to
+- [2530960.00s] work with one of them because they've
+- [2532480.00s] seen the patterns over and over. Um, but
+- [2535440.00s] I'm I would say I'm able to spot the
+- [2537440.00s] patterns pretty often with a lot of
+- [2538560.00s] these sites. Um, and it almost always
+- [2540880.00s] comes down to some shady SEO thing that
+- [2543520.00s] they did, whether it's in the last year,
+- [2545920.00s] it can sometimes be two years ago. I
+- [2547680.00s] often ask them who they worked with for
+- [2549200.00s] SEO. A lot of times they'll tell me, you
+- [2551040.00s] know, we worked with four different
+- [2552240.00s] agencies or four different consultants
+- [2553839.00s] and these guys built all these pages and
+- [2555839.00s] then these guys deleted it and these
+- [2556960.00s] guys built all these. Like, you have to
+- [2558160.00s] kind of like start with the history of
+- [2560240.00s] what happened. um you know when you
+- [2562560.00s] crawl the website you can often see
+- [2563920.00s] those patterns anyway but there's
+- [2566160.00s] usually like I think of them as like I
+- [2569760.00s] don't want to say like a cancer on the
+- [2571280.00s] site but like something on the site
+- [2573599.00s] that's the problem or maybe a few
+- [2575599.00s] different things that are the problem
+- [2576960.00s] and you have to start by removing those
+- [2580319.00s] um but it's not only just removing those
+- [2582400.00s] now I would say it's harder than ever to
+- [2584000.00s] recover on Google so it's not only
+- [2586400.00s] removing it it's also showing signals
+- [2588480.00s] that you are a good brand that's
+- [2590240.00s] contributing a lot of good content as
+- [2591680.00s] well.
+- [2592319.00s] >> I think your analogy is pretty good.
+- [2594319.00s] Like cuz it really it really does seem
+- [2596160.00s] like that for
+- [2599040.00s] there there's a lot of people who are
+- [2600319.00s] newer in SEO who listen to this podcast
+- [2603200.00s] and I'm sure that some of these new
+- [2605200.00s] people have gotten clients like this and
+- [2607040.00s] they feel overwhelmed.
+- [2608960.00s] What would you recommend to them in in
+- [2611119.00s] terms of how they should start if they
+- [2612880.00s] if they or if you're or if you're a
+- [2614800.00s] business yourself and uh you just saw a
+- [2617440.00s] drop. But yeah, especially to the to the
+- [2619200.00s] newer SEOs who might have gotten clients
+- [2621040.00s] like this.
+- [2622480.00s] >> Yeah, there's a lot of really great
+- [2623680.00s] content out there about what to do when
+- [2625440.00s] you see a big traffic drop. Um, Alita
+- [2627839.00s] Solless comes to mind. I think she's
+- [2629200.00s] written about that quite a bit. Um, but
+- [2631359.00s] I would honestly like Glen Gabe, someone
+- [2633200.00s] that I talked to pretty much every day.
+- [2634480.00s] You know, we're very aligned with SEO
+- [2636240.00s] stuff. He's written all types of amazing
+- [2638240.00s] content over the years about what to do
+- [2640079.00s] with getting hit by algorithm updates
+- [2642160.00s] and penalties and manual actions and
+- [2643760.00s] everything. He has a lot of really good
+- [2645440.00s] stuff. Um, but I think yeah, like
+- [2649440.00s] focusing on Google's search quality
+- [2651520.00s] guidelines, focusing on Google's helpful
+- [2653760.00s] content update guidelines, like you
+- [2655359.00s] mentioned before, like a checklist that
+- [2657200.00s] people should use to see if content is
+- [2658720.00s] good content. Google literally has that.
+- [2660720.00s] They've had it for a long time. A lot of
+- [2662000.00s] people just don't use it. But you have
+- [2664000.00s] to go through all the content and
+- [2666079.00s] measure it against that criteria that
+- [2667920.00s] Google has. That's a really good place
+- [2669839.00s] to start. You know, my team when we work
+- [2671200.00s] on core update recovery, we we literally
+- [2673280.00s] use that checklist. And you want to be
+- [2676319.00s] um as unbiased as possible. You know,
+- [2679440.00s] one thing that you'll always hear from
+- [2680720.00s] companies hit by core updates, I'm sure
+- [2682240.00s] you've heard this, is we were doing
+- [2683599.00s] everything right and our content's
+- [2684880.00s] really good. We have the best content in
+- [2686400.00s] the space. Like really not so sure about
+- [2690000.00s] that.
+- [2690640.00s] >> Yeah. All the time.
+- [2691440.00s] >> Um all the time. Yeah. So I think using,
+- [2694480.00s] you know, the content that's available
+- [2695760.00s] to understand what why do sites get hit
+- [2699119.00s] and what do I need to do to recover?
+- [2700960.00s] Start by kind of like internalizing that
+- [2702640.00s] information. Where is the checklist? I'm
+- [2704960.00s] sure a lot of people want that.
+- [2707040.00s] >> Yeah, it's um I believe it's Google's
+- [2709599.00s] Google's like criteria for helpful
+- [2712000.00s] content. Um there's a questionnaire that
+- [2715040.00s] they have that's like you know 30 or 40
+- [2718160.00s] questions that you should ask when
+- [2719520.00s] you're considering if your content is
+- [2720880.00s] helpful.
+- [2723200.00s] >> That's awesome. I actually I just I I
+- [2725680.00s] put out a podcast. It just came out a
+- [2728000.00s] few hours ago and it's about how Google
+- [2730079.00s] literally recommends linking out
+- [2732960.00s] >> in in like articles like citing sources
+- [2736319.00s] >> and it's like
+- [2736880.00s] >> I've been saying that for years.
+- [2738800.00s] >> It's part of EAT.
+- [2740640.00s] >> Like for us it probably seems like a
+- [2742720.00s] no-brainer type thing. It's like, of
+- [2744480.00s] course, you should site your sources.
+- [2746160.00s] And it's like, I I I I like uh I don't
+- [2749280.00s] know, Google is still helpful, but I
+- [2752960.00s] feel like the Matt Cuts days, they were
+- [2755040.00s] really helpful with like explaining
+- [2757280.00s] things
+- [2758079.00s] >> and well, the industry unfortunately
+- [2761599.00s] kind of screwed itself because um you
+- [2764160.00s] know, Danny Sullivan stepped away from
+- [2765599.00s] being liazison last year and we're
+- [2768400.00s] feeling it now. We're definitely feeling
+- [2770000.00s] it now. You know, they're they're less
+- [2771359.00s] communicative with the public. Um, and I
+- [2773760.00s] think that the cast of characters that's
+- [2775599.00s] communicating from Google right now, if
+- [2778000.00s] if at all are much more vague. They're
+- [2780640.00s] much more focused on AI. They're not as
+- [2782960.00s] engaged with the search community. But,
+- [2785440.00s] um, if you remember after the helpful
+- [2787119.00s] content update, there was a lot of very
+- [2788720.00s] angry people. And I think Google just
+- [2790400.00s] took a step back from, you know, talking
+- [2792319.00s] to us at all, which doesn't help.
+- [2794720.00s] There's a theory that a bunch of SEOs
+- [2797280.00s] have, which is that Google is less
+- [2800560.00s] focused on SEO spam and their engineers
+- [2804079.00s] are all working on AI stuff. What do you
+- [2806960.00s] think of that?
+- [2807440.00s] >> I would agree with that. Yeah, I would
+- [2808880.00s] agree with that. I think um we've seen
+- [2811280.00s] over the last few years it's pretty
+- [2813119.00s] obvious you know Google declared a code
+- [2815200.00s] red after chat GPT came out and I feel
+- [2818240.00s] like ever since that code red it feels
+- [2820000.00s] like all the resources that Google
+- [2821599.00s] shifted towards AI you know it's like
+- [2823040.00s] everyone's probably working in Gemini
+- [2824319.00s] and AI overviews and everything and
+- [2825520.00s] they're hiring all kinds of roles for
+- [2826800.00s] like AI mode and AI overviews. I think
+- [2828800.00s] that's true. Um but you know I also I I
+- [2831920.00s] think it can't go on forever. You know
+- [2833599.00s] Google can't just like all right screw
+- [2835440.00s] it we're just going to let spam rank for
+- [2837440.00s] everything. I think they're probably
+- [2838960.00s] working on something behind the scenes.
+- [2841839.00s] >> Do you think uh do you think AI mode
+- [2843839.00s] will become the default anytime soon?
+- [2847680.00s] >> Not 100%. You know, it's not going to be
+- [2849839.00s] like when you go to Google search, it'll
+- [2851599.00s] be AI mode in the next, let's call it,
+- [2854000.00s] six months. I don't think that's going
+- [2855119.00s] to happen. I think they're trying all
+- [2857599.00s] kinds of things to push users towards AI
+- [2859280.00s] mode and more. Um they're also trying
+- [2861599.00s] different types of formats like web
+- [2863119.00s] guide that are a mix of traditional
+- [2865200.00s] search results with AI features. I think
+- [2867760.00s] it'll land somewhere with that because
+- [2870319.00s] there there's no chance they can be
+- [2872000.00s] profitable with everything being AI mode
+- [2874000.00s] in its current form. Think about how
+- [2876079.00s] many think about how many sponsored
+- [2878400.00s] links there are on Google right now and
+- [2879920.00s] how much they look like organic links.
+- [2881839.00s] The fact that they need to put fix ads
+- [2885040.00s] above the fold that literally look
+- [2886640.00s] identical to organic links tells me that
+- [2889119.00s] that's how they make money, right?
+- [2891200.00s] You're not going to be able to do that
+- [2892240.00s] in AI mode. AI mode doesn't have that
+- [2894640.00s] layout. You know, I think they're
+- [2896319.00s] starting to experiment with putting ads
+- [2897839.00s] in AI mode, but until they're literally
+- [2899839.00s] able to replicate the amount of ad
+- [2901680.00s] revenue they're getting from search
+- [2902880.00s] right now in AI mode, they're not going
+- [2904480.00s] to fully switch over to AI mode. It's
+- [2906079.00s] going to be some type of blended
+- [2907119.00s] experience. Do
+- [2908319.00s] >> you ever think about what SEO will look
+- [2911119.00s] like three years out, 5 years out, even
+- [2914400.00s] 10 years out?
+- [2916319.00s] >> Sure. I mean, I think right now Claude
+- [2918960.00s] in particular is the one that's scaring
+- [2920240.00s] me the most right now. you know,
+- [2922079.00s] Claude's ability to do analysis is like,
+- [2925280.00s] wow, okay, it just in the last two
+- [2927200.00s] months got so much better. Um, so I
+- [2930240.00s] think, yeah, I think it's, you know, we
+- [2932319.00s] all have a lot of much more advanced
+- [2934480.00s] tools at our disposal to do really,
+- [2936240.00s] really smart stuff with SEO. And I think
+- [2938559.00s] it's going to become more and more
+- [2940240.00s] competitive. You have to be more and
+- [2941760.00s] more creative. But, you know, I do think
+- [2945119.00s] you hear a lot of people say this, as
+- [2946640.00s] long as people are searching, there's
+- [2947760.00s] going to be some type of SEO needed.
+- [2949599.00s] even if that's just like listen like
+- [2952400.00s] personal branding and branding, you
+- [2954559.00s] know, guidance in the search results.
+- [2956880.00s] You know, you're still going to need to
+- [2958079.00s] set up your Google business profile.
+- [2960160.00s] You're you're still going to need to
+- [2961280.00s] input a lot of that data into the
+- [2963280.00s] system. And I think there's ways to
+- [2965040.00s] always optimize that.
+- [2967040.00s] >> Now, I got to ask, what sort of things
+- [2968480.00s] are you seeing or or using cloud for?
+- [2972800.00s] >> Everything.
+- [2974559.00s] the last month or two I switched from
+- [2976720.00s] like you know using AI for lots of
+- [2979760.00s] different things to now like with cloud
+- [2981119.00s] co-work and cloud code um and connecting
+- [2983839.00s] it to different like SEO tools and
+- [2985920.00s] different data sources like even Google
+- [2987920.00s] search console and Google Analytics um
+- [2990160.00s] you know talking to cloud about my data
+- [2992480.00s] talking to cloud about um performance of
+- [2995920.00s] different sites over time like I use the
+- [2997599.00s] HFS MCP for a lot of things um and I'm
+- [3000880.00s] able to do more largecale analysis of
+- [3002960.00s] like SEO trends much more quickly now.
+- [3004960.00s] And um you would laugh if you saw my
+- [3006960.00s] setup. I'm in in Argentina right now,
+- [3008559.00s] but I have like my regular work
+- [3010400.00s] computer. I have a client work computer
+- [3012480.00s] over here and then I have my MacBook
+- [3014400.00s] over here with Claude and I'm literally
+- [3016079.00s] going between the three all day every
+- [3017599.00s] day. But it's like Claude's always doing
+- [3019680.00s] something in the background because
+- [3020800.00s] whatever questions I have in the SEO
+- [3022319.00s] space, it can help me answer them now,
+- [3023920.00s] which is amazing because it's like
+- [3025119.00s] you're supercharged. You can just do so
+- [3027200.00s] much understand so many more things so
+- [3029040.00s] quickly with especially with like cloud
+- [3030559.00s] co-work,
+- [3031680.00s] >> you know. Yeah. I use like when even
+- [3033359.00s] when I'm making the show sometimes I
+- [3034960.00s] I'll get like some interesting breakdown
+- [3036640.00s] that I want to report on and there's
+- [3038319.00s] like a paragraph that I think is like
+- [3039839.00s] written really poorly and I'll just take
+- [3041280.00s] that I'll give it to I'll give it to
+- [3042880.00s] Chachi PT I'll give it to Cloud. What
+- [3044640.00s] does this mean? I don't even understand.
+- [3045839.00s] It's like bulleted out. Perfect.
+- [3048240.00s] >> Um
+- [3049920.00s] are there any are there are there any
+- [3053040.00s] SEO content things that you would
+- [3054960.00s] consider act or just in general with
+- [3057599.00s] SEO? What would you consider actually
+- [3059359.00s] automating? cuz you know there's people
+- [3061040.00s] who would try to automate everything
+- [3063119.00s] then there's people who are like I'm not
+- [3064319.00s] I'm not going to automate anything and
+- [3066960.00s] so I'm curious what Lily Ray thinks.
+- [3070240.00s] I think there's a lot of parts of the
+- [3072000.00s] process that you can automate internally
+- [3073920.00s] with your team or with you know whoever
+- [3076160.00s] you're working with that like like for
+- [3078720.00s] example keyword research right or like
+- [3080800.00s] topic research or reporting or data
+- [3083440.00s] analysis there's a lot of stuff that can
+- [3084960.00s] be automated where I draw the line still
+- [3088240.00s] is hitting the publish button right like
+- [3090319.00s] letting letting um the automation say
+- [3093280.00s] okay we're going to update a thousand of
+- [3095440.00s] your articles every month to get that
+- [3098319.00s] recent date that date modified in the
+- [3100240.00s] search results and use AI to find the
+- [3102400.00s] latest and greatest thing and automate
+- [3104160.00s] that because again when you look at
+- [3106640.00s] Google's policies th this is a new
+- [3109280.00s] version or an evolution of spam tactics
+- [3112160.00s] that have been against their guidelines
+- [3113599.00s] for 20 years right they've had um
+- [3116720.00s] artificial refreshing as something that
+- [3118559.00s] they've looked at forever long before AI
+- [3120800.00s] so there's a lot of people that are very
+- [3122079.00s] excited about using AI for things but
+- [3123680.00s] the reality is like just because you can
+- [3125839.00s] do it in a more sophisticated way
+- [3127200.00s] doesn't mean it's not against their
+- [3128160.00s] guidelines it's still against their
+- [3129200.00s] guidelines
+- [3130160.00s] So, you know, I think if you're going to
+- [3131599.00s] update content, it really truly needs to
+- [3133119.00s] have something unique and original and
+- [3134800.00s] like meaningful. And I also think that
+- [3137200.00s] they can see when you're doing things
+- [3139839.00s] with AI basically for search that's not
+- [3142640.00s] done in a in a way that took a lot of
+- [3145440.00s] human oversight. Um, and I think they're
+- [3147760.00s] going to get better and better at
+- [3148720.00s] demoting that. And honestly, we're
+- [3149760.00s] seeing that already. I know you and I
+- [3150880.00s] like are in a group chat where we talk
+- [3152319.00s] about this stuff. A lot of sites they're
+- [3154160.00s] using these tactics to like oh we can
+- [3155839.00s] use AI to like automatically generate or
+- [3157760.00s] produce a lot of content even if it's
+- [3159119.00s] very good content. It seems like Google
+- [3161680.00s] there's some switch where Google says
+- [3163440.00s] this is not going to work anymore.
+- [3165280.00s] >> Yeah, that group that group chat is fun.
+- [3166960.00s] It's it's like it's we basically share
+- [3171520.00s] different people on X who are like,
+- [3173599.00s] "Yeah, I had this client. Look at the
+- [3175440.00s] massive spike in traffic I did by doing
+- [3177839.00s] this spam geo tactic." And and then like
+- [3180160.00s] in the chat we're like, "All right, it's
+- [3181520.00s] two two months out. we're going to see
+- [3183119.00s] it all collapse. And it always happens.
+- [3185520.00s] >> It always happens. I mean, I I feel
+- [3187440.00s] almost bad because there's a lot of case
+- [3189040.00s] studies out there right now that talk
+- [3190160.00s] about how amazing things are and then
+- [3191920.00s] when you share the name of the site,
+- [3193280.00s] it's like, of course, people are going
+- [3194160.00s] to go look at what happened three weeks
+- [3195680.00s] later and they're not going to talk
+- [3196800.00s] about the fact that it crashed back
+- [3198079.00s] down, but it happens a lot.
+- [3200559.00s] >> Yeah. Um, back to back to recoveries.
+- [3203359.00s] This is actually an interesting
+- [3204400.00s] question. How long should a site
+- [3206480.00s] realistically expect to wait for a
+- [3209040.00s] recovery after making major
+- [3211119.00s] improvements?
+- [3212800.00s] It's a good question and it's a question
+- [3214240.00s] I hate answering right now because uh
+- [3216559.00s] >> Sorry.
+- [3217680.00s] >> No, it's fine. I mean, I think there was
+- [3220160.00s] one example, listen, I think it is
+- [3221920.00s] possible within 3 to six months, but
+- [3224160.00s] it's rare. Um, you know, there's one
+- [3226720.00s] example that my team and I worked on in
+- [3228480.00s] 2018 during the medic update. Um, we
+- [3230960.00s] actually won an award for this, like
+- [3232480.00s] best SEO campaign in the health space or
+- [3234559.00s] something. And the client, um, at first
+- [3237920.00s] they didn't even agree with our
+- [3240559.00s] approach. Um, and they actually stopped
+- [3243200.00s] working with us because their site was
+- [3244960.00s] burned so badly before that they like
+- [3246800.00s] they're like, "You know what? This is
+- [3248000.00s] going to take too long. It's going to
+- [3249119.00s] take too much hard work. We don't want
+- [3250160.00s] to do it." So, we're like, "Okay,
+- [3251760.00s] sorry." You know? Um, and then they came
+- [3254079.00s] back uh I think 3 to six months later
+- [3257280.00s] and literally wrote a letter and was
+- [3258640.00s] like, "We're really sorry. We we
+- [3260480.00s] understand now. You know, we want to do
+- [3262400.00s] things right." Um, and we we rebuilt the
+- [3265200.00s] website. We redirected a lot of things
+- [3267440.00s] to better versions of pages. We got rid
+- [3269680.00s] of lots and lots of content. They
+- [3271200.00s] completely upgraded everything and about
+- [3276319.00s] actually as soon as they launched the
+- [3278000.00s] site about a month later they actually
+- [3280000.00s] came back to where they were before. So
+- [3281280.00s] that whole process was about it was
+- [3282400.00s] about a year. Um so I think you're
+- [3285200.00s] looking at a year in many cases but
+- [3286880.00s] right now I would say that Google is
+- [3289040.00s] becoming even more strict. Like if you
+- [3290720.00s] look at the helpful content update it
+- [3291920.00s] took some of those sites two years. So,
+- [3294800.00s] you know, I tell people 6 months, but in
+- [3297040.00s] reality, it's often more like a year or
+- [3298960.00s] even two years.
+- [3300160.00s] >> When you're looking at a site, when do
+- [3301920.00s] you especially a site that has bloat?
+- [3305440.00s] When do you prioritize getting rid of
+- [3307359.00s] bloat before going after new
+- [3310319.00s] opportunities in search?
+- [3312640.00s] >> I think getting rid of bloat should
+- [3314000.00s] always be the first priority. I think
+- [3315760.00s] bloat um is a liability. If you think
+- [3318960.00s] about Google's um like perspective and
+- [3322160.00s] their goals, right? I think at one
+- [3325040.00s] point, I think it was like 2019, Google
+- [3326720.00s] said that 50% of the sites that they
+- [3330000.00s] crawl are like spam.
+- [3333119.00s] Think about how much crawling they're
+- [3334240.00s] doing and how much spam that is, right?
+- [3336319.00s] So, their incentive is to get rid of
+- [3338800.00s] spam and to elevate really good content.
+- [3340640.00s] If you're producing lots and lots of
+- [3342400.00s] content and that content is not great,
+- [3344160.00s] they're going to try to get rid of it
+- [3345200.00s] really fast, right? So, I think that's
+- [3347440.00s] why I'm very conservative now with my
+- [3348960.00s] approach to SEO. So I think if you do
+- [3350640.00s] have anything that could be considered
+- [3351920.00s] like bloat or even like spam, even if
+- [3354000.00s] you don't think it's spam, they might
+- [3355040.00s] think it's spam. So I am very much of
+- [3357839.00s] the mindset right now that less is more
+- [3359839.00s] in SEO. So if you have something like
+- [3362000.00s] that that could be dragging down the
+- [3363280.00s] quality of your site, you want to
+- [3364400.00s] address that before you start creating a
+- [3365839.00s] lot of new content.
+- [3366960.00s] >> Yeah, this is kind of a redundant
+- [3368559.00s] question, but it's I I like how this one
+- [3370559.00s] is phrased because especially about SEO
+- [3374640.00s] tactics that people don't talk about.
+- [3376160.00s] So, are there any SEO tactics that still
+- [3378960.00s] work incredibly well, but just like you
+- [3382079.00s] never hear people sharing, but they work
+- [3384000.00s] it works so well. Why aren't more people
+- [3385680.00s] sharing this?
+- [3387839.00s] >> Internal linking,
+- [3389359.00s] >> right?
+- [3389680.00s] >> Yeah. Oh, yeah.
+- [3390799.00s] >> Um, internal linking is something you
+- [3392720.00s] can just do forever, right? It's like
+- [3395119.00s] things that help search engines and
+- [3397599.00s] users simultaneously to navigate your
+- [3399599.00s] site. Conversion rate optimization,
+- [3402240.00s] right? Um,
+- [3403760.00s] >> yeah.
+- [3404640.00s] >> Yeah.
+- [3406079.00s] like there's no harm in putting a lot
+- [3409040.00s] more like I I don't even want to say eat
+- [3412480.00s] content because it's not right but like
+- [3413839.00s] more information about your authors and
+- [3416079.00s] your brand and your expertise and your
+- [3417680.00s] rewards and all this stuff like none of
+- [3419040.00s] that can hurt right so I think like just
+- [3420799.00s] investing in like really providing a
+- [3423280.00s] better experience and more trust signals
+- [3425680.00s] always help
+- [3426640.00s] >> yeah and I mean from an SEO perspective
+- [3428319.00s] when you're satisfying intent searchers
+- [3430480.00s] aren't pogo sticking that's a major
+- [3432559.00s] signal like
+- [3433599.00s] >> for sure
+- [3434319.00s] >> yeah
+- [3435200.00s] This is a really, really hard question
+- [3438000.00s] and I'm sure you've thought about it.
+- [3439839.00s] Are affiliate websites still viable long
+- [3442319.00s] term?
+- [3444160.00s] >> That's a definitely a hard question. Um,
+- [3446000.00s] and I I speak at I'm actually I spoke at
+- [3447839.00s] an affiliate conference in January and
+- [3449119.00s] I'm about to speak at one in March or
+- [3450880.00s] April as well. Um,
+- [3453520.00s] it's probably one of the hardest spaces
+- [3456079.00s] in SEO right now and one of the ones
+- [3458000.00s] that like for better for worse, Google's
+- [3459760.00s] really really really cracked down on,
+- [3461599.00s] you know, for obvious reasons. I think a
+- [3463119.00s] lot of people
+- [3464480.00s] you know, figured out that you can make
+- [3465839.00s] a lot of money really fast with product
+- [3467359.00s] review content. So, Google had to crack
+- [3468960.00s] down on product review content really
+- [3470480.00s] hard. Um, including many sites that
+- [3472319.00s] probably didn't deserve to get hit that
+- [3473599.00s] hard. There are examples, a very small
+- [3476559.00s] handful of examples, I would say, of
+- [3478160.00s] sites that I would consider to be doing
+- [3479599.00s] it right. And they're not 100% immune
+- [3481440.00s] from updates. Sometimes Google does like
+- [3483119.00s] reviews updates where even good sites
+- [3485200.00s] see declines and then they come back
+- [3486559.00s] with the next update. So I think
+- [3488240.00s] Google's always trying to get it right.
+- [3489599.00s] But like um there if you if you really
+- [3493040.00s] do approach it in the way that Google
+- [3494720.00s] also they also have guidelines around
+- [3496160.00s] review content. If you read those
+- [3497440.00s] guidelines and you can meet the criteria
+- [3499680.00s] of their guidelines and not fake it,
+- [3501119.00s] right? When Google says you need to show
+- [3504240.00s] evidence that you tried the products and
+- [3505839.00s] you tested the products, you know,
+- [3507359.00s] that's not like, oh, go into Claude and
+- [3509359.00s] tell Claude to like create fake
+- [3511440.00s] evidence. Like no, you have to show
+- [3512640.00s] evidence, right? You have to show
+- [3513680.00s] pictures and videos and everything. If
+- [3515359.00s] you can really approach it where it's
+- [3516480.00s] like, "Hey, I love running shoes and I
+- [3518480.00s] love running and I want to make a hobby
+- [3520559.00s] blog that literally shows me buying and
+- [3523119.00s] trying the shoes and talking about my
+- [3524640.00s] experience, I think there's a world in
+- [3526240.00s] which that can still work, but most
+- [3528000.00s] people don't want to do that level of
+- [3529200.00s] work." Yeah, it that's well actually um
+- [3532480.00s] this brings me to I have three questions
+- [3534079.00s] left and what you just said brings me to
+- [3535920.00s] the next question which is what are
+- [3538160.00s] areas in SEO SEO and GEO where people
+- [3542480.00s] just really lack common sense?
+- [3547280.00s] >> Um well right now with GEO I I don't
+- [3550400.00s] know if it's common sense I think it's
+- [3551760.00s] lack of experience. So, I think a lot of
+- [3554240.00s] people coming into the space right now
+- [3556000.00s] that are really excited about like
+- [3558640.00s] ranking in LLMs.
+- [3560799.00s] >> Um, that's to me like a really big area
+- [3563040.00s] right now where there's a lot of again,
+- [3565200.00s] I don't know if it's common sense, but
+- [3566400.00s] just lack of um understanding of how
+- [3568400.00s] things work. Um, but yeah, again, I
+- [3572480.00s] don't know if it's common sense. I think
+- [3573760.00s] most of this can be answered by just
+- [3575280.00s] like not having enough skin in the game
+- [3578559.00s] and not having enough history in the
+- [3580240.00s] space because all of us were young SEOs
+- [3582640.00s] once, right? All of us came in there and
+- [3585359.00s] for me I bought like some black hat
+- [3586880.00s] world and one day all my rankings
+- [3588319.00s] disappeared. I had no idea, right? So I
+- [3590799.00s] think it's l it's not lack of common
+- [3592000.00s] sense, it's just lack of experience.
+- [3593599.00s] >> Well, I think there are some areas where
+- [3594960.00s] it's lack of common sense. It's like uh
+- [3596960.00s] for example, spamming unreed AI content
+- [3601520.00s] on your site
+- [3603359.00s] >> like and and some people they they they
+- [3606240.00s] do it and they literally don't even know
+- [3608720.00s] that like there's a problem with it. Or
+- [3610559.00s] another example, just putting up a bunch
+- [3613040.00s] of like lazy but wellargeted content on
+- [3615680.00s] your site, not thinking that there might
+- [3617920.00s] be like a sitewide quality score. It's
+- [3620079.00s] like, of course, if if you people are if
+- [3623440.00s] searchers are pogo sticking on every
+- [3625200.00s] page, why is Google going to continue to
+- [3627599.00s] trust you enough to show you for new
+- [3629040.00s] pages that you put up?
+- [3630720.00s] >> And
+- [3631200.00s] >> yeah, I think people don't give Google
+- [3633440.00s] enough credit for being as sophisticated
+- [3635119.00s] as it is. I think a lot of people enter
+- [3636480.00s] the space and think they can get away
+- [3637680.00s] with things and they don't realize how
+- [3638799.00s] easy it is for Google to detect what
+- [3640319.00s] they're doing.
+- [3641920.00s] >> Yeah, that's what I'm saying. like every
+- [3644480.00s] and what's crazy too is it's like um and
+- [3647200.00s] I I don't know this kind of sounds mean
+- [3649040.00s] but I'm going to say it anyway. It's
+- [3650240.00s] like the people who who completely
+- [3653599.00s] underestimate Google are also the people
+- [3656000.00s] who are least likely to be able to
+- [3658559.00s] outsmart them. Do you know what I mean?
+- [3661280.00s] >> Yeah. I wouldn't ever try to approach
+- [3663440.00s] things by trying to outsmart Google. I
+- [3665520.00s] mean, I know different people do
+- [3666720.00s] different things, but if you care about
+- [3668240.00s] the long-term health of your site, I
+- [3669839.00s] wouldn't try that. If you're willing to
+- [3671599.00s] crash your site because things work for
+- [3673520.00s] three months and then it crashes, then
+- [3674799.00s] go for it. You know, different
+- [3677200.00s] >> and and silo property, silo domains in
+- [3680000.00s] Google Search Consoles. But but like
+- [3682319.00s] it's but it's it's the new SEOs. There
+- [3684640.00s] are there are sophisticated SEOs who are
+- [3686720.00s] like, "Yeah, yeah, Google's asleep and
+- [3688160.00s] we can do this and it but but actually
+- [3690160.00s] to your point, they are they are siloing
+- [3692880.00s] Google search consoles. They know that
+- [3695119.00s] they're turnurning and burning and like
+- [3696960.00s] they they completely know what they're
+- [3698400.00s] doing. All right, two questions left.
+- [3700640.00s] What advice would you give to somebody
+- [3702640.00s] starting SEO in 2026?
+- [3707119.00s] >> Well, you have to learn all the rules,
+- [3710160.00s] right? I know that AI can do a lot of
+- [3712000.00s] the thinking for you now, but I think
+- [3714400.00s] the thing that's going to differentiate
+- [3715760.00s] people that do SEO well from anybody
+- [3717520.00s] else that can open up Claude and Chachi
+- [3719040.00s] PT and ask it to what what SEO is,
+- [3721119.00s] right? like like you me like I spent
+- [3724640.00s] years years like
+- [3727359.00s] >> watching all the whiteboard Friday
+- [3729119.00s] videos and brand fishkin and going to
+- [3731359.00s] all the SEO conferences and asking all
+- [3733599.00s] the questions and learning from all
+- [3735040.00s] types of different people like you have
+- [3736559.00s] to put in the work right just because
+- [3738799.00s] it's not necessarily like a college
+- [3740640.00s] course that you can take or like a
+- [3742079.00s] degree that you can have it doesn't mean
+- [3743200.00s] you don't have to spend years mastering
+- [3745440.00s] the craft right so I think start I
+- [3748960.00s] always say start with Google's own
+- [3750240.00s] documentation Google has the search
+- [3751920.00s] central documentation. Read that, learn
+- [3754000.00s] that. Um, and there's a lot of other
+- [3756000.00s] really good courses out there. Even Moz
+- [3757599.00s] has like really good information. I
+- [3759280.00s] think as much as you it's tempting to
+- [3761359.00s] use AI to do everything, I think having
+- [3763520.00s] that knowledge will really help you long
+- [3765040.00s] term.
+- [3765680.00s] >> Yeah. Um, all right. Last question. If
+- [3768559.00s] you are starting a new site this this
+- [3771839.00s] month, this March, you're Lily Ray is
+- [3774720.00s] starting a brand new venture. What do
+- [3776799.00s] you what do you do to grow this new
+- [3778400.00s] site? And I may or may not be doing
+- [3780960.00s] exactly that, by the way. You'll see.
+- [3782559.00s] Um, but yeah, uh, I think number one,
+- [3788240.00s] um, I guess like the EAT method of like
+- [3791040.00s] for me, you know, if I'm starting
+- [3792480.00s] something and it's associated with me, I
+- [3793839.00s] luckily have kind of like that built-in
+- [3795440.00s] authority. But if you don't have that,
+- [3797280.00s] start building that. Um, you know, you
+- [3798799.00s] have your podcast, you know, you have a
+- [3800079.00s] lot of things that you're doing to like
+- [3802000.00s] create a name for yourself. I think that
+- [3803920.00s] you can extend that for any type of
+- [3806160.00s] business. So, it's like if you're a pest
+- [3809039.00s] control company, you know, I talked
+- [3810400.00s] about this in one of my EEAT talks a
+- [3812160.00s] long time ago. There was a a guy that
+- [3813920.00s] ran the business that loves pest control
+- [3815920.00s] for whatever reason, and he's the face
+- [3817200.00s] of the company, and he has a lot of
+- [3818720.00s] expert content on the blog, and he has
+- [3820400.00s] videos about how to remove pests from
+- [3822079.00s] your house. And it's like, think about
+- [3823839.00s] what how you can set yourself apart with
+- [3826480.00s] providing a lot of expert advice and
+- [3828079.00s] building a name for yourself as it
+- [3829920.00s] relates to the brand. Um, but then
+- [3831599.00s] beyond that, it's going to be having
+- [3833359.00s] really, really engaging, helpful,
+- [3834880.00s] whether it's like tools or assets or
+- [3836640.00s] information on your site that you can't
+- [3838559.00s] find elsewhere.
+- [3840720.00s] >> Yeah. Yeah. I I um for me it's it's
+- [3844960.00s] start by doing marketing that actually
+- [3846880.00s] gets referral traffic or or or direct or
+- [3850000.00s] people directly looking for the brand.
+- [3852000.00s] So, I actually I started a new venture
+- [3853920.00s] this month, too.
+- [3855280.00s] >> And uh how are we how are we launching?
+- [3857680.00s] We're launching on Product Hunt. We're
+- [3859200.00s] launching on beta list. We are do we are
+- [3862640.00s] crafting very tailored pitches to
+- [3865200.00s] journalists. We'll have a few pieces of
+- [3867920.00s] SEO content on the site just so like
+- [3869760.00s] eventually like as we're building
+- [3871280.00s] authority it starts ranking. But we are
+- [3873520.00s] doing things where we want humans to go
+- [3876319.00s] see this as soon as possible and to
+- [3878799.00s] actually grow like a trusted brand. And
+- [3881359.00s] when you do that yeah I mean you can
+- [3883839.00s] tell me but I think I think that also
+- [3885520.00s] grows SEO
+- [3887119.00s] >> 100%. all the brand signals and
+- [3889200.00s] everything and having search demand,
+- [3890799.00s] search volume, all of that leads to good
+- [3893280.00s] SEO results.
+- [3895359.00s] >> Thank you again, Lily Ray, for coming on
+- [3896960.00s] the podcast.
+- [3898160.00s] >> Thanks for having me. It was a lot of
+- [3899280.00s] fun.
+- [3899920.00s] >> Everybody knows where where they can
+- [3901440.00s] find Lily Ray, but if you don't know, if
+- [3903440.00s] this is somehow your first time hearing
+- [3907200.00s] about the legend, hearing about Lily, uh
+- [3910799.00s] what are the top places? X LinkedIn
+- [3914720.00s] threads.
+- [3915200.00s] >> Yeah. Well, um it's kind of like
+- [3918000.00s] relevant to what we talked about today,
+- [3919520.00s] but I'm very diversified across
+- [3921920.00s] different platforms. Um so I tell people
+- [3924799.00s] to Google my name and pick the platform
+- [3926400.00s] of their choice.
+- [3928400.00s] >> Okay. Uh Lily, thank you again for
+- [3931119.00s] coming on the show. For everybody who
+- [3933280.00s] watched this on YouTube, thank you so
+- [3934960.00s] much for watching. Whoever For everybody
+- [3936720.00s] who listened on Spotify or Apple
+- [3938480.00s] Podcast, thank you so much for
+- [3939599.00s] listening. This is episode 987
+- [3942720.00s] of the Edward Show. N Oh yeah. 987 days
+- [3946880.00s] in a row doing this podcast and I will
+- [3951440.00s] talk to you again tomorrow. Bye now.

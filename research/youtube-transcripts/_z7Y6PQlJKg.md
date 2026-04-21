@@ -1,0 +1,415 @@
+# YouTube Transcript
+
+- Source URL: https://www.youtube.com/watch?v=_z7Y6PQlJKg&t=64s
+- Language: en
+
+## Transcript
+
+- [0.00s] Tools like Chat, GPT, and Claude are
+- [1920.00s] telling your customers to go and buy
+- [3600.00s] your competitor's products or services,
+- [5839.00s] and you don't even know it. Today, I'm
+- [8080.00s] going to give you the master class and
+- [10240.00s] how to transform how you are found and
+- [12719.00s] recommended in AI search engines.
+- [17119.00s] You can't wait any longer. Chat, GBT,
+- [18880.00s] and Claude are out there recommending
+- [20560.00s] your competitors instead of you, and
+- [22560.00s] you're losing business because of it.
+- [24080.00s] That all changes today. On today's show,
+- [26400.00s] I'm going to walk you through how to do
+- [28000.00s] an audit of how you appear on AI search
+- [30640.00s] engines. I then am going to walk through
+- [32239.00s] the best practices to change and
+- [34719.00s] increase the amount of recommendations
+- [36559.00s] you get across Claude, Chat, GPT,
+- [38879.00s] Perplexity, and Google Gemini. And then
+- [40960.00s] I'm going to walk you through a case
+- [42160.00s] study of how to actually apply those
+- [43920.00s] best practices so you know exactly how
+- [46640.00s] to do them once you finish watching
+- [48399.00s] today's episode. Okay, let's get right
+- [50399.00s] into it. So, for the purpose of today's
+- [52640.00s] show, I'm going to use some queries that
+- [55840.00s] typical buyers would use. Something
+- [57760.00s] that's very typical that would be asked
+- [59440.00s] for is what is the best CRM for a 200
+- [61760.00s] person B2B SAS company that's scaling
+- [64320.00s] from SMB to mid-market. We need
+- [66560.00s] something our sales and marketing teams
+- [68400.00s] can both use. Traditional Google search
+- [70720.00s] used to get a list of 10 links. Now, in
+- [73760.00s] AI search, what you're seeing is the AI
+- [77200.00s] is giving real indepth recommendations.
+- [80560.00s] See, look, it doesn't even start with
+- [82240.00s] any companies, right? What actually
+- [84080.00s] matters? This is AI setting the stage
+- [87840.00s] for what you should value and actually
+- [89840.00s] setting the evaluation criteria for your
+- [91920.00s] product or service, not you. Fortunately
+- [94799.00s] for me, in this particular case, HubSpot
+- [97680.00s] CRM came in as the number one best
+- [101280.00s] overall option in this case. What's
+- [104560.00s] challenging now is that these questions
+- [106799.00s] are being asked across different search
+- [109280.00s] engines and across different AI engines.
+- [112000.00s] You've got that same exact prompt.
+- [114159.00s] HubSpot is the most natural fit for that
+- [116640.00s] profile, a 200 person B2B SAS company.
+- [119600.00s] Salesforce, Microsoft Dynamics, Fresh
+- [122159.00s] Sales, and Zoho. So, you're seeing a
+- [124479.00s] very different kind of response, similar
+- [127759.00s] companies, but not the exact same. And
+- [130319.00s] these companies are positioned in
+- [132720.00s] different ways. The reasons that the AI
+- [135760.00s] is giving is very different. And AI is
+- [138319.00s] getting this information from your
+- [139840.00s] website, from Reddit, from ranking and
+- [143280.00s] review websites, from LinkedIn, from
+- [146400.00s] YouTube, all of these sources. So you,
+- [149280.00s] your customers, and your community are
+- [151280.00s] really determining what AI is saying
+- [153440.00s] when they're answering this response.
+- [155599.00s] And you'll see that these results really
+- [158239.00s] differ. Like this is perplexity. Same
+- [160560.00s] question and perplexity. You now have a
+- [164160.00s] whole different set of how the
+- [166319.00s] information is portrayed. Again, still
+- [167840.00s] HubSpot, Salesforce, and Zoho, but why
+- [170720.00s] the recommendations are what they are
+- [172720.00s] continue to change. And if we go over to
+- [174959.00s] Google search, Google search is now
+- [176959.00s] moved very heavily to what's called AI
+- [179440.00s] mode. And so what you'll see is that
+- [181599.00s] same question in Google search is
+- [184080.00s] running through Google's Gemini models
+- [186319.00s] and it's going to give its own
+- [188480.00s] recommendation. But again, very
+- [190959.00s] different set of customers, very
+- [193280.00s] different set of reasoning depending on
+- [196080.00s] which tool you go and ask these
+- [198080.00s] questions in. The trick is for your
+- [200400.00s] company, there are a whole host of
+- [202560.00s] questions people answer. At HubSpot, we
+- [205760.00s] just launched an awesome tool to help
+- [207360.00s] you track and manage all of this. It's
+- [209040.00s] called HubSpot AO. You can click the
+- [210720.00s] link in the description below to try it
+- [212560.00s] for free. But today, I want to show you
+- [214799.00s] what you can do to get your team or your
+- [218319.00s] CEO bought into this is a problem that
+- [220879.00s] your company needs to solve in your
+- [222640.00s] marketing. So, you obviously want to
+- [225519.00s] change how you're getting recommended
+- [227200.00s] across all of these AI engines. You see
+- [231040.00s] similar but yet very different responses
+- [233680.00s] across the four major AI engines that I
+- [237360.00s] just showed you. What I want to walk you
+- [239840.00s] through is what this looks like. Before
+- [243599.00s] I recorded, I had a series of five
+- [246720.00s] questions that I went and asked all
+- [249439.00s] these AI engines. Took all the answers
+- [251120.00s] and put them in one page so it' be easy
+- [252879.00s] for us to all go through it. We sell
+- [254799.00s] marketing platforms. So you can see from
+- [257840.00s] a marketing platform perspective, hey,
+- [259759.00s] we're evaluating marketing automation
+- [261199.00s] platforms. We have a 12person marketing
+- [262880.00s] team run inbound and outbound and need
+- [265040.00s] strong reporting. What should I be
+- [267040.00s] looking at?
+- [268320.00s] And it shows you across chat GPT the
+- [271440.00s] response led with HubSpot. Okay, cool.
+- [274720.00s] Led with HubSpot across all of them.
+- [277759.00s] That's interesting. But something
+- [279600.00s] changes very drastically here. When I
+- [282080.00s] get to customer service platforms, which
+- [284240.00s] we have an amazing customer service
+- [285759.00s] product. It's used by tens of thousands
+- [288320.00s] of businesses. We see a whole host of
+- [291919.00s] different competitors and we see the
+- [293759.00s] results change drastically. So chat GPD
+- [296800.00s] says Zindesk. You've got Claude saying
+- [300479.00s] Zenesk and Intercom and their Finn
+- [302560.00s] product. And HubSpot's way down the list
+- [306080.00s] and it's kind of like an add-on. If like
+- [308240.00s] you're a HubSpot customer, you should
+- [309759.00s] consider it. Google Gemini again is
+- [313680.00s] thinking about Zenesk, Salesforce,
+- [316000.00s] Intercom Jira Perplexity Zenesk
+- [319360.00s] Intercom, Fresh Desk, HubSpot. So
+- [322800.00s] clearly we're not showing up how we want
+- [325520.00s] to be in this particular topic. We view
+- [328720.00s] ourselves as a leader in customer
+- [330639.00s] service software. So to be positioned
+- [333520.00s] behind these other companies is a big
+- [335440.00s] concern. What I'm trying to show you
+- [337520.00s] here is that you can ask more complex
+- [340800.00s] questions because remember in the old
+- [342720.00s] days of Google search you would just
+- [344320.00s] have a couple words that you were
+- [345919.00s] looking up. Now people are putting in
+- [348320.00s] sentences, multiple sentences,
+- [349919.00s] paragraphs around their situation and
+- [352240.00s] trying to get more advanced and more
+- [354240.00s] personalized recommendations. And so
+- [357039.00s] it's like we are currently using
+- [358160.00s] Salesforce but it's too expensive and
+- [359680.00s] too complex for our team. What are the
+- [361520.00s] best alternatives for a mid-market
+- [363280.00s] company? This is again something lots of
+- [366080.00s] people would ask as they were going
+- [368319.00s] forth and looking. Obviously, again, you
+- [370720.00s] can go and track all of this in HubSpot
+- [372240.00s] AO and we'll run these prompts for you
+- [374479.00s] every day and show you how your results
+- [377199.00s] are changing every day. We just dropped
+- [379360.00s] our AEO playbook. This is the exact
+- [381919.00s] strategy we use at HubSpot to make it
+- [384240.00s] the number one most visible CRM in AI
+- [386960.00s] search. It breaks down the five
+- [388800.00s] decisions that determine whether you
+- [390400.00s] show up in AI answers and gives you a
+- [392880.00s] sevenstep workflow to actually execute
+- [395120.00s] it. Get it for free. scan the QR code or
+- [398160.00s] click the link in the description. You
+- [400080.00s] should go and come up with these same
+- [402720.00s] prompts for your business. You can even
+- [404479.00s] ask claude chat GBT, your AI tool of
+- [407759.00s] choice. Say, "Hey, this is my business.
+- [409919.00s] Research my business." And based on
+- [411360.00s] that, give me 10 of the most likely
+- [413840.00s] prompts my buyers are searching to find
+- [416800.00s] answers related to my product or
+- [418479.00s] service. And it will go and give you
+- [420639.00s] those 10 prompts back. And you can do
+- [423039.00s] exactly what I did. You can go one to
+- [424720.00s] one and you can search them and you can
+- [426639.00s] see how you show up and you can compile
+- [428720.00s] a report. I made a web page. You could
+- [430400.00s] do a PDF, whatever you want. And you
+- [432000.00s] would go and show that to your team, to
+- [434319.00s] your boss, to your CEO, whomever is
+- [436800.00s] appropriate depending on the size of
+- [438240.00s] your company and say, "We have some real
+- [440479.00s] big gaps relative to what our buyers are
+- [442960.00s] asking and how we're showing up." And we
+- [445440.00s] have to close those gaps. So many
+- [447919.00s] businesses are not yet participating in
+- [451199.00s] how they show up in these AI search
+- [453280.00s] engines. And we have data that over half
+- [455840.00s] of buyers are now using these tools to
+- [458800.00s] make complex buying decisions to do
+- [461120.00s] research to build their consideration
+- [462880.00s] set. So if you're not showing up here,
+- [464960.00s] you're going to be left behind and your
+- [466479.00s] buyers are going to get pointed to one
+- [468000.00s] of your competitors. So, I strongly
+- [470639.00s] recommend you get a set of prompts, you
+- [472960.00s] take those, you search them through, and
+- [475840.00s] you actually compile a report of what
+- [477599.00s] that might look like. Again, you can use
+- [479120.00s] the HubSpot AO tool below. If you want
+- [481120.00s] to automate all of that, there's a 28day
+- [483440.00s] free trial, and you can put this all
+- [485280.00s] together for free there as well. Okay,
+- [488160.00s] let's say you have this and you've done
+- [490240.00s] the work for your business just like I
+- [492000.00s] have here. And let's go back to question
+- [494319.00s] number three because again question
+- [496240.00s] number three we do not like how we are
+- [498960.00s] showing up. So how do these AI search
+- [501520.00s] engines get these answers? So when it
+- [503520.00s] comes to ranking better in these AI
+- [506000.00s] search engines you've got a few things
+- [507919.00s] that matter in traditional Google
+- [509759.00s] search. It used to be about backlinks.
+- [511599.00s] Now it's about brand mentions. Do you
+- [514000.00s] have consensus? If the AI is out there
+- [517039.00s] looking at the conversations online, are
+- [519200.00s] they going to see that you have
+- [520159.00s] authority and strength and a high
+- [522560.00s] density of mentions for your brand? And
+- [524399.00s] you drive this through PR and earned
+- [526399.00s] media, if you go on podcasts, if you
+- [529279.00s] participate in communities like Reddit
+- [531360.00s] and G2 and LinkedIn, and do you have a
+- [534320.00s] guest content strategy where you're
+- [535760.00s] publishing content on other sites where
+- [537519.00s] people might be able to discover you.
+- [539519.00s] The second thing you can do is these
+- [542399.00s] review platforms like Yelp, Google
+- [545200.00s] reviews, anything that's a review
+- [546720.00s] platform has a lot of AI authority
+- [549200.00s] because it has a lot of contextual
+- [551440.00s] information that your buyers are giving
+- [554959.00s] and putting out there that the AI
+- [556560.00s] engines can go look at, see if it
+- [559040.00s] applies to the question that they're
+- [560480.00s] getting, and go ahead and put what those
+- [562240.00s] buyers are saying and use that to inform
+- [564880.00s] their given response. So, if you're not
+- [567600.00s] participating on review sites, it's a
+- [569200.00s] big opportunity. You can run a campaign
+- [571760.00s] with your customers to generate more
+- [573279.00s] reviews, incentivize them to get more
+- [574959.00s] reviews. Engage with and respond with
+- [577839.00s] every review. And if there's something
+- [580080.00s] you want to reframe, your response can
+- [581839.00s] be helpful to reframe that issue as the
+- [584800.00s] AI goes and looks through it. And you
+- [586720.00s] want to make sure that your business and
+- [588240.00s] your products are in the right
+- [589440.00s] categories that you are represented in
+- [592080.00s] the right way so that when AI goes and
+- [594000.00s] looks at them they'll know what your
+- [596000.00s] product is and what you're actually
+- [597680.00s] trying to do. Now the third thing here
+- [600240.00s] is that domain authority has a threshold
+- [603360.00s] which means that you have to do some
+- [606320.00s] work to actually build your own
+- [608160.00s] authority and that means you got to
+- [610399.00s] publish original research. You have to
+- [612320.00s] build free tools that people might link
+- [613920.00s] back to and send some authority back to
+- [616240.00s] you. You want to partner for editorial
+- [618480.00s] placements. We talked a little bit about
+- [620160.00s] that. And also, if there's anybody
+- [622880.00s] linking back to your site and they're
+- [624560.00s] going to broken links or 404 pages where
+- [627200.00s] it's a dead end, and an AI might look at
+- [628959.00s] that and be like, "Oh, well, I thought
+- [630480.00s] these people were a fit for this, but it
+- [633279.00s] goes back to this dead-end page. There's
+- [635440.00s] no context. I'm going to move on to the
+- [637120.00s] next thing." You want to fix those
+- [639120.00s] problems to make sure that the AI bots
+- [642000.00s] have the full context of what you're
+- [643760.00s] trying to do. So, I'm going to give you
+- [646000.00s] a specific example relative to that
+- [647760.00s] query in just a second, but if I were
+- [649360.00s] you, what would I do Monday morning to
+- [652320.00s] actually transform and change how you
+- [655279.00s] show up in AI search engines? Earlier in
+- [657760.00s] the show, I told you about this query.
+- [660720.00s] What are the best customer service
+- [662160.00s] platforms for a B2B company doing about
+- [664240.00s] 50 million revenue? We want AI powered
+- [666480.00s] ticker resolution but don't want to rip
+- [668320.00s] out our whole stack. So I did a summary
+- [671839.00s] here of like we're conditional. We are
+- [675600.00s] included across all four but like not
+- [678480.00s] really the number one choice. Zindesk is
+- [680480.00s] currently the number one choice and
+- [682480.00s] intercom's two the second choice on
+- [685519.00s] three out of the four. And the root
+- [687680.00s] cause is that AI models have learned to
+- [689920.00s] describe HubSpot ServiceHub, which is
+- [691760.00s] our customer service product, as a CRM
+- [693920.00s] add-on, not a standalone service
+- [696240.00s] platform. The product is being cited for
+- [698399.00s] ecosystem fit, not for service depth.
+- [701360.00s] That's a positioning problem, not a
+- [703120.00s] product problem. I think this is a great
+- [704800.00s] way to think about this. How you
+- [706800.00s] position and tell the stories around
+- [708959.00s] your products are really going to drive
+- [711200.00s] how you show up in these AI engines and
+- [714000.00s] how they tell your stories on your
+- [715680.00s] behalf. And so I put a little plan
+- [718079.00s] together here of things that you would
+- [719600.00s] actually do. So the first thing to do is
+- [722560.00s] understand how they describe us. So
+- [724720.00s] we've done that work and we'd probably
+- [726160.00s] want to do a few other prompts. The next
+- [728000.00s] thing you want to do is exactly what
+- [729519.00s] we'd say. You want to go and do some
+- [732639.00s] work on the review platforms. In our
+- [734560.00s] case, it would be G2.com, Capterra,
+- [737040.00s] Trustpilot, and we want to audit
+- [739760.00s] ServiceHub's G2 category listing. Ensure
+- [742079.00s] that it appears under help desk
+- [743440.00s] software. If this is a category we want
+- [745760.00s] to be a part of customer service
+- [747519.00s] software, AI customer service software,
+- [750160.00s] we want to launch a targeted review
+- [751760.00s] campaign like I said to get more
+- [753519.00s] customer reviews. Created a dedicated
+- [756639.00s] trust pilot response cadence so that we
+- [759279.00s] would be able to respond and engage in
+- [761440.00s] real time. These are going to make big
+- [763920.00s] changes in how we show up in these
+- [765360.00s] review sites. And these review sites are
+- [767200.00s] going to inform how we show up in those
+- [768959.00s] AI search engines. We then need to think
+- [771839.00s] about how we are mentioned along for
+- [774639.00s] this specific topic. So we could have
+- [777519.00s] publish a dedicated page around HubSpot
+- [780160.00s] servicehub versus zenesk on hubspot.com
+- [782880.00s] which is going to be a very valuable URL
+- [785040.00s] because that's going to tell the LLMs
+- [787600.00s] chatgpt etc that oh this is what
+- [790480.00s] HubSpot's perspective of these two
+- [792560.00s] products and how they compete against
+- [794240.00s] each other. You want to do some PR? Can
+- [796480.00s] we get some more traditional public
+- [799360.00s] relations and earn media around this
+- [801200.00s] product? Can we get some data to show
+- [803519.00s] how our customers are using the product
+- [805600.00s] to understand the state of AI so we can
+- [807680.00s] get some credibility for being a really
+- [809680.00s] great AI customer service product? These
+- [812560.00s] are all things that are going to change
+- [814320.00s] how we show up in these individual
+- [817120.00s] responses. Then the last thing you're
+- [820320.00s] going to want to do is basically change
+- [823600.00s] what the AI models how they learn about
+- [825680.00s] our product. And so that's fixing the
+- [827760.00s] product page. Create customer stories
+- [830399.00s] specifically around this subject, this
+- [833839.00s] search query around ServiceHub. We want
+- [836800.00s] to develop a cost of complexity
+- [838720.00s] calculator. If you create free tools and
+- [841199.00s] calculators, you get more links and more
+- [842880.00s] authority and you're going to change. So
+- [844240.00s] we could for example create a cost of
+- [846480.00s] complexity calculator to actually get
+- [849360.00s] more authority on this topic and be seen
+- [852320.00s] as a leader in the customer service
+- [854560.00s] space. So these are real actionable
+- [857519.00s] things that we can go do over the next
+- [859360.00s] few weeks to change how we show up. And
+- [863120.00s] you can literally take this episode for
+- [866880.00s] the gaps that you've identified and use
+- [870000.00s] the same methodology to figure out what
+- [872240.00s] your action items can be to actually fix
+- [874639.00s] how you show up in chat GBT and Claude
+- [877600.00s] and Gemini and Perplexity. Your
+- [879440.00s] customers are out there. They're looking
+- [881360.00s] and using AI more than ever to make
+- [883680.00s] buying decisions. And you want to be a
+- [886160.00s] part of that. And you want to not just
+- [887920.00s] be mentioned, but you want to be
+- [889360.00s] mentioned correctly and well relative to
+- [892000.00s] your product, your service, and what
+- [893440.00s] you're trying to accomplish. This is, I
+- [895519.00s] believe, one of the biggest marketing
+- [896959.00s] opportunities of 2026. And I think it is
+- [899920.00s] critical that everybody get started on
+- [901680.00s] this right away. I hope that you found
+- [903440.00s] this really helpful. You can use HubSpot
+- [905199.00s] AO if you want to automate a lot of that
+- [907279.00s] link to start a free trial down below in
+- [909920.00s] the description or you can check out
+- [911120.00s] that QR code on the screen above. And
+- [913440.00s] I'll be with you real soon on Marketing
+- [915199.00s] Against the Grain.
+- [917279.00s] This data is wrong every freaking time.
+- [920240.00s] >> Have you heard of HubSpot?
+- [922399.00s] HubSpot is a CRM platform where
+- [924240.00s] everything is fully integrated.
+- [925680.00s] >> Whoa, I can see the client's hold
+- [927120.00s] history. Calls, support tickets, emails,
+- [929600.00s] and here's a task from 3 days ago I
+- [932480.00s] totally missed.
+- [934480.00s] >> HubSpot. Grow better.

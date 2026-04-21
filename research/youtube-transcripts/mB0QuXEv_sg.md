@@ -1,0 +1,310 @@
+# YouTube Transcript
+
+- Source URL: https://www.youtube.com/watch?v=mB0QuXEv_sg
+- Language: en
+
+## Transcript
+
+- [80.00s] Today I want to share the number one
+- [1920.00s] ranking factor for AI search. And no, it
+- [5279.00s] is not just SEO. So you've probably seen
+- [7680.00s] that floating around that if you just do
+- [9599.00s] good SEO, you're going to perform really
+- [11759.00s] well in AI search. That is true
+- [14320.00s] sometimes. I'm going to show you
+- [15519.00s] scenarios where that is true. But
+- [16880.00s] there's also many other scenarios where
+- [19279.00s] that is actually not true. And there's
+- [20800.00s] something that matters way more than
+- [22400.00s] anything else. So let's dive right into
+- [24160.00s] it. So what we're looking at here is
+- [26320.00s] actually the results from HubSpot. So
+- [28640.00s] HubSpot's going to be the example that
+- [30320.00s] I'm going to be showing today. And on
+- [32000.00s] the left hand side, we can see HubSpot
+- [33920.00s] performs exceptionally well across
+- [36719.00s] almost every AI platform. Okay, so they
+- [39680.00s] show up almost every single time. Do
+- [41680.00s] that you search anything related to best
+- [43520.00s] CRM. Okay, that's that core seed. They
+- [46160.00s] show up a lot. All right, then we look
+- [48320.00s] over here though. This is where things
+- [49520.00s] start to get really fascinating. You can
+- [51520.00s] see traditional search rankings, they do
+- [53760.00s] very well there, but then they do really
+- [55920.00s] well on AI mentions. and then once again
+- [58399.00s] invisible in AI citations. So why what
+- [61760.00s] is this weird disconnect going on? How
+- [63440.00s] can they be doing so well as far as
+- [65360.00s] getting their brand mentioned in AI
+- [66880.00s] answers but they're they're not showing
+- [69600.00s] up basically as an AI citation at all.
+- [71920.00s] So this I would argue is 100 times more
+- [76080.00s] important for your AI visibility than
+- [77759.00s] only doing SEO on your website. So let's
+- [80640.00s] talk about it which is is your brand
+- [83759.00s] mentioned on the core sources of
+- [86240.00s] retrieval. Okay, so what we're looking
+- [87840.00s] at here, these are the AI citations I
+- [89680.00s] pulled for one single keyword phrase,
+- [92079.00s] which is best CRM. Ran that across all
+- [94560.00s] the AI platforms, and we're able to see
+- [97280.00s] extract all the citations from all of
+- [99759.00s] those AI answers across all the
+- [101360.00s] platforms. And then what we do is we go
+- [103840.00s] and we scan all of these pages that are
+- [105920.00s] showing up as the core citations and we
+- [108159.00s] see is that brand actually mentioned
+- [110000.00s] there. And the crazy part is that
+- [111439.00s] HubSpot was actually their own domain,
+- [113759.00s] wasn't even one of those citations. But
+- [116399.00s] this is where things get really
+- [117680.00s] fascinating is among all of these
+- [120479.00s] citation sources, HubSpot is mentioned
+- [124320.00s] 89% of the time. That means out of
+- [127360.00s] these, I think there about 50 citations
+- [129280.00s] we extracted just for this one
+- [130800.00s] particular query. But that means they
+- [132800.00s] showed up on these citation sources 89%
+- [135920.00s] of the time. Okay, this is what
+- [138959.00s] influences the AI answers. If your brand
+- [142080.00s] continually shows up on the core sources
+- [144400.00s] of retrieval, you are almost guaranteed
+- [147840.00s] to show up in the AI answers. It's
+- [150160.00s] really not magic. It is actually that
+- [152239.00s] simple. Okay? And we can see this.
+- [153440.00s] There's actual data to prove this. 89%
+- [156800.00s] brand coverage on the citations. Okay.
+- [159680.00s] But here's where things get really
+- [160879.00s] fascinating. This is where we get a
+- [162319.00s] little bit different compared to what
+- [163599.00s] the how things used to be with SEO is
+- [166560.00s] 72% of the brand mentions are unlin.
+- [169599.00s] Okay? Okay, so we can go back and look
+- [170720.00s] at this. HubSpot is being mentioned on
+- [172959.00s] these pages, but they're not even
+- [174560.00s] getting a link and it's still
+- [175920.00s] influencing the AI. We know that this is
+- [178080.00s] true. And in fact, it's so extreme that
+- [180400.00s] you don't even need a link. But let's
+- [181760.00s] say you do have a link. That link can be
+- [183760.00s] no follow. It can be sponsored. It could
+- [185840.00s] have the sponsor tag on it. It doesn't
+- [188080.00s] make a difference. AI doesn't
+- [189760.00s] discriminate when it comes to this. So
+- [192159.00s] once again, this proves that it's about
+- [195599.00s] getting your brand covered on those core
+- [198239.00s] sources of retrieval. So, I'll show you
+- [199920.00s] how you can do this here in a second,
+- [201280.00s] but this is the most important takeaway
+- [202720.00s] this whole video. Let's say you're an
+- [203680.00s] OHubspot and you're not performing at
+- [205680.00s] this level, okay? And you want to you're
+- [208080.00s] a brand new business. You want to start
+- [209440.00s] getting more coverage in AI answers.
+- [211760.00s] There's actually a formula you can use.
+- [213440.00s] You just extract the citations for your
+- [215440.00s] most important commercial keywords and
+- [217519.00s] then you that becomes your prospect
+- [219200.00s] list. Okay? So, when you're looking at
+- [221040.00s] this, normally if it's a brand new
+- [222959.00s] business, opportunities over here would
+- [224959.00s] be quite wide, right? you have a lot of
+- [226799.00s] opportunities because you likely don't
+- [228239.00s] have brand coverage on any of the
+- [230239.00s] citations. So then we're going to de
+- [232000.00s] develop a plan and we're going to try to
+- [233680.00s] get our brand mentioned on these core
+- [236319.00s] sources of retrieval. Okay, couple kind
+- [238720.00s] of little nuances here. The first thing
+- [240640.00s] is obviously HubSpot is competing in one
+- [243040.00s] of the most competitive industries on
+- [244879.00s] the internet, which is CRM. Highly
+- [247040.00s] competitive, tons of capital being
+- [250000.00s] deployed in this industry. HubSpot is a
+- [252879.00s] billion-dollar business. There's just a
+- [255200.00s] lot of money flowing in here. There's a
+- [256720.00s] lot of competition. So, what we have
+- [258400.00s] found when we have studied AI answers
+- [260639.00s] and AI citations over and over that in
+- [264000.00s] high competition verticals, earned media
+- [267040.00s] is even more important. Okay? You can do
+- [269680.00s] really well with your owned assets, your
+- [271520.00s] website, your YouTube channel, your ex,
+- [274000.00s] LinkedIn, whatever it is. You could be
+- [276240.00s] absolutely crushing it. And yes, it you
+- [279440.00s] can be used as a source of retrieval,
+- [281440.00s] but at the end of the day, you're just
+- [283199.00s] one. you are just one source of
+- [285040.00s] retrieval. The AI is not just going to
+- [287040.00s] pick one, right? That's not the way that
+- [288800.00s] these platforms work. When retrieval is
+- [291360.00s] used, they are retrieving. They are
+- [293759.00s] going and finding many different
+- [295680.00s] sources, many. And sometimes it can be
+- [298800.00s] 10, sometimes it could be a hundred just
+- [301360.00s] depending on which thinking model you're
+- [303440.00s] using. But for high competition
+- [305680.00s] verticals, your focus on earned media
+- [308639.00s] has to be the like almost all of your
+- [310479.00s] attention has to be focused on getting
+- [312080.00s] the brand mention on third party
+- [314160.00s] sources. Right? That simple as that.
+- [316080.00s] Now, as we progress down the competition
+- [318639.00s] ladder, we see that earned media becomes
+- [321520.00s] slightly less important and your owned
+- [324560.00s] assets can actually assert more
+- [326800.00s] influence on the AI platforms. We have
+- [328800.00s] seen this over and over. And then as we
+- [330560.00s] progress down even further to low
+- [332479.00s] competition, it actually the equilibrium
+- [334960.00s] kind of gets centered. So we have earned
+- [337919.00s] media and owned assets with equal levels
+- [340160.00s] of influence. And the reason is and this
+- [342720.00s] is just based on data, right? When we
+- [344240.00s] look at local queries, local commercial
+- [346320.00s] queries. So we're talking best plumbers
+- [348240.00s] in Chesterfield, Missouri. You'll often
+- [350560.00s] find that the actual businesses that are
+- [353600.00s] competing in, let's say, Chesterfield,
+- [355919.00s] they tend to be used as a source of
+- [357680.00s] retrieval quite often. And it's not
+- [360000.00s] these earned media outlets that are
+- [362479.00s] winning in those citations. Like I said,
+- [364880.00s] it's based on competition. So higher
+- [367199.00s] competition, much more focus on third
+- [370080.00s] party earned media. As we go middle, now
+- [372960.00s] we can start to we can still leverage
+- [374479.00s] our owned assets a lot more. And then
+- [376800.00s] low competition, do both, right, in
+- [379360.00s] equal amounts. So it is okay to continue
+- [381360.00s] to focus on your website, your brand,
+- [382960.00s] your owned assets. You can get great
+- [384880.00s] effects from doing that. But this is not
+- [386560.00s] new and offsite has always mattered more
+- [389680.00s] than on-site. And I've seen this be the
+- [392720.00s] case prior to AI platforms being here.
+- [394800.00s] So I've conducted hundreds and hundreds
+- [396639.00s] of SEO audits over the last decade of
+- [398560.00s] doing this. And I can tell you that when
+- [401919.00s] we do these audits, more times than not,
+- [404479.00s] when there's a lack of performance, you
+- [406240.00s] can almost always just begin by looking
+- [408160.00s] off site before you even look at the
+- [409680.00s] site. And more times than not, they have
+- [412720.00s] poor backlinks, really low quality, or
+- [415680.00s] they literally just lack back links
+- [417520.00s] altogether. They have a really weak
+- [419520.00s] anchor text profile, really weak
+- [421919.00s] backlink profile, and so they're not
+- [424560.00s] able to perform the way that they need
+- [426240.00s] to because they just lack the external
+- [428560.00s] signals that actually build trust. You
+- [431599.00s] can focus on your website all day and
+- [433440.00s] write content all day and say you're the
+- [435280.00s] best, but it is not going to influence
+- [437520.00s] these platforms. Okay? Especially as
+- [439680.00s] that competition ladder climbs, the less
+- [442319.00s] your brand is going to be able to
+- [444080.00s] influence the AI. Okay? So, it's very
+- [446960.00s] important that when you begin any SEO
+- [449280.00s] campaign, any AI SEO campaign, AEO, GEO,
+- [452720.00s] whatever you want to call it. Okay? Your
+- [454400.00s] goal is to influence the AI platforms.
+- [456160.00s] Your goal is to get your brand in the AI
+- [457840.00s] answers. If that's your goal, then you
+- [460880.00s] have to really begin frontloading your
+- [463680.00s] offsite work. Okay? Don't leave that on
+- [466639.00s] later for 3, four, 6 months later into
+- [469440.00s] the campaign. You need to begin doing
+- [471199.00s] off-site work from day one. Day one, you
+- [474639.00s] begin that process of marketing your
+- [476720.00s] brand. Okay? It is that simple, but it
+- [479360.00s] is definitely not easy. Okay? And we
+- [481919.00s] need to stop doing random link building.
+- [483680.00s] All right? So, there is a time and place
+- [485440.00s] to continue to do traditional link
+- [487199.00s] building to grow your site authority.
+- [488960.00s] that still matters because obviously if
+- [490479.00s] you want your website to be one of those
+- [492400.00s] core sources of retrieval, you need to
+- [494639.00s] probably rank well in traditional
+- [496080.00s] search. And to rank well in traditional
+- [497919.00s] search, backlinks are one of the most
+- [499759.00s] important ranking factors. So this still
+- [502400.00s] matters, right? You should still keep
+- [504080.00s] doing it, but you need to layer in the
+- [506560.00s] focus on citations. You need to extract
+- [509759.00s] all those citations and you need to make
+- [511440.00s] those your prospects even if no links
+- [514080.00s] are even involved. Okay? Just getting
+- [515839.00s] your brand mentioned. So like I
+- [518080.00s] mentioned this is simple but not easy.
+- [520719.00s] What I'm describing it is very simple.
+- [523519.00s] It is proven to work but the execution
+- [526399.00s] is where things get a little bit tricky.
+- [528240.00s] So number one you want to identify
+- [531680.00s] commercial topics. Okay commercial
+- [533920.00s] topics. Don't doformational topics. If
+- [535839.00s] you try to runformational queries in AI
+- [537760.00s] platforms you're just you're not going
+- [539040.00s] to see a lot of brands popping up. So
+- [540880.00s] you got to focus on the commercial
+- [542160.00s] query. So in this particular example
+- [544080.00s] that I showed earlier, best CRM is that
+- [546800.00s] core seed. So you can build out prompts
+- [549200.00s] related to that core seed and then run
+- [551120.00s] those in the AI platforms. Okay. Then
+- [554000.00s] what you're going to do is you're going
+- [555680.00s] to look at the AI answers. We're going
+- [557839.00s] to create AI answers across chat GBT,
+- [560480.00s] Google's AI mode, Google AI overviews,
+- [564000.00s] Google Gemini, Perplexity, Grock,
+- [567200.00s] Claude, all of them. Okay? all platforms
+- [570080.00s] you should do it because they all
+- [571600.00s] produce slightly different answers and
+- [574320.00s] they all produce different citations.
+- [576880.00s] You will see some citations duplicated
+- [579440.00s] across many of these platforms, but a
+- [582640.00s] lot of the time you're going to get a
+- [583839.00s] really diverse mix of citations, which
+- [586160.00s] is exactly what you want. Then from
+- [588480.00s] there, you build this whole bucket of
+- [590480.00s] citations, put them into a Google sheet,
+- [592640.00s] and then you want to start to build a
+- [595519.00s] marketing plan for the top citations. So
+- [598160.00s] look at the citations that are used
+- [600640.00s] across almost all these AI platforms. So
+- [602720.00s] if you see one particular URL is
+- [605360.00s] commonly cited over and over across all
+- [607600.00s] the AI platforms, that should be your
+- [610000.00s] number one priority because now we have
+- [611920.00s] overwhelming evidence that whatever that
+- [614480.00s] URL is that the AI continues to just use
+- [617519.00s] as it's one of its core feeding sources,
+- [620320.00s] let's call it, that means it's really
+- [622640.00s] important. Okay? And so you prioritize
+- [624800.00s] your whole list based on the citations
+- [626959.00s] that have the biggest presence across
+- [629040.00s] these platforms. Okay? And then from
+- [631519.00s] there, you just got to execute. You got
+- [632959.00s] develop marketing plan to actually go
+- [635200.00s] and get those brand placements. Now,
+- [637279.00s] here's the thing. It doesn't have to be
+- [638800.00s] you don't have to be a marketing genius
+- [640480.00s] to do this. All you have to do is reach
+- [642959.00s] out and just say paid collaboration. Do
+- [646160.00s] you accept sponsored posts? I'm
+- [648560.00s] interested in advertising. That is it.
+- [651680.00s] Just lead with money as the core value
+- [654959.00s] proposition and that is all you have to
+- [657760.00s] do because at the end of the day your
+- [659680.00s] brand getting mentioned it does not
+- [662000.00s] matter whether it's appears as an ad
+- [664800.00s] directly like it can literally be an
+- [666880.00s] advertisement that is equally as
+- [669040.00s] effective as it being organic okay
+- [671519.00s] there's no evidence that the AI
+- [673120.00s] discriminates in any way all that
+- [675120.00s] matters is that your brand is showing up
+- [677760.00s] in the core sources of retrieval
